@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.local
+lecture-studio/frontend/dist/
+lecture-studio/frontend/.vite/
+.DS_Store
+Thumbs.db
+venv/
+.venv/
+*.sqlite-wal
+*.sqlite-shm
+환경변수_API키_가이드.md

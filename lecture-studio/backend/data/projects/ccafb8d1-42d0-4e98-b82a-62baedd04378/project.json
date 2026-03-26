@@ -1,0 +1,5373 @@
+{
+  "id": "ccafb8d1-42d0-4e98-b82a-62baedd04378",
+  "title": "새 프로젝트",
+  "created_at": "2026-03-25T19:25:03.487139",
+  "updated_at": "2026-03-26T13:23:10.586698",
+  "settings": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 30,
+    "font_family": "Pretendard Variable",
+    "export_preset": "standard"
+  },
+  "script": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "paragraph"
+      }
+    ]
+  },
+  "slides": [
+    {
+      "id": "tpl-pr-01",
+      "order": 0,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "pr1-bar",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 8
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr1-univ",
+          "type": "image",
+          "position": {
+            "x": 1540,
+            "y": 24,
+            "width": 340,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {},
+          "content": "/khu-logo.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr1-type-bg",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 300,
+            "width": 180,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f",
+            "borderRadius": "4px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr1-type",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 305,
+            "width": 180,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "color": "#ffffff",
+            "textAlign": "center",
+            "letterSpacing": "3px"
+          },
+          "content": "TOPIK II",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 150,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr1-title",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 370,
+            "width": 1400,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "72px",
+            "fontWeight": "800",
+            "color": "#1e293b",
+            "textAlign": "left"
+          },
+          "content": "읽기 – 4차시",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 600,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr1-line",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 520,
+            "width": 120,
+            "height": 4
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#3b82f6",
+            "borderRadius": "2px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr1-sub",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 560,
+            "width": 1200,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "color": "#475569",
+            "textAlign": "left"
+          },
+          "content": "필자의 태도 고르기 · 읽기 유형 10",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr1-meta-line",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 880,
+            "width": 1680,
+            "height": 1
+          },
+          "rotation": 0,
+          "opacity": 0.1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e293b"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr1-author",
+          "type": "text",
+          "position": {
+            "x": 1300,
+            "y": 900,
+            "width": 500,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.4,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "color": "#475569",
+            "textAlign": "right"
+          },
+          "content": "경희사이버대학교 한국어학부",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 700,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr1-deco",
+          "type": "text",
+          "position": {
+            "x": 1820,
+            "y": 200,
+            "width": 40,
+            "height": 600
+          },
+          "rotation": 0,
+          "opacity": 0.035,
+          "zIndex": 1,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "800",
+            "color": "#1e3a5f",
+            "textAlign": "center",
+            "lineHeight": "2.5"
+          },
+          "content": "T\nO\nP\nI\nK\n\nI\nI",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 800,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-pr-02",
+      "order": 1,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "pr2-bar",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 8
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr2-univ",
+          "type": "image",
+          "position": {
+            "x": 1540,
+            "y": 24,
+            "width": 340,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {},
+          "content": "/khu-logo.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr2-page",
+          "type": "text",
+          "position": {
+            "x": 1800,
+            "y": 1020,
+            "width": 60,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.3,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "right"
+          },
+          "content": "02",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr2-n1-bg",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 80,
+            "width": 56,
+            "height": 56
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f",
+            "borderRadius": "8px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 50,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr2-n1",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 85,
+            "width": 56,
+            "height": 46
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "800",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "1",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 80,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr2-h1",
+          "type": "text",
+          "position": {
+            "x": 200,
+            "y": 80,
+            "width": 600,
+            "height": 56
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#1e293b",
+            "textAlign": "left"
+          },
+          "content": "학습 목표",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr2-obj-bg",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 160,
+            "width": 1680,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f8fafc",
+            "borderRadius": "12px",
+            "borderColor": "#e2e8f0",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 150,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr2-obj1",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 190,
+            "width": 1580,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "1) 필자의 태도에 대한 다양한 어휘를 이해할 수 있다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr2-obj2",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 260,
+            "width": 1580,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "1.5"
+          },
+          "content": "2) 읽기 유형 10(필자의 태도 고르기)의 유형을 살펴보고 이해할 수 있다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr2-div",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 420,
+            "width": 1680,
+            "height": 1
+          },
+          "rotation": 0,
+          "opacity": 0.1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#94a3b8"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr2-n2-bg",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 470,
+            "width": 56,
+            "height": 56
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f",
+            "borderRadius": "8px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr2-n2",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 475,
+            "width": 56,
+            "height": 46
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "800",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "2",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 380,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr2-h2",
+          "type": "text",
+          "position": {
+            "x": 200,
+            "y": 470,
+            "width": 600,
+            "height": 56
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#1e293b",
+            "textAlign": "left"
+          },
+          "content": "학습 내용",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr2-cnt-bg",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 550,
+            "width": 1680,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f8fafc",
+            "borderRadius": "12px",
+            "borderColor": "#e2e8f0",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr2-cnt1",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 580,
+            "width": 1580,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "1.5"
+          },
+          "content": "1) 읽기 유형 10(필자의 태도 고르기) 유형 확인 및 필자의 태도 관련 어휘 학습",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr2-cnt2",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 660,
+            "width": 1580,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "2) 읽기 유형 10(필자의 태도 고르기) 문제 풀기",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-pr-03",
+      "order": 2,
+      "duration": 8000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "pr3-bar",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 8
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr3-univ",
+          "type": "image",
+          "position": {
+            "x": 1540,
+            "y": 24,
+            "width": 340,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {},
+          "content": "/khu-logo.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr3-page",
+          "type": "text",
+          "position": {
+            "x": 1800,
+            "y": 1020,
+            "width": 60,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.3,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "right"
+          },
+          "content": "03",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr3-sec",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 28,
+            "width": 80,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#3b82f6",
+            "textAlign": "left",
+            "letterSpacing": "2px"
+          },
+          "content": "01",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 50,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr3-title",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 50,
+            "width": 1200,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#1e293b",
+            "textAlign": "left"
+          },
+          "content": "읽기 유형 10의 문제 파악",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr3-badge-bg",
+          "type": "shape",
+          "position": {
+            "x": 140,
+            "y": 140,
+            "width": 140,
+            "height": 38
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f",
+            "borderRadius": "4px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 150,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr3-badge",
+          "type": "text",
+          "position": {
+            "x": 140,
+            "y": 145,
+            "width": 140,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "17px",
+            "fontWeight": "700",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "어떤 문제",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 180,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr3-card",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 200,
+            "width": 1680,
+            "height": 760
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f8fafc",
+            "borderRadius": "12px",
+            "borderColor": "#e2e8f0",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr3-d1",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 230,
+            "width": 1580,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.85,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "● 유형: 논설문을 읽고 필자의 태도를 파악하는 유형",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr3-d2",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 300,
+            "width": 300,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.85,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "● 경향 분석",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr3-grade-bg",
+          "type": "shape",
+          "position": {
+            "x": 210,
+            "y": 350,
+            "width": 80,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#dbeafe",
+            "borderRadius": "6px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 340,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr3-grade",
+          "type": "text",
+          "position": {
+            "x": 210,
+            "y": 354,
+            "width": 80,
+            "height": 32
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "700",
+            "color": "#3b82f6",
+            "textAlign": "center"
+          },
+          "content": "6급",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 360,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr3-grade-d",
+          "type": "text",
+          "position": {
+            "x": 310,
+            "y": 354,
+            "width": 600,
+            "height": 36
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "46~47번(논설문)에서 1문제",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 380,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr3-d3",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 430,
+            "width": 1580,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 0.85,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "1.7"
+          },
+          "content": "● '유형 4의 2. 글과 일치하는 내용 고르기'와 함께 묶음형 문제로만 출제됩니다. 한 개의 지문을 읽고 두 문제를 푸는 연습을 해 두는 것이 좋습니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 420,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr3-d4",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 570,
+            "width": 1580,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 0.85,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "1.7"
+          },
+          "content": "● 필자가 글을 쓴 목적을 파악하면 태도도 알 수 있습니다. 예를 들어 '문제점을 알리기 위해' 쓴 글이라면 '지적하고 있다, 비판하고 있다' 등이 태도로 나타납니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 470,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-pr-04",
+      "order": 3,
+      "duration": 8000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "pr4-bar",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 8
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-univ",
+          "type": "image",
+          "position": {
+            "x": 1540,
+            "y": 24,
+            "width": 340,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {},
+          "content": "/khu-logo.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-page",
+          "type": "text",
+          "position": {
+            "x": 1800,
+            "y": 1020,
+            "width": 60,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.3,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "right"
+          },
+          "content": "04",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-sec",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 28,
+            "width": 80,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#3b82f6",
+            "textAlign": "left",
+            "letterSpacing": "2px"
+          },
+          "content": "01",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 50,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-title",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 50,
+            "width": 1200,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#1e293b",
+            "textAlign": "left"
+          },
+          "content": "읽기 유형 10 – 관련 어휘 학습",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-c1",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 140,
+            "width": 540,
+            "height": 440
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#fef2f2",
+            "borderRadius": "12px",
+            "borderColor": "#fecaca",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-c1-label",
+          "type": "text",
+          "position": {
+            "x": 160,
+            "y": 165,
+            "width": 200,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "color": "#dc2626",
+            "textAlign": "left"
+          },
+          "content": "ㄱ — ㅂ",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-c1-line",
+          "type": "shape",
+          "position": {
+            "x": 160,
+            "y": 200,
+            "width": 50,
+            "height": 3
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#dc2626",
+            "borderRadius": "2px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 270,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-c1-w",
+          "type": "text",
+          "position": {
+            "x": 160,
+            "y": 220,
+            "width": 460,
+            "height": 330
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "500",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "2.0"
+          },
+          "content": "가정하다 · 감탄하다\n강조하다 · 경계하다\n공감하다 · 기대하다\n동정하다 · 비판하다",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-c2",
+          "type": "shape",
+          "position": {
+            "x": 700,
+            "y": 140,
+            "width": 540,
+            "height": 440
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#eff6ff",
+            "borderRadius": "12px",
+            "borderColor": "#bfdbfe",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-c2-label",
+          "type": "text",
+          "position": {
+            "x": 740,
+            "y": 165,
+            "width": 200,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "color": "#2563eb",
+            "textAlign": "left"
+          },
+          "content": "ㅅ — ㅇ",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-c2-line",
+          "type": "shape",
+          "position": {
+            "x": 740,
+            "y": 200,
+            "width": 50,
+            "height": 3
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#2563eb",
+            "borderRadius": "2px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 370,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-c2-w",
+          "type": "text",
+          "position": {
+            "x": 740,
+            "y": 220,
+            "width": 460,
+            "height": 330
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "500",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "2.0"
+          },
+          "content": "설득하다 · 설명하다\n수긍하다 · 역설하다\n염려하다 · 옹호하다\n요구하다 · 우려하다",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-c3",
+          "type": "shape",
+          "position": {
+            "x": 1280,
+            "y": 140,
+            "width": 540,
+            "height": 440
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f0fdf4",
+            "borderRadius": "12px",
+            "borderColor": "#bbf7d0",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-c3-label",
+          "type": "text",
+          "position": {
+            "x": 1320,
+            "y": 165,
+            "width": 200,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "700",
+            "color": "#16a34a",
+            "textAlign": "left"
+          },
+          "content": "ㅇ — ㅎ",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-c3-line",
+          "type": "shape",
+          "position": {
+            "x": 1320,
+            "y": 200,
+            "width": 50,
+            "height": 3
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#16a34a",
+            "borderRadius": "2px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 470,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-c3-w",
+          "type": "text",
+          "position": {
+            "x": 1320,
+            "y": 220,
+            "width": 460,
+            "height": 330
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "500",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "2.0"
+          },
+          "content": "예상하다 · 예측하다\n인정하다 · 주장하다\n제안하다 · 제기하다\n지적하다 · 평가하다\n회의적이다",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-etc-bg",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 620,
+            "width": 1700,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f8fafc",
+            "borderRadius": "12px",
+            "borderColor": "#e2e8f0",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 520,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-etc-l",
+          "type": "text",
+          "position": {
+            "x": 160,
+            "y": 635,
+            "width": 100,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.4,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#64748b",
+            "textAlign": "left",
+            "letterSpacing": "1px"
+          },
+          "content": "기타",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 540,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr4-etc",
+          "type": "text",
+          "position": {
+            "x": 160,
+            "y": 670,
+            "width": 1620,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.6,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "color": "#475569",
+            "textAlign": "left"
+          },
+          "content": "감탄하다 · 예측하다 · 인정하다 · 제기하다 · 기인하다 · 역설하다",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 560,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-pr-05",
+      "order": 4,
+      "duration": 10000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "pr5-bar",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 8
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr5-univ",
+          "type": "image",
+          "position": {
+            "x": 1540,
+            "y": 24,
+            "width": 340,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {},
+          "content": "/khu-logo.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr5-page",
+          "type": "text",
+          "position": {
+            "x": 1800,
+            "y": 1020,
+            "width": 60,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.3,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "right"
+          },
+          "content": "05",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr5-sec",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 28,
+            "width": 80,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#3b82f6",
+            "textAlign": "left",
+            "letterSpacing": "2px"
+          },
+          "content": "01",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 50,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr5-title",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 50,
+            "width": 1200,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#1e293b",
+            "textAlign": "left"
+          },
+          "content": "읽기 유형 10의 문제 확인",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr5-inst",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 115,
+            "width": 1600,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.6,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "500",
+            "color": "#475569",
+            "textAlign": "left"
+          },
+          "content": "윗글에 나타난 필자의 태도로 가장 알맞은 것을 고르십시오.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 150,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr5-pass-bg",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 160,
+            "width": 1680,
+            "height": 520
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f8fafc",
+            "borderRadius": "12px",
+            "borderColor": "#e2e8f0",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr5-pass-bar",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 160,
+            "width": 5,
+            "height": 520
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#3b82f6",
+            "borderRadius": "3px 0 0 3px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 220,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr5-pass",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 180,
+            "width": 1580,
+            "height": 480
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "2.0"
+          },
+          "content": "근로 빈곤층이란 일을 해도 빈곤한 상태를 벗어나지 못하는 가난한 사회계층을 지칭한다. 이들은 취업을 해서 일을 하고 있음에도 불구하고 저축할 여력이 없는 사람들이다. 저축을 할 수 없기 때문에 일시적 질병 또는 실직이 절대빈곤으로 직결된다는 문제점을 갖고 있다. 과거에는 빈곤을 노동하지 않거나 과다한 지출을 하는 등 개인의 탓에 기인한 문제라고 여겨지만, 오늘날의 빈곤은 글로벌 금융위기와 같이 개인의 범위를 넘어서서 발생하는 것으로 요인이 확대되었다. 경제 위기는 곧바로 대량 실업 사태로 이어져 근로 빈곤층을 형성하는 주된 원인이 된다. 고용불안에 따른 사회 구조적 악순환의 고리가 결국에는 최저생계비 이하로 몰락하는 이들을 대량으로 양산하고 마는 것이다. 이제는 국가가 나서서 개인의 능력을 최대한 개발하고 역량을 발휘할 수 있도록 지원하는 제도적 장치를 마련해 주어야만 한다. 국세청의 근로장려금 제도나 보건복지가족부가 시행하고 있는 '재산 담보부 생계비 융자지원' 사업 등이 좋은 예가 될 것이다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr5-c1",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 720,
+            "width": 1580,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "1) 최저생계비를 주는 고용주를 비판하고 있다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr5-c2",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 780,
+            "width": 1580,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "2) 개인의 빈곤을 국가가 지원해야 한다고 강조하고 있다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr5-c3",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 840,
+            "width": 1580,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "3) 근로 빈곤층이 곧 사라질 것을 긍정적으로 예상하고 있다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr5-c4",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 900,
+            "width": 1580,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "4) 근로 빈곤층의 최저생계비가 더 떨어질 것을 우려하고 있다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-pr-06",
+      "order": 5,
+      "duration": 8000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "pr6-bar",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 8
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-univ",
+          "type": "image",
+          "position": {
+            "x": 1540,
+            "y": 24,
+            "width": 340,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {},
+          "content": "/khu-logo.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-page",
+          "type": "text",
+          "position": {
+            "x": 1800,
+            "y": 1020,
+            "width": 60,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.3,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "right"
+          },
+          "content": "06",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-sec",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 28,
+            "width": 80,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#3b82f6",
+            "textAlign": "left",
+            "letterSpacing": "2px"
+          },
+          "content": "02",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 50,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-title",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 50,
+            "width": 1200,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#1e293b",
+            "textAlign": "left"
+          },
+          "content": "읽기 유형 10의 문제 풀이",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-sub",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 115,
+            "width": 400,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.6,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "600",
+            "color": "#475569",
+            "textAlign": "left"
+          },
+          "content": "어휘 및 표현 확인",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 130,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-card",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 160,
+            "width": 1680,
+            "height": 800
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f8fafc",
+            "borderRadius": "12px",
+            "borderColor": "#e2e8f0",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 150,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-v1k",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 190,
+            "width": 200,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#dc2626",
+            "textAlign": "left"
+          },
+          "content": "빈곤(하다):",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-v1d",
+          "type": "text",
+          "position": {
+            "x": 390,
+            "y": 190,
+            "width": 1360,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "가난하여 생활하기가 어렵다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-v2k",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 270,
+            "width": 240,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#dc2626",
+            "textAlign": "left"
+          },
+          "content": "에도 불구하고:",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-v2d",
+          "type": "text",
+          "position": {
+            "x": 430,
+            "y": 270,
+            "width": 1320,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "1.5"
+          },
+          "content": "앞말의 내용에서 기대할 수 있는 것과 다르거나 반대되는 사실이 뒤에 옴을 나타내는 표현.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-v3k",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 370,
+            "width": 100,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#dc2626",
+            "textAlign": "left"
+          },
+          "content": "여력:",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-v3d",
+          "type": "text",
+          "position": {
+            "x": 280,
+            "y": 370,
+            "width": 1470,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "어떤 일을 하고 난 뒤 또 다른 일을 할 수 있을 만큼 남아 있는 힘이나 능력.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-v4k",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 450,
+            "width": 200,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#dc2626",
+            "textAlign": "left"
+          },
+          "content": "과다(하다):",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-v4d",
+          "type": "text",
+          "position": {
+            "x": 390,
+            "y": 450,
+            "width": 1360,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "지나치게 많다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-v5k",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 530,
+            "width": 200,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#dc2626",
+            "textAlign": "left"
+          },
+          "content": "기인(하다):",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-v5d",
+          "type": "text",
+          "position": {
+            "x": 390,
+            "y": 530,
+            "width": 1360,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "어떤 사건이나 현상 등이 어떤 일에 원인을 두다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-v6k",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 610,
+            "width": 170,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#dc2626",
+            "textAlign": "left"
+          },
+          "content": "-고 말다:",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-v6d",
+          "type": "text",
+          "position": {
+            "x": 360,
+            "y": 610,
+            "width": 1390,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "앞에 오는 말이 가리키는 행동이 안타깝게도 끝내 일어났음을 나타내는 표현.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-v7k",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 690,
+            "width": 170,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#dc2626",
+            "textAlign": "left"
+          },
+          "content": "시행하다:",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr6-v7d",
+          "type": "text",
+          "position": {
+            "x": 360,
+            "y": 690,
+            "width": 1390,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "법률이나 명령 등을 일반 대중에게 알린 뒤에 실제로 그 효력을 나타내다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-pr-07",
+      "order": 6,
+      "duration": 8000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "pr7-bar",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 8
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr7-univ",
+          "type": "image",
+          "position": {
+            "x": 1540,
+            "y": 24,
+            "width": 340,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {},
+          "content": "/khu-logo.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr7-page",
+          "type": "text",
+          "position": {
+            "x": 1800,
+            "y": 1020,
+            "width": 60,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.3,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "right"
+          },
+          "content": "07",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr7-sec",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 28,
+            "width": 80,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#3b82f6",
+            "textAlign": "left",
+            "letterSpacing": "2px"
+          },
+          "content": "02",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 50,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr7-title",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 50,
+            "width": 1200,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#1e293b",
+            "textAlign": "left"
+          },
+          "content": "읽기 유형 10의 문제 풀이",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr7-sub",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 115,
+            "width": 400,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.6,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "600",
+            "color": "#475569",
+            "textAlign": "left"
+          },
+          "content": "어휘 및 표현 확인",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 130,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr7-card",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 160,
+            "width": 1680,
+            "height": 800
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f8fafc",
+            "borderRadius": "12px",
+            "borderColor": "#e2e8f0",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 150,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr7-q1",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 200,
+            "width": 1580,
+            "height": 45
+          },
+          "rotation": 0,
+          "opacity": 0.85,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "1. 민준은 지갑을 손에 들고 다니다가 ____________. (잃어버리다)",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr7-q2",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 290,
+            "width": 1580,
+            "height": 45
+          },
+          "rotation": 0,
+          "opacity": 0.85,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "2. 국회는 다음 달부터 새로운 법안을 _____________-기로 결정했다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr7-q3",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 380,
+            "width": 1580,
+            "height": 45
+          },
+          "rotation": 0,
+          "opacity": 0.85,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "3. _____________-(으)ㄴ/는 시험 스트레스로 잠을 못 잘 지경이었다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr7-q4",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 470,
+            "width": 1580,
+            "height": 45
+          },
+          "rotation": 0,
+          "opacity": 0.85,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "4. _____________ 공원에는 나들이 나온 가족들로 붐볐다. (추운 날씨)",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr7-q5",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 560,
+            "width": 1580,
+            "height": 45
+          },
+          "rotation": 0,
+          "opacity": 0.85,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "5. 오늘 하루 아무것도 안 먹었더니 움직일 _____________ 이/가 없다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr7-q6",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 650,
+            "width": 1580,
+            "height": 45
+          },
+          "rotation": 0,
+          "opacity": 0.85,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "6. _____________-아/어서 난방을 못 하고 추위에 떠는 노인들이 많대요.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr7-q7",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 740,
+            "width": 1580,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.85,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "1.5"
+          },
+          "content": "7. 그 교통사고는 운전자의 음주 운전에 _____________-(으)ㄴ/는 것으로 결론이 났다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-pr-08",
+      "order": 7,
+      "duration": 8000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "pr8-bar",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 8
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-univ",
+          "type": "image",
+          "position": {
+            "x": 1540,
+            "y": 24,
+            "width": 340,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {},
+          "content": "/khu-logo.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-page",
+          "type": "text",
+          "position": {
+            "x": 1800,
+            "y": 1020,
+            "width": 60,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.3,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "right"
+          },
+          "content": "08",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-sec",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 28,
+            "width": 80,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#3b82f6",
+            "textAlign": "left",
+            "letterSpacing": "2px"
+          },
+          "content": "02",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 50,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-title",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 50,
+            "width": 1200,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#1e293b",
+            "textAlign": "left"
+          },
+          "content": "읽기 유형 10의 문제 풀이",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-sub",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 115,
+            "width": 300,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.6,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "600",
+            "color": "#475569",
+            "textAlign": "left"
+          },
+          "content": "단계별 풀이",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 130,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s1",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 160,
+            "width": 860,
+            "height": 800
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#eff6ff",
+            "borderRadius": "12px",
+            "borderColor": "#bfdbfe",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 150,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s1-bg",
+          "type": "shape",
+          "position": {
+            "x": 160,
+            "y": 190,
+            "width": 120,
+            "height": 38
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f",
+            "borderRadius": "4px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s1-label",
+          "type": "text",
+          "position": {
+            "x": 160,
+            "y": 194,
+            "width": 120,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "STEP 01",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 220,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s1-t",
+          "type": "text",
+          "position": {
+            "x": 300,
+            "y": 190,
+            "width": 600,
+            "height": 38
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "700",
+            "color": "#1e293b",
+            "textAlign": "left"
+          },
+          "content": "글을 쓴 목적 파악하기",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s1-d",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 270,
+            "width": 780,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "1.7"
+          },
+          "content": "글을 쓴 목적은 '-어야 하다' 같은 말 앞에 나타납니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s1-q-bg",
+          "type": "shape",
+          "position": {
+            "x": 170,
+            "y": 400,
+            "width": 780,
+            "height": 150
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "8px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s1-q-bar",
+          "type": "shape",
+          "position": {
+            "x": 170,
+            "y": 400,
+            "width": 4,
+            "height": 150
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 4,
+          "style": {
+            "backgroundColor": "#3b82f6",
+            "borderRadius": "2px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 370,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s1-q",
+          "type": "text",
+          "position": {
+            "x": 200,
+            "y": 420,
+            "width": 720,
+            "height": 110
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "color": "#1d4ed8",
+            "textAlign": "left",
+            "lineHeight": "1.6"
+          },
+          "content": "→ 필자는 개인의 빈곤을 '국가'가 해결해 주어야 한다고 주장하고 있습니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s2",
+          "type": "shape",
+          "position": {
+            "x": 1020,
+            "y": 160,
+            "width": 800,
+            "height": 800
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#fef3c7",
+            "borderRadius": "12px",
+            "borderColor": "#fde68a",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s2-bg",
+          "type": "shape",
+          "position": {
+            "x": 1060,
+            "y": 190,
+            "width": 120,
+            "height": 38
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f",
+            "borderRadius": "4px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s2-label",
+          "type": "text",
+          "position": {
+            "x": 1060,
+            "y": 194,
+            "width": 120,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "STEP 02",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 320,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s2-t",
+          "type": "text",
+          "position": {
+            "x": 1200,
+            "y": 190,
+            "width": 500,
+            "height": 38
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "700",
+            "color": "#1e293b",
+            "textAlign": "left"
+          },
+          "content": "선택지 확인하기",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s2-c1",
+          "type": "text",
+          "position": {
+            "x": 1060,
+            "y": 270,
+            "width": 720,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "1.5"
+          },
+          "content": "① 비판 대상은 사회 구조입니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s2-c2",
+          "type": "text",
+          "position": {
+            "x": 1060,
+            "y": 340,
+            "width": 720,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "1.6"
+          },
+          "content": "② '개인의 빈곤'은 개인의 범위를 넘어서서 발생하는 것으로 확대되었으며 '국가가 나서서 제도적 장치를 마련해 주어야 한다'고 주장합니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s2-c3",
+          "type": "text",
+          "position": {
+            "x": 1060,
+            "y": 490,
+            "width": 720,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "1.5"
+          },
+          "content": "③ 근로 빈곤층이 더 늘어날 것을 예고하고 있습니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr8-s2-c4",
+          "type": "text",
+          "position": {
+            "x": 1060,
+            "y": 560,
+            "width": 720,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "1.5"
+          },
+          "content": "④ 최저생계비에 대해서 언급하지 않았습니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-pr-09",
+      "order": 8,
+      "duration": 10000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "pr9-bar",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 8
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr9-univ",
+          "type": "image",
+          "position": {
+            "x": 1540,
+            "y": 24,
+            "width": 340,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {},
+          "content": "/khu-logo.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr9-page",
+          "type": "text",
+          "position": {
+            "x": 1800,
+            "y": 1020,
+            "width": 60,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.3,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "right"
+          },
+          "content": "09",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr9-sec",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 28,
+            "width": 80,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#3b82f6",
+            "textAlign": "left",
+            "letterSpacing": "2px"
+          },
+          "content": "02",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 50,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr9-title",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 50,
+            "width": 600,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#1e293b",
+            "textAlign": "left"
+          },
+          "content": "전체 풀이",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr9-pass-bg",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 130,
+            "width": 1040,
+            "height": 840
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f8fafc",
+            "borderRadius": "12px",
+            "borderColor": "#e2e8f0",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 150,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr9-pass-bar",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 130,
+            "width": 5,
+            "height": 840
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#3b82f6",
+            "borderRadius": "3px 0 0 3px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 170,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr9-pass",
+          "type": "text",
+          "position": {
+            "x": 160,
+            "y": 150,
+            "width": 970,
+            "height": 800
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "2.0"
+          },
+          "content": "근로 빈곤층이란 일을 해도 빈곤한 상태를 벗어나지 못하는 가난한 사회계층을 지칭한다. 이들은 취업을 해서 일을 하고 있음에도 불구하고 저축할 여력이 없는 사람들이다. 저축을 할 수 없기 때문에 일시적 질병 또는 실직이 절대빈곤으로 직결된다는 문제점을 갖고 있다.\n\n과거에는 빈곤을 노동하지 않거나 과다한 지출을 하는 등 개인의 탓에 기인한 문제라고 여겨지만, 오늘날의 빈곤은 글로벌 금융위기와 같이 개인의 범위를 넘어서서 발생하는 것으로 요인이 확대되었다.\n\n이제는 국가가 나서서 개인의 능력을 최대한 개발하고 역량을 발휘할 수 있도록 지원하는 제도적 장치를 마련해 주어야만 한다. 국세청의 근로장려금 제도나 보건복지가족부가 시행하고 있는 사업 등이 좋은 예가 될 것이다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr9-c1",
+          "type": "text",
+          "position": {
+            "x": 1210,
+            "y": 150,
+            "width": 680,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 0.4,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "① 비판하고 있다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr9-c2-bg",
+          "type": "shape",
+          "position": {
+            "x": 1200,
+            "y": 220,
+            "width": 690,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#dcfce7",
+            "borderRadius": "8px",
+            "borderColor": "#22c55e",
+            "borderWidth": 2
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr9-c2",
+          "type": "text",
+          "position": {
+            "x": 1220,
+            "y": 230,
+            "width": 660,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "600",
+            "color": "#16a34a",
+            "textAlign": "left"
+          },
+          "content": "② 강조하고 있다.  ✓",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr9-c3",
+          "type": "text",
+          "position": {
+            "x": 1210,
+            "y": 310,
+            "width": 680,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 0.4,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "③ 긍정적으로 예상하고 있다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr9-c4",
+          "type": "text",
+          "position": {
+            "x": 1210,
+            "y": 380,
+            "width": 680,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 0.4,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "④ 우려하고 있다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr9-explain-bg",
+          "type": "shape",
+          "position": {
+            "x": 1200,
+            "y": 480,
+            "width": 690,
+            "height": 490
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#1e3a5f",
+            "borderRadius": "12px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr9-explain-l",
+          "type": "text",
+          "position": {
+            "x": 1240,
+            "y": 500,
+            "width": 200,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#94a3b8",
+            "textAlign": "left",
+            "letterSpacing": "2px"
+          },
+          "content": "해설",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr9-explain",
+          "type": "text",
+          "position": {
+            "x": 1240,
+            "y": 540,
+            "width": 610,
+            "height": 400
+          },
+          "rotation": 0,
+          "opacity": 0.85,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "color": "#e2e8f0",
+            "textAlign": "left",
+            "lineHeight": "1.8"
+          },
+          "content": "필자는 \"-어야 하다\"라는 당위 표현을 사용하여 국가의 제도적 지원을 강조하고 있습니다.\n\n① 비판 대상은 고용주가 아닌 사회 구조\n② 국가 지원을 강조 → 정답\n③ 빈곤층 증가를 예고(긍정 아님)\n④ 최저생계비 언급 없음",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 650,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-pr-10",
+      "order": 9,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "pr10-bar",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 8
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-univ",
+          "type": "image",
+          "position": {
+            "x": 1540,
+            "y": 24,
+            "width": 340,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {},
+          "content": "/khu-logo.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-page",
+          "type": "text",
+          "position": {
+            "x": 1800,
+            "y": 1020,
+            "width": 60,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.3,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "right"
+          },
+          "content": "10",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-title",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 50,
+            "width": 600,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#1e293b",
+            "textAlign": "left"
+          },
+          "content": "4차시 정리",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-c1",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 140,
+            "width": 540,
+            "height": 440
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#eff6ff",
+            "borderRadius": "12px",
+            "borderColor": "#bfdbfe",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-c1-l-bg",
+          "type": "shape",
+          "position": {
+            "x": 160,
+            "y": 165,
+            "width": 300,
+            "height": 36
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#3b82f6",
+            "borderRadius": "4px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-c1-l",
+          "type": "text",
+          "position": {
+            "x": 160,
+            "y": 170,
+            "width": 300,
+            "height": 26
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "유형 분석 / 어휘 학습",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 270,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-c1-items",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 230,
+            "width": 460,
+            "height": 300
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "2.0"
+          },
+          "content": "•  유형 확인 / 설명\n•  관련 어휘 학습\n•  문제 확인",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-c2",
+          "type": "shape",
+          "position": {
+            "x": 700,
+            "y": 140,
+            "width": 540,
+            "height": 440
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#fef3c7",
+            "borderRadius": "12px",
+            "borderColor": "#fde68a",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-c2-l-bg",
+          "type": "shape",
+          "position": {
+            "x": 740,
+            "y": 165,
+            "width": 260,
+            "height": 36
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#f59e0b",
+            "borderRadius": "4px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-c2-l",
+          "type": "text",
+          "position": {
+            "x": 740,
+            "y": 170,
+            "width": 260,
+            "height": 26
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "문제 확인",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 370,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-c2-items",
+          "type": "text",
+          "position": {
+            "x": 750,
+            "y": 230,
+            "width": 460,
+            "height": 300
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "2.0"
+          },
+          "content": "•  어휘 및 표현 확인\n•  어휘 및 표현 학습\n•  문제 풀이",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-c3",
+          "type": "shape",
+          "position": {
+            "x": 1280,
+            "y": 140,
+            "width": 540,
+            "height": 440
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f0fdf4",
+            "borderRadius": "12px",
+            "borderColor": "#bbf7d0",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-c3-l-bg",
+          "type": "shape",
+          "position": {
+            "x": 1320,
+            "y": 165,
+            "width": 260,
+            "height": 36
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#22c55e",
+            "borderRadius": "4px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-c3-l",
+          "type": "text",
+          "position": {
+            "x": 1320,
+            "y": 170,
+            "width": 260,
+            "height": 26
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "700",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "단계별 풀이",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 470,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-c3-items",
+          "type": "text",
+          "position": {
+            "x": 1330,
+            "y": 230,
+            "width": 460,
+            "height": 300
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left",
+            "lineHeight": "2.0"
+          },
+          "content": "•  [1단계] 목적 파악하기\n•  [2단계] 선택지 확인하기\n•  목적 → 태도 연결",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-hw-bg",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 640,
+            "width": 1700,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f8fafc",
+            "borderRadius": "40px",
+            "borderColor": "#e2e8f0",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr10-hw",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 658,
+            "width": 1600,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.6,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "500",
+            "color": "#475569",
+            "textAlign": "center"
+          },
+          "content": "과제: 오늘 배운 유형 복습 · 모르는 단어 사전에서 정리하기",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-pr-11",
+      "order": 10,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "pr11-bar",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 8
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr11-univ",
+          "type": "image",
+          "position": {
+            "x": 1540,
+            "y": 24,
+            "width": 340,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {},
+          "content": "/khu-logo.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr11-page",
+          "type": "text",
+          "position": {
+            "x": 1800,
+            "y": 1020,
+            "width": 60,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 0.3,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "right"
+          },
+          "content": "11",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr11-n1-bg",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 80,
+            "width": 56,
+            "height": 56
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f",
+            "borderRadius": "8px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 50,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr11-n1",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 85,
+            "width": 56,
+            "height": 46
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "800",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "1",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 80,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr11-h1",
+          "type": "text",
+          "position": {
+            "x": 200,
+            "y": 80,
+            "width": 600,
+            "height": 56
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#1e293b",
+            "textAlign": "left"
+          },
+          "content": "과제 안내",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr11-hw1",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 170,
+            "width": 1580,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "1) 오늘 배운 유형 복습하기",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr11-hw2",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 230,
+            "width": 1580,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "2) 모르는 단어와 표현 사전 찾아 공책에 정리하기",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr11-div",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 350,
+            "width": 1680,
+            "height": 1
+          },
+          "rotation": 0,
+          "opacity": 0.1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#94a3b8"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 200,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr11-n2-bg",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 410,
+            "width": 56,
+            "height": 56
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#1e3a5f",
+            "borderRadius": "8px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr11-n2",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 415,
+            "width": 56,
+            "height": 46
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "800",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "2",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 380,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr11-h2",
+          "type": "text",
+          "position": {
+            "x": 200,
+            "y": 410,
+            "width": 800,
+            "height": 56
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#1e293b",
+            "textAlign": "left"
+          },
+          "content": "다음 차시 안내",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr11-nx1",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 500,
+            "width": 1580,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "1) 53번 유형(표 또는 그래프 분석하기) 분석과 학습 전략",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr11-nx2",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 560,
+            "width": 1580,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "2) 54번 유형(주제에 대해 글 쓰기) 분석과 학습 전략",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr11-nx3",
+          "type": "text",
+          "position": {
+            "x": 170,
+            "y": 620,
+            "width": 1580,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "26px",
+            "fontWeight": "400",
+            "color": "#334155",
+            "textAlign": "left"
+          },
+          "content": "3) 원고지 사용법",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-pr-12",
+      "order": 11,
+      "duration": 4000,
+      "background": {
+        "type": "solid",
+        "value": "#1e3a5f"
+      },
+      "elements": [
+        {
+          "id": "pr12-univ",
+          "type": "image",
+          "position": {
+            "x": 1540,
+            "y": 24,
+            "width": 340,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 0.6,
+          "zIndex": 10,
+          "style": {},
+          "content": "/khu-logo.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr12-thanks",
+          "type": "text",
+          "position": {
+            "x": 260,
+            "y": 360,
+            "width": 1400,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "96px",
+            "fontWeight": "800",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "감사합니다",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 600,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr12-line",
+          "type": "shape",
+          "position": {
+            "x": 860,
+            "y": 510,
+            "width": 200,
+            "height": 3
+          },
+          "rotation": 0,
+          "opacity": 0.3,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "2px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr12-sub",
+          "type": "text",
+          "position": {
+            "x": 460,
+            "y": 550,
+            "width": 1000,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.4,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#94a3b8",
+            "textAlign": "center"
+          },
+          "content": "경희사이버대학교 한국어학부",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr12-tl-h",
+          "type": "shape",
+          "position": {
+            "x": 100,
+            "y": 100,
+            "width": 80,
+            "height": 2
+          },
+          "rotation": 0,
+          "opacity": 0.15,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#ffffff"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr12-tl-v",
+          "type": "shape",
+          "position": {
+            "x": 100,
+            "y": 100,
+            "width": 2,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 0.15,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#ffffff"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr12-br-h",
+          "type": "shape",
+          "position": {
+            "x": 1740,
+            "y": 900,
+            "width": 80,
+            "height": 2
+          },
+          "rotation": 0,
+          "opacity": 0.15,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#ffffff"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "pr12-br-v",
+          "type": "shape",
+          "position": {
+            "x": 1818,
+            "y": 822,
+            "width": 2,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 0.15,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#ffffff"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    }
+  ],
+  "timeline": {
+    "total_duration": 0,
+    "audio_tracks": [],
+    "subtitle_track": []
+  },
+  "chat_history": []
+}

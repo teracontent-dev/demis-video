@@ -1,0 +1,26 @@
+{
+  "id": "ce3673bd-b63e-4e80-aca1-a0acbe73a765",
+  "title": "새 강의",
+  "created_at": "2026-03-23T15:12:27.039076",
+  "updated_at": "2026-03-23T15:12:27.039082",
+  "settings": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 30,
+    "font_family": "Pretendard Variable",
+    "export_preset": "standard"
+  },
+  "script": {
+    "type": "doc",
+    "content": []
+  },
+  "slides": [],
+  "timeline": {
+    "total_duration": 0,
+    "audio_tracks": [],
+    "subtitle_track": []
+  },
+  "chat_history": []
+}

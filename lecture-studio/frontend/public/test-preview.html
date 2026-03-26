@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head><title>Engine Test</title></head>
+<body style="margin:0;background:#333;padding:20px;">
+<h3 style="color:white;">Slide Engine Direct Test</h3>
+<div style="width:576px;height:324px;overflow:hidden;border:2px solid #4ade80;">
+  <iframe id="engine" src="/slide-engine/index.html"
+    style="width:1920px;height:1080px;border:none;transform:scale(0.3);transform-origin:top left;">
+  </iframe>
+</div>
+<p id="status" style="color:yellow;margin-top:10px;">Loading engine...</p>
+<pre id="log" style="color:#aaa;font-size:12px;margin-top:10px;max-height:300px;overflow:auto;"></pre>
+<script>
+function log(msg) {
+  document.getElementById('log').textContent += msg + '\n';
+}
+
+const iframe = document.getElementById('engine');
+iframe.onload = function() {
+  log('iframe onload fired');
+
+  setTimeout(() => {
+    const testData = {
+      slides: [{
+        id: 'test-1', order: 0, duration: 5000,
+        background: { type: 'solid', value: '#0a0a0a' },
+        elements: [
+          { id: 'e1', type: 'text', position: { x: 200, y: 200, width: 1500, height: 100 }, rotation: 0, opacity: 1, zIndex: 10,
+            style: { fontSize: '72px', fontWeight: '700', color: '#4ade80', textAlign: 'center' },
+            content: 'TEST - 이게 보이면 엔진 정상', animation: { enter: { type: 'fadeIn', duration: 500, delay: 0, easing: 'ease-out' } } },
+          { id: 'e2', type: 'shape', position: { x: 100, y: 400, width: 600, height: 300 }, rotation: 0, opacity: 1, zIndex: 5,
+            style: { backgroundColor: '#4ade80', borderRadius: '20px' }, content: '',
+            animation: { enter: { type: 'fadeIn', duration: 500, delay: 200, easing: 'ease-out' } } },
+          { id: 'e3', type: 'text', position: { x: 800, y: 500, width: 800, height: 80 }, rotation: 0, opacity: 1, zIndex: 10,
+            style: { fontSize: '48px', fontWeight: '600', color: '#ffffff', textAlign: 'left' },
+            content: '녹색 사각형이 왼쪽에 보여야 함', animation: { enter: { type: 'fadeIn', duration: 500, delay: 300, easing: 'ease-out' } } },
+        ],
+        transition: { type: 'fade', duration: 500, easing: 'ease-out' }, notes: ''
+      }]
+    };
+
+    log('Sending LOAD_PROJECT with ' + testData.slides[0].elements.length + ' elements');
+    iframe.contentWindow.postMessage({ type: 'LOAD_PROJECT', payload: testData }, '*');
+
+    setTimeout(() => {
+      try {
+        const container = iframe.contentDocument.getElementById('slide-container');
+        log('container children: ' + container?.children.length);
+        log('innerHTML length: ' + container?.innerHTML.length);
+        if (container?.innerHTML.length > 0) {
+          log('innerHTML preview: ' + container.innerHTML.substring(0, 300));
+          document.getElementById('status').textContent = 'SUCCESS! Children: ' + container.children.length;
+          document.getElementById('status').style.color = '#4ade80';
+        } else {
+          log('EMPTY container!');
+          document.getElementById('status').textContent = 'FAIL: Container is empty';
+          document.getElementById('status').style.color = '#f87171';
+        }
+      } catch(e) {
+        log('Error: ' + e.message);
+        document.getElementById('status').textContent = 'Error: ' + e.message;
+      }
+    }, 1000);
+  }, 500);
+};
+</script>
+</body>
+</html>

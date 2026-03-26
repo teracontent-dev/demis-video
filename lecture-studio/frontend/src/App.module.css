@@ -1,0 +1,22 @@
+.app {
+  display: grid;
+  grid-template-rows: 48px 1fr;
+  grid-template-columns: 220px 1fr 360px;
+  width: 100vw;
+  height: 100vh;
+}
+
+.panelCollapsed {
+  grid-template-columns: 220px 1fr 0px;
+}
+
+.loading {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-family);
+  color: var(--text-tertiary);
+  font-size: var(--typo-t5-size);
+}

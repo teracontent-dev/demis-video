@@ -1,0 +1,597 @@
+{
+  "id": "257b5f62-9ea8-457f-95c4-6aa42ecc0f88",
+  "title": "새 강의",
+  "created_at": "2026-03-24T17:52:01.818414",
+  "updated_at": "2026-03-24T17:52:01.840326",
+  "settings": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 30,
+    "font_family": "Pretendard Variable",
+    "export_preset": "standard"
+  },
+  "script": {
+    "type": "doc",
+    "content": []
+  },
+  "slides": [
+    {
+      "id": "tpl-kpi-1",
+      "order": 0,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#0a0a0a"
+      },
+      "elements": [
+        {
+          "id": "kpi-cat",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 60,
+            "width": 300,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "color": "#4ade80",
+            "textAlign": "left",
+            "letterSpacing": "3px"
+          },
+          "content": "DASHBOARD",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-title",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 100,
+            "width": 600,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "42px",
+            "fontWeight": "700",
+            "color": "#f0f0f0",
+            "textAlign": "left"
+          },
+          "content": "2024 Q4 핵심 지표",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-k1-bg",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 220,
+            "width": 400,
+            "height": 180
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#141414",
+            "borderRadius": "12px",
+            "borderColor": "rgba(255,255,255,0.08)",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-k1-l",
+          "type": "text",
+          "position": {
+            "x": 150,
+            "y": 240,
+            "width": 200,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "color": "#f0f0f0",
+            "textAlign": "left"
+          },
+          "content": "Monthly Revenue",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-k1-v",
+          "type": "text",
+          "position": {
+            "x": 150,
+            "y": 280,
+            "width": 300,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "48px",
+            "fontWeight": "700",
+            "color": "#4ade80",
+            "textAlign": "left"
+          },
+          "content": "₩2.4B",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-k1-c",
+          "type": "text",
+          "position": {
+            "x": 150,
+            "y": 350,
+            "width": 200,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#4ade80",
+            "textAlign": "left"
+          },
+          "content": "▲ 23.5% vs Q3",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-k2-bg",
+          "type": "shape",
+          "position": {
+            "x": 560,
+            "y": 220,
+            "width": 400,
+            "height": 180
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#141414",
+            "borderRadius": "12px",
+            "borderColor": "rgba(255,255,255,0.08)",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-k2-l",
+          "type": "text",
+          "position": {
+            "x": 590,
+            "y": 240,
+            "width": 200,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "color": "#f0f0f0",
+            "textAlign": "left"
+          },
+          "content": "Active Users",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-k2-v",
+          "type": "text",
+          "position": {
+            "x": 590,
+            "y": 280,
+            "width": 300,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "48px",
+            "fontWeight": "700",
+            "color": "#60a5fa",
+            "textAlign": "left"
+          },
+          "content": "158K",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-k2-c",
+          "type": "text",
+          "position": {
+            "x": 590,
+            "y": 350,
+            "width": 200,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#60a5fa",
+            "textAlign": "left"
+          },
+          "content": "▲ 12.1% vs Q3",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-k3-bg",
+          "type": "shape",
+          "position": {
+            "x": 1000,
+            "y": 220,
+            "width": 400,
+            "height": 180
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#141414",
+            "borderRadius": "12px",
+            "borderColor": "rgba(255,255,255,0.08)",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-k3-l",
+          "type": "text",
+          "position": {
+            "x": 1030,
+            "y": 240,
+            "width": 200,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "color": "#f0f0f0",
+            "textAlign": "left"
+          },
+          "content": "NPS Score",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-k3-v",
+          "type": "text",
+          "position": {
+            "x": 1030,
+            "y": 280,
+            "width": 300,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "48px",
+            "fontWeight": "700",
+            "color": "#c084fc",
+            "textAlign": "left"
+          },
+          "content": "72",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-k3-c",
+          "type": "text",
+          "position": {
+            "x": 1030,
+            "y": 350,
+            "width": 200,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#c084fc",
+            "textAlign": "left"
+          },
+          "content": "▲ 8pts vs Q3",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-chart-bg",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 450,
+            "width": 1280,
+            "height": 320
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#141414",
+            "borderRadius": "12px",
+            "borderColor": "rgba(255,255,255,0.08)",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-ch-t",
+          "type": "text",
+          "position": {
+            "x": 160,
+            "y": 470,
+            "width": 300,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "500",
+            "color": "#f0f0f0",
+            "textAlign": "left"
+          },
+          "content": "Monthly Trend",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-b1",
+          "type": "shape",
+          "position": {
+            "x": 200,
+            "y": 620,
+            "width": 60,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "rgba(74,222,128,0.3)",
+            "borderRadius": "4px 4px 0 0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-b2",
+          "type": "shape",
+          "position": {
+            "x": 310,
+            "y": 580,
+            "width": 60,
+            "height": 160
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "rgba(74,222,128,0.4)",
+            "borderRadius": "4px 4px 0 0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-b3",
+          "type": "shape",
+          "position": {
+            "x": 420,
+            "y": 560,
+            "width": 60,
+            "height": 180
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "rgba(74,222,128,0.5)",
+            "borderRadius": "4px 4px 0 0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "kpi-b4",
+          "type": "shape",
+          "position": {
+            "x": 530,
+            "y": 520,
+            "width": 60,
+            "height": 220
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#4ade80",
+            "borderRadius": "4px 4px 0 0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 650,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    }
+  ],
+  "timeline": {
+    "total_duration": 0,
+    "audio_tracks": [],
+    "subtitle_track": []
+  },
+  "chat_history": []
+}

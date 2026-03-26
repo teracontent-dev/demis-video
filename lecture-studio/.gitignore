@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+*.pyc
+.env
+.env.local
+frontend/dist/
+frontend/.vite/
+.DS_Store
+Thumbs.db
+*.egg-info/
+venv/
+.venv/
+*.sqlite-wal
+*.sqlite-shm

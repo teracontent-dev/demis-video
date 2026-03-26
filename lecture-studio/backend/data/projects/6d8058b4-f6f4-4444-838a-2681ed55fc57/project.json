@@ -1,0 +1,1681 @@
+{
+  "id": "6d8058b4-f6f4-4444-838a-2681ed55fc57",
+  "title": "아무도 가르쳐 주지않은 청약의 진실",
+  "created_at": "2026-03-26T14:43:05.721698",
+  "updated_at": "2026-03-26T14:45:07.958441",
+  "settings": {
+    "resolution": [
+      1080,
+      1920
+    ],
+    "fps": 30,
+    "font_family": "Pretendard Variable",
+    "export_preset": "standard"
+  },
+  "script": {
+    "type": "doc",
+    "content": []
+  },
+  "slides": [
+    {
+      "id": "cheongya-1",
+      "order": 0,
+      "duration": 9153,
+      "background": {
+        "type": "solid",
+        "value": "#f0f0f0"
+      },
+      "elements": [
+        {
+          "id": "cy0-img",
+          "type": "image",
+          "position": {
+            "x": 0,
+            "y": 200,
+            "width": 1080,
+            "height": 1520
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 1,
+          "style": {},
+          "content": "/static/media/generated/6d8058b4-f6f4-4444-838a-2681ed55fc57/0e83e88b2468.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy0-top",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy0-title",
+          "type": "text",
+          "position": {
+            "x": 0,
+            "y": 50,
+            "width": 1080,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 15,
+          "style": {
+            "fontSize": "52px",
+            "fontWeight": "800",
+            "color": "#FFD700",
+            "textAlign": "center",
+            "lineHeight": "1.3"
+          },
+          "content": "형님들 그거 알아? 청약이 뭐야?",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy0-bot",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 1720,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy0-logo",
+          "type": "image",
+          "position": {
+            "x": 290,
+            "y": 1770,
+            "width": 500,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 15,
+          "style": {},
+          "content": "/static/media/joganji_logo_white.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 600,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "cheongya-2",
+      "order": 1,
+      "duration": 11314,
+      "background": {
+        "type": "solid",
+        "value": "#f0f0f0"
+      },
+      "elements": [
+        {
+          "id": "cy1-img",
+          "type": "image",
+          "position": {
+            "x": 0,
+            "y": 200,
+            "width": 1080,
+            "height": 1520
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 1,
+          "style": {},
+          "content": "/static/media/generated/6d8058b4-f6f4-4444-838a-2681ed55fc57/31f28e0ef81e.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy1-top",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy1-title",
+          "type": "text",
+          "position": {
+            "x": 0,
+            "y": 50,
+            "width": 1080,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 15,
+          "style": {
+            "fontSize": "52px",
+            "fontWeight": "800",
+            "color": "#FFD700",
+            "textAlign": "center",
+            "lineHeight": "1.3"
+          },
+          "content": "청약통장, 왜 필수일까?",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy1-bot",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 1720,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy1-logo",
+          "type": "image",
+          "position": {
+            "x": 290,
+            "y": 1770,
+            "width": 500,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 15,
+          "style": {},
+          "content": "/static/media/joganji_logo_white.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 600,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "cheongya-3",
+      "order": 2,
+      "duration": 10759,
+      "background": {
+        "type": "solid",
+        "value": "#f0f0f0"
+      },
+      "elements": [
+        {
+          "id": "cy2-img",
+          "type": "image",
+          "position": {
+            "x": 0,
+            "y": 200,
+            "width": 1080,
+            "height": 1520
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 1,
+          "style": {},
+          "content": "/static/media/generated/6d8058b4-f6f4-4444-838a-2681ed55fc57/1ef3c35d9312.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy2-top",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy2-title",
+          "type": "text",
+          "position": {
+            "x": 0,
+            "y": 50,
+            "width": 1080,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 15,
+          "style": {
+            "fontSize": "52px",
+            "fontWeight": "800",
+            "color": "#FFD700",
+            "textAlign": "center",
+            "lineHeight": "1.3"
+          },
+          "content": "매달 얼마씩 넣어야 돼?",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy2-bot",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 1720,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy2-logo",
+          "type": "image",
+          "position": {
+            "x": 290,
+            "y": 1770,
+            "width": 500,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 15,
+          "style": {},
+          "content": "/static/media/joganji_logo_white.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 600,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "cheongya-4",
+      "order": 3,
+      "duration": 12276,
+      "background": {
+        "type": "solid",
+        "value": "#f0f0f0"
+      },
+      "elements": [
+        {
+          "id": "cy3-img",
+          "type": "image",
+          "position": {
+            "x": 0,
+            "y": 200,
+            "width": 1080,
+            "height": 1520
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 1,
+          "style": {},
+          "content": "/static/media/generated/6d8058b4-f6f4-4444-838a-2681ed55fc57/8ce1cd427c78.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy3-top",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy3-title",
+          "type": "text",
+          "position": {
+            "x": 0,
+            "y": 50,
+            "width": 1080,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 15,
+          "style": {
+            "fontSize": "52px",
+            "fontWeight": "800",
+            "color": "#FFD700",
+            "textAlign": "center",
+            "lineHeight": "1.3"
+          },
+          "content": "가점제, 이게 핵심이야!",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy3-bot",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 1720,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy3-logo",
+          "type": "image",
+          "position": {
+            "x": 290,
+            "y": 1770,
+            "width": 500,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 15,
+          "style": {},
+          "content": "/static/media/joganji_logo_white.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 600,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "cheongya-5",
+      "order": 4,
+      "duration": 11388,
+      "background": {
+        "type": "solid",
+        "value": "#f0f0f0"
+      },
+      "elements": [
+        {
+          "id": "cy4-img",
+          "type": "image",
+          "position": {
+            "x": 0,
+            "y": 200,
+            "width": 1080,
+            "height": 1520
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 1,
+          "style": {},
+          "content": "/static/media/generated/6d8058b4-f6f4-4444-838a-2681ed55fc57/da55b507b53c.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy4-top",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy4-title",
+          "type": "text",
+          "position": {
+            "x": 0,
+            "y": 50,
+            "width": 1080,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 15,
+          "style": {
+            "fontSize": "52px",
+            "fontWeight": "800",
+            "color": "#FFD700",
+            "textAlign": "center",
+            "lineHeight": "1.3"
+          },
+          "content": "무주택이 오히려 무기다!",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy4-bot",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 1720,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy4-logo",
+          "type": "image",
+          "position": {
+            "x": 290,
+            "y": 1770,
+            "width": 500,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 15,
+          "style": {},
+          "content": "/static/media/joganji_logo_white.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 600,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "cheongya-6",
+      "order": 5,
+      "duration": 10435,
+      "background": {
+        "type": "solid",
+        "value": "#f0f0f0"
+      },
+      "elements": [
+        {
+          "id": "cy5-img",
+          "type": "image",
+          "position": {
+            "x": 0,
+            "y": 200,
+            "width": 1080,
+            "height": 1520
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 1,
+          "style": {},
+          "content": "/static/media/generated/6d8058b4-f6f4-4444-838a-2681ed55fc57/954eda20d7ff.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy5-top",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy5-title",
+          "type": "text",
+          "position": {
+            "x": 0,
+            "y": 50,
+            "width": 1080,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 15,
+          "style": {
+            "fontSize": "52px",
+            "fontWeight": "800",
+            "color": "#FFD700",
+            "textAlign": "center",
+            "lineHeight": "1.3"
+          },
+          "content": "지금 당장 이것만 해!",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy5-bot",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 1720,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy5-logo",
+          "type": "image",
+          "position": {
+            "x": 290,
+            "y": 1770,
+            "width": 500,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 15,
+          "style": {},
+          "content": "/static/media/joganji_logo_white.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 600,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "cheongya-7",
+      "order": 6,
+      "duration": 7478,
+      "background": {
+        "type": "solid",
+        "value": "#f0f0f0"
+      },
+      "elements": [
+        {
+          "id": "cy6-img",
+          "type": "image",
+          "position": {
+            "x": 0,
+            "y": 200,
+            "width": 1080,
+            "height": 1520
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 1,
+          "style": {},
+          "content": "/static/media/generated/6d8058b4-f6f4-4444-838a-2681ed55fc57/f9c03363176a.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy6-top",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy6-title",
+          "type": "text",
+          "position": {
+            "x": 0,
+            "y": 50,
+            "width": 1080,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 15,
+          "style": {
+            "fontSize": "52px",
+            "fontWeight": "800",
+            "color": "#FFD700",
+            "textAlign": "center",
+            "lineHeight": "1.3"
+          },
+          "content": "내 집 마련, 가능하다!",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy6-bot",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 1720,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy6-logo",
+          "type": "image",
+          "position": {
+            "x": 290,
+            "y": 1770,
+            "width": 500,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 15,
+          "style": {},
+          "content": "/static/media/joganji_logo_white.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 600,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "cheongya-8",
+      "order": 7,
+      "duration": 6760,
+      "background": {
+        "type": "solid",
+        "value": "#f0f0f0"
+      },
+      "elements": [
+        {
+          "id": "cy7-img",
+          "type": "image",
+          "position": {
+            "x": 0,
+            "y": 200,
+            "width": 1080,
+            "height": 1520
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 1,
+          "style": {},
+          "content": "/static/media/generated/6d8058b4-f6f4-4444-838a-2681ed55fc57/c2504487e0a1.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy7-top",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy7-title",
+          "type": "text",
+          "position": {
+            "x": 0,
+            "y": 50,
+            "width": 1080,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 15,
+          "style": {
+            "fontSize": "52px",
+            "fontWeight": "800",
+            "color": "#FFD700",
+            "textAlign": "center",
+            "lineHeight": "1.3"
+          },
+          "content": "조간지식, 구독 필수!",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy7-bot",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 1720,
+            "width": 1080,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "backgroundColor": "#000000"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "cy7-logo",
+          "type": "image",
+          "position": {
+            "x": 290,
+            "y": 1770,
+            "width": 500,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 15,
+          "style": {},
+          "content": "/static/media/joganji_logo_white.png",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 600,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    }
+  ],
+  "timeline": {
+    "total_duration": 71563,
+    "audio_tracks": [
+      {
+        "id": "c1c9820a-7808-45b3-9459-c3153ce43033",
+        "type": "tts",
+        "src": "/static/media/tts/6d8058b4-f6f4-4444-838a-2681ed55fc57/narration_full.mp3",
+        "start_time": 0,
+        "duration": 71563,
+        "volume": 1.0
+      },
+      {
+        "id": "bgm-auto",
+        "type": "bgm",
+        "src": "/static/media/bgm/6d8058b4-f6f4-4444-838a-2681ed55fc57/bgm_99ce4f53.mp3",
+        "start_time": 0,
+        "duration": 71563,
+        "volume": 0.15
+      }
+    ],
+    "subtitle_track": [
+      {
+        "id": "c5b6ebdc-440f-400a-985f-c11429720a58",
+        "start_time": 0,
+        "end_time": 1520,
+        "text": "형님들 그거 알아?",
+        "slide_index": 0
+      },
+      {
+        "id": "afacf361-385c-4fa6-bfac-dd147a8602f9",
+        "start_time": 1520,
+        "end_time": 4035,
+        "text": "청약이 뭔지 진짜 아는 사람 별로 없어.",
+        "slide_index": 0
+      },
+      {
+        "id": "e9426449-32b4-43be-8c8a-c69bcae7f162",
+        "start_time": 4035,
+        "end_time": 8153,
+        "text": "청약은 쉽게 말하면 새 아파트를 살 수 있는 자격을 미리 신청하는 거야.",
+        "slide_index": 0
+      },
+      {
+        "id": "6764a878-3196-4d79-9cb8-1a14e7fbff4d",
+        "start_time": 8153,
+        "end_time": 9593,
+        "text": "일단 제일 중요한 거.",
+        "slide_index": 1
+      },
+      {
+        "id": "d6c9227b-3d04-467b-9d8c-8ba7cd53ada9",
+        "start_time": 9593,
+        "end_time": 10473,
+        "text": "청약통장!",
+        "slide_index": 1
+      },
+      {
+        "id": "d2d1fef7-02c1-4ecf-9848-0c2b9d4b2f68",
+        "start_time": 10473,
+        "end_time": 12272,
+        "text": "이거 없으면 아예 신청도 못 해.",
+        "slide_index": 1
+      },
+      {
+        "id": "9f41a10d-ce4e-40c6-a65a-d0efaeeff8ac",
+        "start_time": 12272,
+        "end_time": 16335,
+        "text": "정식 명칭은 주택청약종합저축이고, 은행 가면 바로 만들 수 있어.",
+        "slide_index": 1
+      },
+      {
+        "id": "f0568105-0919-4499-ae5c-aa2c25525334",
+        "start_time": 16335,
+        "end_time": 18467,
+        "text": "하루라도 빨리 만드는 게 무조건 이득이야.",
+        "slide_index": 1
+      },
+      {
+        "id": "6cc28a1d-78b1-4f4b-9654-98a8bd6f1517",
+        "start_time": 18467,
+        "end_time": 19987,
+        "text": "그리고 매달 돈을 넣어야 돼.",
+        "slide_index": 2
+      },
+      {
+        "id": "a9900109-b934-4768-90ce-6e1a5b773045",
+        "start_time": 19987,
+        "end_time": 22707,
+        "text": "최소 이만 원부터 이십오만 원까지 넣을 수 있는데,",
+        "slide_index": 2
+      },
+      {
+        "id": "a55270b4-59bf-42eb-9df3-43f8c25186a7",
+        "start_time": 22707,
+        "end_time": 26306,
+        "text": "이만 원만 꼬박꼬박 넣어도 납입 횟수는 똑같이 인정돼.",
+        "slide_index": 2
+      },
+      {
+        "id": "f7450215-1a38-4833-864a-5f109e855215",
+        "start_time": 26306,
+        "end_time": 28226,
+        "text": "횟수가 쌓일수록 나중에 유리해져.",
+        "slide_index": 2
+      },
+      {
+        "id": "42fb608c-0908-42c2-bd55-ad6c1871ef68",
+        "start_time": 28226,
+        "end_time": 30466,
+        "text": "다음으로 알아야 할 게 가점제야.",
+        "slide_index": 3
+      },
+      {
+        "id": "6d263df2-5860-4564-b57f-4bf727662e05",
+        "start_time": 30466,
+        "end_time": 33425,
+        "text": "점수로 당첨자를 정하는 건데, 무주택 기간,",
+        "slide_index": 3
+      },
+      {
+        "id": "11b8080b-652c-4dba-a5e2-fb67cc97287b",
+        "start_time": 33425,
+        "end_time": 37742,
+        "text": "부양가족 수, 청약통장 가입 기간 이 세 가지로 점수가 매겨져.",
+        "slide_index": 3
+      },
+      {
+        "id": "6d056cf1-6d27-4540-8f5d-2f73b62553a2",
+        "start_time": 37742,
+        "end_time": 39502,
+        "text": "점수가 높으면 이기는 거야.",
+        "slide_index": 3
+      },
+      {
+        "id": "355f9fd2-7ed5-4929-aac8-0e78220b10b2",
+        "start_time": 39502,
+        "end_time": 42296,
+        "text": "집이 없는 기간이 길수록, 가족이 많을수록,",
+        "slide_index": 4
+      },
+      {
+        "id": "105314ec-fc34-442c-b317-d8614f9fc204",
+        "start_time": 42296,
+        "end_time": 45093,
+        "text": "통장을 오래 갖고 있을수록 점수가 올라가.",
+        "slide_index": 4
+      },
+      {
+        "id": "3135e531-cd7e-49c1-9c8b-78d7040f9f2e",
+        "start_time": 45093,
+        "end_time": 47891,
+        "text": "그래서 지금 당장 집이 없다고 슬퍼하지 마.",
+        "slide_index": 4
+      },
+      {
+        "id": "189165d0-cb49-4ef4-a70b-f8212079ec75",
+        "start_time": 47891,
+        "end_time": 49890,
+        "text": "오히려 그게 나중에 큰 무기가 돼.",
+        "slide_index": 4
+      },
+      {
+        "id": "9a427a5e-6001-4a6e-91f1-4cc335c63e9c",
+        "start_time": 49890,
+        "end_time": 52208,
+        "text": "자 그러면 지금 당장 뭘 해야 하냐.",
+        "slide_index": 5
+      },
+      {
+        "id": "254335f9-db6a-41ec-878c-51d15f935efc",
+        "start_time": 52208,
+        "end_time": 54368,
+        "text": "첫째 청약통장 만들어.",
+        "slide_index": 5
+      },
+      {
+        "id": "3ac5b39f-ca69-47b9-a30d-371af7171ae6",
+        "start_time": 54368,
+        "end_time": 56448,
+        "text": "둘째 매달 이만 원씩 넣어.",
+        "slide_index": 5
+      },
+      {
+        "id": "d20e3c4b-de52-4155-99e1-229c7daa31b1",
+        "start_time": 56448,
+        "end_time": 58205,
+        "text": "셋째 무주택 기간 관리해.",
+        "slide_index": 5
+      },
+      {
+        "id": "cdf68e06-6a16-4b7c-a657-6ddab3f74998",
+        "start_time": 58205,
+        "end_time": 59325,
+        "text": "이 세 가지만 기억해.",
+        "slide_index": 5
+      },
+      {
+        "id": "60801767-fd46-492c-9da6-db1aec3292c7",
+        "start_time": 59325,
+        "end_time": 62005,
+        "text": "형님들 청약 당첨은 불가능한 거 아니야.",
+        "slide_index": 6
+      },
+      {
+        "id": "29693150-eb80-43dc-8a4a-0fb151b2ef4e",
+        "start_time": 62005,
+        "end_time": 65003,
+        "text": "미리미리 준비하면 누구나 내 집 마련의 기회가 온다고.",
+        "slide_index": 6
+      },
+      {
+        "id": "afe17d54-dfcb-458a-bb25-6555826b0dad",
+        "start_time": 65003,
+        "end_time": 65803,
+        "text": "포기하지 마.",
+        "slide_index": 6
+      },
+      {
+        "id": "e339e949-81d3-45cf-bc43-aa7488273299",
+        "start_time": 65803,
+        "end_time": 68843,
+        "text": "이 영상이 도움 됐으면 좋아요 구독 꼭 눌러줘.",
+        "slide_index": 7
+      },
+      {
+        "id": "86707187-a704-416c-aa01-c9c1909722c1",
+        "start_time": 68843,
+        "end_time": 70603,
+        "text": "다음에도 돈 되는 정보 가져올게.",
+        "slide_index": 7
+      },
+      {
+        "id": "c89c1614-4d8a-47ed-ae74-5a06294265a3",
+        "start_time": 70603,
+        "end_time": 71563,
+        "text": "조간지식이었어!",
+        "slide_index": 7
+      }
+    ]
+  },
+  "narration": {
+    "voice_id": "P9hwgj9bIDdtP2A4Q97J",
+    "model_id": "eleven_v3",
+    "segments": [
+      {
+        "slide_index": 0,
+        "text": "형님들 그거 알아? 청약이 뭔지 진짜 아는 사람 별로 없어. 청약은 쉽게 말하면 새 아파트를 살 수 있는 자격을 미리 신청하는 거야.",
+        "start_time": 0,
+        "end_time": 8153,
+        "audio_file": "/static/media/tts/6d8058b4-f6f4-4444-838a-2681ed55fc57/slide_00.mp3"
+      },
+      {
+        "slide_index": 1,
+        "text": "일단 제일 중요한 거. 청약통장! 이거 없으면 아예 신청도 못 해. 정식 명칭은 주택청약종합저축이고, 은행 가면 바로 만들 수 있어. 하루라도 빨리 만드는 게 무조건 이득이야.",
+        "start_time": 8153,
+        "end_time": 18467,
+        "audio_file": "/static/media/tts/6d8058b4-f6f4-4444-838a-2681ed55fc57/slide_01.mp3"
+      },
+      {
+        "slide_index": 2,
+        "text": "그리고 매달 돈을 넣어야 돼. 최소 이만 원부터 이십오만 원까지 넣을 수 있는데, 이만 원만 꼬박꼬박 넣어도 납입 횟수는 똑같이 인정돼. 횟수가 쌓일수록 나중에 유리해져.",
+        "start_time": 18467,
+        "end_time": 28226,
+        "audio_file": "/static/media/tts/6d8058b4-f6f4-4444-838a-2681ed55fc57/slide_02.mp3"
+      },
+      {
+        "slide_index": 3,
+        "text": "다음으로 알아야 할 게 가점제야. 점수로 당첨자를 정하는 건데, 무주택 기간, 부양가족 수, 청약통장 가입 기간 이 세 가지로 점수가 매겨져. 점수가 높으면 이기는 거야.",
+        "start_time": 28226,
+        "end_time": 39502,
+        "audio_file": "/static/media/tts/6d8058b4-f6f4-4444-838a-2681ed55fc57/slide_03.mp3"
+      },
+      {
+        "slide_index": 4,
+        "text": "집이 없는 기간이 길수록, 가족이 많을수록, 통장을 오래 갖고 있을수록 점수가 올라가. 그래서 지금 당장 집이 없다고 슬퍼하지 마. 오히려 그게 나중에 큰 무기가 돼.",
+        "start_time": 39502,
+        "end_time": 49890,
+        "audio_file": "/static/media/tts/6d8058b4-f6f4-4444-838a-2681ed55fc57/slide_04.mp3"
+      },
+      {
+        "slide_index": 5,
+        "text": "자 그러면 지금 당장 뭘 해야 하냐. 첫째 청약통장 만들어. 둘째 매달 이만 원씩 넣어. 셋째 무주택 기간 관리해. 이 세 가지만 기억해.",
+        "start_time": 49890,
+        "end_time": 59325,
+        "audio_file": "/static/media/tts/6d8058b4-f6f4-4444-838a-2681ed55fc57/slide_05.mp3"
+      },
+      {
+        "slide_index": 6,
+        "text": "형님들 청약 당첨은 불가능한 거 아니야. 미리미리 준비하면 누구나 내 집 마련의 기회가 온다고. 포기하지 마.",
+        "start_time": 59325,
+        "end_time": 65803,
+        "audio_file": "/static/media/tts/6d8058b4-f6f4-4444-838a-2681ed55fc57/slide_06.mp3"
+      },
+      {
+        "slide_index": 7,
+        "text": "이 영상이 도움 됐으면 좋아요 구독 꼭 눌러줘. 다음에도 돈 되는 정보 가져올게. 조간지식이었어!",
+        "start_time": 65803,
+        "end_time": 71563,
+        "audio_file": "/static/media/tts/6d8058b4-f6f4-4444-838a-2681ed55fc57/slide_07.mp3"
+      }
+    ],
+    "audio_url": "/static/media/tts/6d8058b4-f6f4-4444-838a-2681ed55fc57/narration_full.mp3",
+    "subtitles": [
+      {
+        "id": "c5b6ebdc-440f-400a-985f-c11429720a58",
+        "start_time": 0,
+        "end_time": 1520,
+        "text": "형님들 그거 알아?",
+        "slide_index": 0
+      },
+      {
+        "id": "afacf361-385c-4fa6-bfac-dd147a8602f9",
+        "start_time": 1520,
+        "end_time": 4035,
+        "text": "청약이 뭔지 진짜 아는 사람 별로 없어.",
+        "slide_index": 0
+      },
+      {
+        "id": "e9426449-32b4-43be-8c8a-c69bcae7f162",
+        "start_time": 4035,
+        "end_time": 8153,
+        "text": "청약은 쉽게 말하면 새 아파트를 살 수 있는 자격을 미리 신청하는 거야.",
+        "slide_index": 0
+      },
+      {
+        "id": "6764a878-3196-4d79-9cb8-1a14e7fbff4d",
+        "start_time": 8153,
+        "end_time": 9593,
+        "text": "일단 제일 중요한 거.",
+        "slide_index": 1
+      },
+      {
+        "id": "d6c9227b-3d04-467b-9d8c-8ba7cd53ada9",
+        "start_time": 9593,
+        "end_time": 10473,
+        "text": "청약통장!",
+        "slide_index": 1
+      },
+      {
+        "id": "d2d1fef7-02c1-4ecf-9848-0c2b9d4b2f68",
+        "start_time": 10473,
+        "end_time": 12272,
+        "text": "이거 없으면 아예 신청도 못 해.",
+        "slide_index": 1
+      },
+      {
+        "id": "9f41a10d-ce4e-40c6-a65a-d0efaeeff8ac",
+        "start_time": 12272,
+        "end_time": 16335,
+        "text": "정식 명칭은 주택청약종합저축이고, 은행 가면 바로 만들 수 있어.",
+        "slide_index": 1
+      },
+      {
+        "id": "f0568105-0919-4499-ae5c-aa2c25525334",
+        "start_time": 16335,
+        "end_time": 18467,
+        "text": "하루라도 빨리 만드는 게 무조건 이득이야.",
+        "slide_index": 1
+      },
+      {
+        "id": "6cc28a1d-78b1-4f4b-9654-98a8bd6f1517",
+        "start_time": 18467,
+        "end_time": 19987,
+        "text": "그리고 매달 돈을 넣어야 돼.",
+        "slide_index": 2
+      },
+      {
+        "id": "a9900109-b934-4768-90ce-6e1a5b773045",
+        "start_time": 19987,
+        "end_time": 22707,
+        "text": "최소 이만 원부터 이십오만 원까지 넣을 수 있는데,",
+        "slide_index": 2
+      },
+      {
+        "id": "a55270b4-59bf-42eb-9df3-43f8c25186a7",
+        "start_time": 22707,
+        "end_time": 26306,
+        "text": "이만 원만 꼬박꼬박 넣어도 납입 횟수는 똑같이 인정돼.",
+        "slide_index": 2
+      },
+      {
+        "id": "f7450215-1a38-4833-864a-5f109e855215",
+        "start_time": 26306,
+        "end_time": 28226,
+        "text": "횟수가 쌓일수록 나중에 유리해져.",
+        "slide_index": 2
+      },
+      {
+        "id": "42fb608c-0908-42c2-bd55-ad6c1871ef68",
+        "start_time": 28226,
+        "end_time": 30466,
+        "text": "다음으로 알아야 할 게 가점제야.",
+        "slide_index": 3
+      },
+      {
+        "id": "6d263df2-5860-4564-b57f-4bf727662e05",
+        "start_time": 30466,
+        "end_time": 33425,
+        "text": "점수로 당첨자를 정하는 건데, 무주택 기간,",
+        "slide_index": 3
+      },
+      {
+        "id": "11b8080b-652c-4dba-a5e2-fb67cc97287b",
+        "start_time": 33425,
+        "end_time": 37742,
+        "text": "부양가족 수, 청약통장 가입 기간 이 세 가지로 점수가 매겨져.",
+        "slide_index": 3
+      },
+      {
+        "id": "6d056cf1-6d27-4540-8f5d-2f73b62553a2",
+        "start_time": 37742,
+        "end_time": 39502,
+        "text": "점수가 높으면 이기는 거야.",
+        "slide_index": 3
+      },
+      {
+        "id": "355f9fd2-7ed5-4929-aac8-0e78220b10b2",
+        "start_time": 39502,
+        "end_time": 42296,
+        "text": "집이 없는 기간이 길수록, 가족이 많을수록,",
+        "slide_index": 4
+      },
+      {
+        "id": "105314ec-fc34-442c-b317-d8614f9fc204",
+        "start_time": 42296,
+        "end_time": 45093,
+        "text": "통장을 오래 갖고 있을수록 점수가 올라가.",
+        "slide_index": 4
+      },
+      {
+        "id": "3135e531-cd7e-49c1-9c8b-78d7040f9f2e",
+        "start_time": 45093,
+        "end_time": 47891,
+        "text": "그래서 지금 당장 집이 없다고 슬퍼하지 마.",
+        "slide_index": 4
+      },
+      {
+        "id": "189165d0-cb49-4ef4-a70b-f8212079ec75",
+        "start_time": 47891,
+        "end_time": 49890,
+        "text": "오히려 그게 나중에 큰 무기가 돼.",
+        "slide_index": 4
+      },
+      {
+        "id": "9a427a5e-6001-4a6e-91f1-4cc335c63e9c",
+        "start_time": 49890,
+        "end_time": 52208,
+        "text": "자 그러면 지금 당장 뭘 해야 하냐.",
+        "slide_index": 5
+      },
+      {
+        "id": "254335f9-db6a-41ec-878c-51d15f935efc",
+        "start_time": 52208,
+        "end_time": 54368,
+        "text": "첫째 청약통장 만들어.",
+        "slide_index": 5
+      },
+      {
+        "id": "3ac5b39f-ca69-47b9-a30d-371af7171ae6",
+        "start_time": 54368,
+        "end_time": 56448,
+        "text": "둘째 매달 이만 원씩 넣어.",
+        "slide_index": 5
+      },
+      {
+        "id": "d20e3c4b-de52-4155-99e1-229c7daa31b1",
+        "start_time": 56448,
+        "end_time": 58205,
+        "text": "셋째 무주택 기간 관리해.",
+        "slide_index": 5
+      },
+      {
+        "id": "cdf68e06-6a16-4b7c-a657-6ddab3f74998",
+        "start_time": 58205,
+        "end_time": 59325,
+        "text": "이 세 가지만 기억해.",
+        "slide_index": 5
+      },
+      {
+        "id": "60801767-fd46-492c-9da6-db1aec3292c7",
+        "start_time": 59325,
+        "end_time": 62005,
+        "text": "형님들 청약 당첨은 불가능한 거 아니야.",
+        "slide_index": 6
+      },
+      {
+        "id": "29693150-eb80-43dc-8a4a-0fb151b2ef4e",
+        "start_time": 62005,
+        "end_time": 65003,
+        "text": "미리미리 준비하면 누구나 내 집 마련의 기회가 온다고.",
+        "slide_index": 6
+      },
+      {
+        "id": "afe17d54-dfcb-458a-bb25-6555826b0dad",
+        "start_time": 65003,
+        "end_time": 65803,
+        "text": "포기하지 마.",
+        "slide_index": 6
+      },
+      {
+        "id": "e339e949-81d3-45cf-bc43-aa7488273299",
+        "start_time": 65803,
+        "end_time": 68843,
+        "text": "이 영상이 도움 됐으면 좋아요 구독 꼭 눌러줘.",
+        "slide_index": 7
+      },
+      {
+        "id": "86707187-a704-416c-aa01-c9c1909722c1",
+        "start_time": 68843,
+        "end_time": 70603,
+        "text": "다음에도 돈 되는 정보 가져올게.",
+        "slide_index": 7
+      },
+      {
+        "id": "c89c1614-4d8a-47ed-ae74-5a06294265a3",
+        "start_time": 70603,
+        "end_time": 71563,
+        "text": "조간지식이었어!",
+        "slide_index": 7
+      }
+    ],
+    "generated_at": "2026-03-26T15:16:51.639753"
+  },
+  "chat_history": []
+}

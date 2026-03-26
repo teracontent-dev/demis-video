@@ -1,0 +1,1375 @@
+{
+  "id": "4acfef1b-53e3-4c25-b7a8-d632ea4d8cf5",
+  "title": "새 강의",
+  "created_at": "2026-03-26T14:16:47.603106",
+  "updated_at": "2026-03-26T14:16:47.666638",
+  "settings": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 30,
+    "font_family": "Pretendard Variable",
+    "export_preset": "standard"
+  },
+  "script": {
+    "type": "doc",
+    "content": []
+  },
+  "slides": [
+    {
+      "id": "tpl-ds-1",
+      "order": 0,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#000000"
+      },
+      "elements": [
+        {
+          "id": "ds1-label",
+          "type": "text",
+          "position": {
+            "x": 60,
+            "y": 40,
+            "width": 400,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "left",
+            "letterSpacing": "4px"
+          },
+          "content": "THE OFFICE OF ORDINARY THINGS",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds1-ordi",
+          "type": "text",
+          "position": {
+            "x": 900,
+            "y": 30,
+            "width": 1200,
+            "height": 380
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "350px",
+            "fontWeight": "900",
+            "color": "#00e5ff",
+            "textAlign": "left"
+          },
+          "content": "Ordi",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds1-nary",
+          "type": "text",
+          "position": {
+            "x": -180,
+            "y": 550,
+            "width": 1400,
+            "height": 380
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "350px",
+            "fontWeight": "900",
+            "color": "#00e676",
+            "textAlign": "left"
+          },
+          "content": "nary Th",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds1-ings",
+          "type": "text",
+          "position": {
+            "x": 1300,
+            "y": 650,
+            "width": 800,
+            "height": 380
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "350px",
+            "fontWeight": "900",
+            "color": "#7c6fff",
+            "textAlign": "left"
+          },
+          "content": "ings",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds1-circle",
+          "type": "shape",
+          "position": {
+            "x": 750,
+            "y": 300,
+            "width": 320,
+            "height": 320
+          },
+          "rotation": 0,
+          "opacity": 0.4,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "transparent",
+            "borderRadius": "50%",
+            "borderColor": "#ffffff",
+            "borderWidth": 2
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-ds-2",
+      "order": 1,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#000000"
+      },
+      "elements": [
+        {
+          "id": "ds2-title",
+          "type": "text",
+          "position": {
+            "x": -60,
+            "y": 280,
+            "width": 1920,
+            "height": 450
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "400px",
+            "fontWeight": "900",
+            "color": "#ff1066",
+            "textAlign": "center"
+          },
+          "content": "Work",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds2-sub",
+          "type": "text",
+          "position": {
+            "x": 1500,
+            "y": 60,
+            "width": 360,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "right"
+          },
+          "content": "Selected Projects 2024",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds2-circle",
+          "type": "shape",
+          "position": {
+            "x": 1550,
+            "y": 750,
+            "width": 200,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 0.3,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "transparent",
+            "borderRadius": "50%",
+            "borderColor": "#ff1066",
+            "borderWidth": 2
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-ds-3",
+      "order": 2,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#000000"
+      },
+      "elements": [
+        {
+          "id": "ds3-num",
+          "type": "text",
+          "position": {
+            "x": -80,
+            "y": 300,
+            "width": 600,
+            "height": 340
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "300px",
+            "fontWeight": "900",
+            "color": "#00e5ff",
+            "textAlign": "left"
+          },
+          "content": "01",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds3-title",
+          "type": "text",
+          "position": {
+            "x": 1000,
+            "y": 350,
+            "width": 700,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "48px",
+            "fontWeight": "700",
+            "color": "#ffffff",
+            "textAlign": "left"
+          },
+          "content": "Brand Identity",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds3-desc",
+          "type": "text",
+          "position": {
+            "x": 1000,
+            "y": 430,
+            "width": 700,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#aaaaaa",
+            "textAlign": "left"
+          },
+          "content": "글로벌 테크 기업의 새로운 아이덴티티",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-ds-4",
+      "order": 3,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#000000"
+      },
+      "elements": [
+        {
+          "id": "ds4-num",
+          "type": "text",
+          "position": {
+            "x": 1500,
+            "y": 300,
+            "width": 600,
+            "height": 340
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "300px",
+            "fontWeight": "900",
+            "color": "#00e676",
+            "textAlign": "left"
+          },
+          "content": "02",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds4-title",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 350,
+            "width": 700,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "48px",
+            "fontWeight": "700",
+            "color": "#ffffff",
+            "textAlign": "left"
+          },
+          "content": "Campaign",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds4-desc",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 430,
+            "width": 700,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#aaaaaa",
+            "textAlign": "left"
+          },
+          "content": "브랜드 캠페인 전략 및 크리에이티브 디렉션",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds4-circle",
+          "type": "shape",
+          "position": {
+            "x": 200,
+            "y": 650,
+            "width": 250,
+            "height": 250
+          },
+          "rotation": 0,
+          "opacity": 0.3,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "transparent",
+            "borderRadius": "50%",
+            "borderColor": "#ff1066",
+            "borderWidth": 2
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-ds-5",
+      "order": 4,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#000000"
+      },
+      "elements": [
+        {
+          "id": "ds5-pro",
+          "type": "text",
+          "position": {
+            "x": -120,
+            "y": -60,
+            "width": 900,
+            "height": 380
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "350px",
+            "fontWeight": "900",
+            "color": "#7c6fff",
+            "textAlign": "left"
+          },
+          "content": "Pro",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds5-cess",
+          "type": "text",
+          "position": {
+            "x": 1050,
+            "y": 650,
+            "width": 1000,
+            "height": 380
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "350px",
+            "fontWeight": "900",
+            "color": "#00e5ff",
+            "textAlign": "left"
+          },
+          "content": "cess",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds5-r",
+          "type": "text",
+          "position": {
+            "x": 500,
+            "y": 350,
+            "width": 200,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "Research",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds5-d",
+          "type": "text",
+          "position": {
+            "x": 820,
+            "y": 450,
+            "width": 200,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "→  Design",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds5-l",
+          "type": "text",
+          "position": {
+            "x": 1140,
+            "y": 550,
+            "width": 200,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "→  Launch",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-ds-6",
+      "order": 5,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#000000"
+      },
+      "elements": [
+        {
+          "id": "ds6-why",
+          "type": "text",
+          "position": {
+            "x": 200,
+            "y": -120,
+            "width": 1520,
+            "height": 500
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "450px",
+            "fontWeight": "900",
+            "color": "#00e676",
+            "textAlign": "center"
+          },
+          "content": "Why",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds6-desc",
+          "type": "text",
+          "position": {
+            "x": 460,
+            "y": 500,
+            "width": 1000,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 0.9,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "우리는 평범한 것들에서 비범함을 찾습니다",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds6-circle",
+          "type": "shape",
+          "position": {
+            "x": 1500,
+            "y": 700,
+            "width": 180,
+            "height": 180
+          },
+          "rotation": 0,
+          "opacity": 0.25,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "transparent",
+            "borderRadius": "50%",
+            "borderColor": "#00e676",
+            "borderWidth": 2
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-ds-7",
+      "order": 6,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#000000"
+      },
+      "elements": [
+        {
+          "id": "ds7-te",
+          "type": "text",
+          "position": {
+            "x": -200,
+            "y": 280,
+            "width": 700,
+            "height": 450
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "400px",
+            "fontWeight": "900",
+            "color": "#ff1066",
+            "textAlign": "left"
+          },
+          "content": "Te",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds7-am",
+          "type": "text",
+          "position": {
+            "x": 1100,
+            "y": 280,
+            "width": 700,
+            "height": 450
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "400px",
+            "fontWeight": "900",
+            "color": "#7c6fff",
+            "textAlign": "left"
+          },
+          "content": "am",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds7-sub",
+          "type": "text",
+          "position": {
+            "x": 560,
+            "y": 520,
+            "width": 800,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "12 Designers, 3 Studios, 1 Vision",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-ds-8",
+      "order": 7,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#000000"
+      },
+      "elements": [
+        {
+          "id": "ds8-awa",
+          "type": "text",
+          "position": {
+            "x": 100,
+            "y": -40,
+            "width": 900,
+            "height": 340
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "300px",
+            "fontWeight": "900",
+            "color": "#00e5ff",
+            "textAlign": "left"
+          },
+          "content": "Awa",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds8-rds",
+          "type": "text",
+          "position": {
+            "x": 900,
+            "y": 720,
+            "width": 900,
+            "height": 340
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "300px",
+            "fontWeight": "900",
+            "color": "#00e676",
+            "textAlign": "left"
+          },
+          "content": "rds",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds8-a1",
+          "type": "text",
+          "position": {
+            "x": 700,
+            "y": 380,
+            "width": 520,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "Red Dot Design Award 2024",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds8-a2",
+          "type": "text",
+          "position": {
+            "x": 700,
+            "y": 420,
+            "width": 520,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "IF Design Award — Gold",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds8-a3",
+          "type": "text",
+          "position": {
+            "x": 700,
+            "y": 460,
+            "width": 520,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "D&AD Pencil — Branding",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds8-circle",
+          "type": "shape",
+          "position": {
+            "x": 1550,
+            "y": 350,
+            "width": 260,
+            "height": 260
+          },
+          "rotation": 0,
+          "opacity": 0.3,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "transparent",
+            "borderRadius": "50%",
+            "borderColor": "#ffffff",
+            "borderWidth": 2
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-ds-9",
+      "order": 8,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#000000"
+      },
+      "elements": [
+        {
+          "id": "ds9-say",
+          "type": "text",
+          "position": {
+            "x": -80,
+            "y": -60,
+            "width": 1000,
+            "height": 450
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "400px",
+            "fontWeight": "900",
+            "color": "#7c6fff",
+            "textAlign": "left"
+          },
+          "content": "Say",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds9-hi",
+          "type": "text",
+          "position": {
+            "x": 1100,
+            "y": 580,
+            "width": 900,
+            "height": 450
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "400px",
+            "fontWeight": "900",
+            "color": "#ff1066",
+            "textAlign": "left"
+          },
+          "content": "Hi.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds9-email",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 750,
+            "width": 500,
+            "height": 24
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "left"
+          },
+          "content": "hello@ordinarythings.studio",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds9-loc",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 780,
+            "width": 500,
+            "height": 24
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "left"
+          },
+          "content": "Seoul — Tokyo — Berlin",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds9-social",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 810,
+            "width": 500,
+            "height": 24
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "left"
+          },
+          "content": "@ordinarythings",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-ds-10",
+      "order": 9,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#000000"
+      },
+      "elements": [
+        {
+          "id": "ds10-t1",
+          "type": "text",
+          "position": {
+            "x": 60,
+            "y": 280,
+            "width": 450,
+            "height": 380
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "350px",
+            "fontWeight": "900",
+            "color": "#00e5ff",
+            "textAlign": "center"
+          },
+          "content": "T",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds10-o1",
+          "type": "text",
+          "position": {
+            "x": 480,
+            "y": 280,
+            "width": 450,
+            "height": 380
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "350px",
+            "fontWeight": "900",
+            "color": "#00e676",
+            "textAlign": "center"
+          },
+          "content": "O",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds10-o2",
+          "type": "text",
+          "position": {
+            "x": 960,
+            "y": 280,
+            "width": 450,
+            "height": 380
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "350px",
+            "fontWeight": "900",
+            "color": "#ff1066",
+            "textAlign": "center"
+          },
+          "content": "O",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds10-t2",
+          "type": "text",
+          "position": {
+            "x": 1400,
+            "y": 280,
+            "width": 450,
+            "height": 380
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "350px",
+            "fontWeight": "900",
+            "color": "#7c6fff",
+            "textAlign": "center"
+          },
+          "content": "T",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "ds10-credit",
+          "type": "text",
+          "position": {
+            "x": 560,
+            "y": 850,
+            "width": 800,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "The Office of Ordinary Things © 2024",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    }
+  ],
+  "timeline": {
+    "total_duration": 0,
+    "audio_tracks": [],
+    "subtitle_track": []
+  },
+  "narration": null,
+  "chat_history": []
+}

@@ -1,0 +1,10 @@
+.wrapper {
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.canvas {
+  transform-origin: top left;
+  position: relative;
+  font-family: "Pretendard Variable", sans-serif;
+}

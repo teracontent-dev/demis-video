@@ -1,0 +1,306 @@
+{
+  "id": "proj-sample-001",
+  "title": "Python 기초 강의",
+  "createdAt": "2026-03-23T10:00:00.000Z",
+  "updatedAt": "2026-03-23T10:30:00.000Z",
+  "settings": {
+    "resolution": [1920, 1080],
+    "fps": 30,
+    "fontFamily": "Pretendard Variable",
+    "exportPreset": "standard"
+  },
+  "script": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": { "level": 1 },
+        "content": [
+          { "type": "text", "text": "Python 기초 문법" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          { "type": "text", "text": "안녕하세요, 오늘은 Python의 기초 문법에 대해 알아보겠습니다." }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          { "type": "text", "text": "변수, 자료형, 그리고 기본 연산자를 다룹니다." }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": { "level": 2 },
+        "content": [
+          { "type": "text", "text": "변수와 자료형" }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          { "type": "text", "text": "Python에서 변수는 별도의 선언 없이 값을 할당하면 자동으로 생성됩니다." }
+        ]
+      }
+    ]
+  },
+  "slides": [
+    {
+      "id": "slide-001",
+      "order": 0,
+      "duration": 8000,
+      "background": {
+        "type": "solid",
+        "value": "#1A1A2E"
+      },
+      "elements": [
+        {
+          "id": "elem-001",
+          "type": "text",
+          "position": { "x": 200, "y": 300, "width": 1520, "height": 200 },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 1,
+          "style": {
+            "fontSize": 72,
+            "fontWeight": "bold",
+            "color": "#FFFFFF",
+            "textAlign": "center"
+          },
+          "content": "Python 기초 문법",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 800,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "elem-002",
+          "type": "text",
+          "position": { "x": 400, "y": 550, "width": 1120, "height": 100 },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 2,
+          "style": {
+            "fontSize": 28,
+            "color": "#CCCCCC",
+            "textAlign": "center"
+          },
+          "content": "변수, 자료형, 기본 연산자",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": "타이틀 슬라이드 - 인사와 함께 강의 주제 소개"
+    },
+    {
+      "id": "slide-002",
+      "order": 1,
+      "duration": 12000,
+      "background": {
+        "type": "solid",
+        "value": "#16213E"
+      },
+      "elements": [
+        {
+          "id": "elem-003",
+          "type": "text",
+          "position": { "x": 100, "y": 80, "width": 800, "height": 80 },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 1,
+          "style": {
+            "fontSize": 48,
+            "fontWeight": "bold",
+            "color": "#E94560"
+          },
+          "content": "변수와 자료형",
+          "animation": {
+            "enter": {
+              "type": "slide-right",
+              "duration": 600,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "elem-004",
+          "type": "text",
+          "position": { "x": 100, "y": 220, "width": 1720, "height": 600 },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "fontSize": 32,
+            "color": "#FFFFFF",
+            "fontFamily": "monospace",
+            "lineHeight": 1.8
+          },
+          "content": "# 변수 선언\nname = \"Python\"\nversion = 3.12\nis_awesome = True\n\nprint(type(name))     # <class 'str'>\nprint(type(version))  # <class 'float'>\nprint(type(is_awesome))  # <class 'bool'>",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "slide-left",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": "변수 선언 방법과 기본 자료형(str, float, bool) 설명"
+    },
+    {
+      "id": "slide-003",
+      "order": 2,
+      "duration": 6000,
+      "background": {
+        "type": "gradient",
+        "value": "linear-gradient(135deg, #0F3460, #533483)"
+      },
+      "elements": [
+        {
+          "id": "elem-005",
+          "type": "text",
+          "position": { "x": 200, "y": 350, "width": 1520, "height": 200 },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 1,
+          "style": {
+            "fontSize": 56,
+            "fontWeight": "bold",
+            "color": "#FFFFFF",
+            "textAlign": "center"
+          },
+          "content": "감사합니다!",
+          "animation": {
+            "enter": {
+              "type": "scale",
+              "duration": 800,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "dissolve",
+        "duration": 700,
+        "easing": "ease-in-out"
+      },
+      "notes": "마무리 슬라이드"
+    }
+  ],
+  "timeline": {
+    "totalDuration": 26000,
+    "audioTracks": [
+      {
+        "id": "audio-001",
+        "type": "tts",
+        "src": "/media/tts/slide-001.mp3",
+        "startTime": 0,
+        "duration": 8000,
+        "volume": 1.0
+      },
+      {
+        "id": "audio-002",
+        "type": "tts",
+        "src": "/media/tts/slide-002.mp3",
+        "startTime": 8000,
+        "duration": 12000,
+        "volume": 1.0
+      },
+      {
+        "id": "audio-003",
+        "type": "tts",
+        "src": "/media/tts/slide-003.mp3",
+        "startTime": 20000,
+        "duration": 6000,
+        "volume": 1.0
+      },
+      {
+        "id": "audio-bgm",
+        "type": "bgm",
+        "src": "/media/bgm/calm-piano.mp3",
+        "startTime": 0,
+        "duration": 26000,
+        "volume": 0.15
+      }
+    ],
+    "subtitleTrack": [
+      {
+        "id": "sub-001",
+        "startTime": 500,
+        "endTime": 4000,
+        "text": "안녕하세요, 오늘은 Python의 기초 문법에 대해 알아보겠습니다."
+      },
+      {
+        "id": "sub-002",
+        "startTime": 4200,
+        "endTime": 7500,
+        "text": "변수, 자료형, 그리고 기본 연산자를 다룹니다."
+      },
+      {
+        "id": "sub-003",
+        "startTime": 8500,
+        "endTime": 13000,
+        "text": "Python에서 변수는 별도의 선언 없이 값을 할당하면 자동으로 생성됩니다."
+      },
+      {
+        "id": "sub-004",
+        "startTime": 13500,
+        "endTime": 19500,
+        "text": "문자열, 숫자, 불리언 등 다양한 자료형을 지원합니다."
+      },
+      {
+        "id": "sub-005",
+        "startTime": 20500,
+        "endTime": 25000,
+        "text": "감사합니다. 다음 시간에는 조건문과 반복문을 다루겠습니다."
+      }
+    ]
+  },
+  "chatHistory": [
+    {
+      "id": "chat-001",
+      "role": "user",
+      "content": "Python 기초 문법에 대한 강의 슬라이드를 만들어줘. 변수와 자료형을 다루는 내용으로.",
+      "timestamp": "2026-03-23T10:05:00.000Z"
+    },
+    {
+      "id": "chat-002",
+      "role": "assistant",
+      "content": "Python 기초 문법 강의 슬라이드 3장을 생성했습니다:\n1. 타이틀 슬라이드\n2. 변수와 자료형 설명\n3. 마무리 슬라이드\n\n어두운 테마로 코드가 잘 보이도록 구성했습니다.",
+      "timestamp": "2026-03-23T10:05:15.000Z",
+      "slideChanges": {
+        "changedIndices": [0, 1, 2],
+        "previousState": [],
+        "diff": {
+          "action": "create",
+          "slidesCreated": 3
+        }
+      }
+    }
+  ]
+}

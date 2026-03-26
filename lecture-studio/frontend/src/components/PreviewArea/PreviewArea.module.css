@@ -1,0 +1,22 @@
+.container {
+  grid-row: 2;
+  grid-column: 2;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  min-height: 0;
+}
+
+.preview {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  padding: var(--space-8) var(--space-12);
+}
+
+.timeline {
+  flex-shrink: 0;
+  height: 280px;
+  border-top: 1px solid var(--border-default);
+}

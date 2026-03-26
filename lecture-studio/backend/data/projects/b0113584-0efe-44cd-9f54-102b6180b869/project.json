@@ -1,0 +1,1268 @@
+{
+  "id": "b0113584-0efe-44cd-9f54-102b6180b869",
+  "title": "새 강의",
+  "created_at": "2026-03-26T14:16:35.273411",
+  "updated_at": "2026-03-26T14:16:35.308338",
+  "settings": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 30,
+    "font_family": "Pretendard Variable",
+    "export_preset": "standard"
+  },
+  "script": {
+    "type": "doc",
+    "content": []
+  },
+  "slides": [
+    {
+      "id": "tpl-hg-1",
+      "order": 0,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#00e5a0"
+      },
+      "elements": [
+        {
+          "id": "hg1-sub",
+          "type": "text",
+          "position": {
+            "x": 810,
+            "y": 40,
+            "width": 300,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "20px",
+            "fontWeight": "500",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "Learn Korean",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg1-title",
+          "type": "text",
+          "position": {
+            "x": 460,
+            "y": 200,
+            "width": 1000,
+            "height": 350
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "280px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "center"
+          },
+          "content": "한글",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg1-sub2",
+          "type": "text",
+          "position": {
+            "x": 610,
+            "y": 560,
+            "width": 700,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "80px",
+            "fontWeight": "900",
+            "color": "#1a1a1a",
+            "textAlign": "center"
+          },
+          "content": "첫걸음",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg1-eng",
+          "type": "text",
+          "position": {
+            "x": 560,
+            "y": 700,
+            "width": 800,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.6,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "Hangul — The Korean Alphabet",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-hg-2",
+      "order": 1,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#ff6b6b"
+      },
+      "elements": [
+        {
+          "id": "hg2-title",
+          "type": "text",
+          "position": {
+            "x": 80,
+            "y": 80,
+            "width": 600,
+            "height": 260
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "200px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "left"
+          },
+          "content": "자음",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg2-count",
+          "type": "text",
+          "position": {
+            "x": 1400,
+            "y": 180,
+            "width": 400,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "500",
+            "color": "#ffffff",
+            "textAlign": "right"
+          },
+          "content": "14 Consonants",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg2-chars",
+          "type": "text",
+          "position": {
+            "x": 60,
+            "y": 700,
+            "width": 1800,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "52px",
+            "fontWeight": "900",
+            "color": "#1a1a1a",
+            "textAlign": "center",
+            "letterSpacing": "24px"
+          },
+          "content": "ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-hg-3",
+      "order": 2,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#ffe066"
+      },
+      "elements": [
+        {
+          "id": "hg3-title",
+          "type": "text",
+          "position": {
+            "x": 1100,
+            "y": 80,
+            "width": 700,
+            "height": 260
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "200px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "right"
+          },
+          "content": "모음",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg3-count",
+          "type": "text",
+          "position": {
+            "x": 100,
+            "y": 180,
+            "width": 300,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "500",
+            "color": "#1a1a1a",
+            "textAlign": "left"
+          },
+          "content": "10 Vowels",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg3-chars",
+          "type": "text",
+          "position": {
+            "x": 60,
+            "y": 700,
+            "width": 1800,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "52px",
+            "fontWeight": "900",
+            "color": "#1a1a1a",
+            "textAlign": "center",
+            "letterSpacing": "28px"
+          },
+          "content": "ㅏ ㅑ ㅓ ㅕ ㅗ ㅛ ㅜ ㅠ ㅡ ㅣ",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-hg-4",
+      "order": 3,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#c5a3ff"
+      },
+      "elements": [
+        {
+          "id": "hg4-big",
+          "type": "text",
+          "position": {
+            "x": 0,
+            "y": 200,
+            "width": 900,
+            "height": 500
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "350px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "center"
+          },
+          "content": "가",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg4-roman",
+          "type": "text",
+          "position": {
+            "x": 1050,
+            "y": 300,
+            "width": 400,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "60px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "left"
+          },
+          "content": "ga",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg4-formula",
+          "type": "text",
+          "position": {
+            "x": 1050,
+            "y": 420,
+            "width": 500,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "40px",
+            "fontWeight": "700",
+            "color": "#1a1a1a",
+            "textAlign": "left"
+          },
+          "content": "ㄱ + ㅏ = 가",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg4-desc",
+          "type": "text",
+          "position": {
+            "x": 1050,
+            "y": 500,
+            "width": 500,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.6,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#1a1a1a",
+            "textAlign": "left"
+          },
+          "content": "기역 + 아 = 가",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-hg-5",
+      "order": 4,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#6ec6ff"
+      },
+      "elements": [
+        {
+          "id": "hg5-big",
+          "type": "text",
+          "position": {
+            "x": 460,
+            "y": 100,
+            "width": 1000,
+            "height": 400
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "300px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "center"
+          },
+          "content": "나",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg5-desc",
+          "type": "text",
+          "position": {
+            "x": 460,
+            "y": 540,
+            "width": 1000,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "32px",
+            "fontWeight": "600",
+            "color": "#1a1a1a",
+            "textAlign": "center"
+          },
+          "content": "na — 나 means 'I' or 'me'",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg5-emoji",
+          "type": "text",
+          "position": {
+            "x": 900,
+            "y": 650,
+            "width": 120,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "60px",
+            "fontWeight": "400",
+            "color": "#000000",
+            "textAlign": "center"
+          },
+          "content": "🙋",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-hg-6",
+      "order": 5,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#ff5ca1"
+      },
+      "elements": [
+        {
+          "id": "hg6-big",
+          "type": "text",
+          "position": {
+            "x": 900,
+            "y": 150,
+            "width": 900,
+            "height": 380
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "280px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "right"
+          },
+          "content": "다",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg6-roman",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 300,
+            "width": 300,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "48px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "left"
+          },
+          "content": "da",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg6-desc",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 400,
+            "width": 600,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.7,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "500",
+            "color": "#1a1a1a",
+            "textAlign": "left"
+          },
+          "content": "다 means 'all' or 'every'",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-hg-7",
+      "order": 6,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#b8ff57"
+      },
+      "elements": [
+        {
+          "id": "hg7-top",
+          "type": "text",
+          "position": {
+            "x": 360,
+            "y": 140,
+            "width": 1200,
+            "height": 260
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "200px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "center"
+          },
+          "content": "안녕",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg7-bot",
+          "type": "text",
+          "position": {
+            "x": 360,
+            "y": 400,
+            "width": 1200,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "160px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "center"
+          },
+          "content": "하세요",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg7-eng",
+          "type": "text",
+          "position": {
+            "x": 460,
+            "y": 680,
+            "width": 800,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.6,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#1a1a1a",
+            "textAlign": "center"
+          },
+          "content": "Hello! — An-nyeong-ha-se-yo",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg7-emoji",
+          "type": "text",
+          "position": {
+            "x": 1500,
+            "y": 200,
+            "width": 120,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "80px",
+            "fontWeight": "400",
+            "color": "#000000",
+            "textAlign": "center"
+          },
+          "content": "👋",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-hg-8",
+      "order": 7,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#ff9f43"
+      },
+      "elements": [
+        {
+          "id": "hg8-top",
+          "type": "text",
+          "position": {
+            "x": 360,
+            "y": 180,
+            "width": 1200,
+            "height": 230
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "180px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "center"
+          },
+          "content": "감사",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg8-bot",
+          "type": "text",
+          "position": {
+            "x": 360,
+            "y": 420,
+            "width": 1200,
+            "height": 180
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "140px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "center"
+          },
+          "content": "합니다",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg8-eng",
+          "type": "text",
+          "position": {
+            "x": 460,
+            "y": 660,
+            "width": 800,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.6,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#1a1a1a",
+            "textAlign": "center"
+          },
+          "content": "Thank you — Gam-sa-ham-ni-da",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg8-emoji",
+          "type": "text",
+          "position": {
+            "x": 1500,
+            "y": 250,
+            "width": 100,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "60px",
+            "fontWeight": "400",
+            "color": "#000000",
+            "textAlign": "center"
+          },
+          "content": "🙏",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-hg-9",
+      "order": 8,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#7bed9f"
+      },
+      "elements": [
+        {
+          "id": "hg9-title",
+          "type": "text",
+          "position": {
+            "x": 80,
+            "y": 60,
+            "width": 400,
+            "height": 130
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "100px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "left"
+          },
+          "content": "숫자",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg9-row1-kr",
+          "type": "text",
+          "position": {
+            "x": 160,
+            "y": 300,
+            "width": 1600,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "64px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "center",
+            "letterSpacing": "60px"
+          },
+          "content": "일  이  삼  사  오",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg9-row1-num",
+          "type": "text",
+          "position": {
+            "x": 160,
+            "y": 390,
+            "width": 1600,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "40px",
+            "fontWeight": "500",
+            "color": "#555555",
+            "textAlign": "center",
+            "letterSpacing": "80px"
+          },
+          "content": "1   2   3   4   5",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg9-row2-kr",
+          "type": "text",
+          "position": {
+            "x": 160,
+            "y": 540,
+            "width": 1600,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "64px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "center",
+            "letterSpacing": "60px"
+          },
+          "content": "육  칠  팔  구  십",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg9-row2-num",
+          "type": "text",
+          "position": {
+            "x": 160,
+            "y": 630,
+            "width": 1600,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 0.5,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "40px",
+            "fontWeight": "500",
+            "color": "#555555",
+            "textAlign": "center",
+            "letterSpacing": "72px"
+          },
+          "content": "6   7   8   9  10",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-hg-10",
+      "order": 9,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#ffd3b6"
+      },
+      "elements": [
+        {
+          "id": "hg10-title",
+          "type": "text",
+          "position": {
+            "x": 360,
+            "y": 250,
+            "width": 1200,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "160px",
+            "fontWeight": "900",
+            "color": "#000000",
+            "textAlign": "center"
+          },
+          "content": "잘 했어요!",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg10-eng",
+          "type": "text",
+          "position": {
+            "x": 660,
+            "y": 470,
+            "width": 600,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "48px",
+            "fontWeight": "700",
+            "color": "#1a1a1a",
+            "textAlign": "center"
+          },
+          "content": "Great job!",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg10-bye",
+          "type": "text",
+          "position": {
+            "x": 460,
+            "y": 600,
+            "width": 1000,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 0.6,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#1a1a1a",
+            "textAlign": "center"
+          },
+          "content": "다음 시간에 만나요 — See you next time",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg10-star",
+          "type": "text",
+          "position": {
+            "x": 300,
+            "y": 150,
+            "width": 80,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "60px",
+            "fontWeight": "400",
+            "color": "#000000",
+            "textAlign": "center"
+          },
+          "content": "⭐",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "hg10-party",
+          "type": "text",
+          "position": {
+            "x": 1540,
+            "y": 180,
+            "width": 80,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "60px",
+            "fontWeight": "400",
+            "color": "#000000",
+            "textAlign": "center"
+          },
+          "content": "🎉",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    }
+  ],
+  "timeline": {
+    "total_duration": 0,
+    "audio_tracks": [],
+    "subtitle_track": []
+  },
+  "narration": null,
+  "chat_history": []
+}

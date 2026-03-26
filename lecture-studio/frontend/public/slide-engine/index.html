@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=1920" />
+  <title>Slide Engine</title>
+  <link rel="stylesheet" as="style" crossorigin
+    href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable-dynamic-subset.min.css" />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      width: 1920px;
+      height: 1080px;
+      overflow: hidden;
+      font-family: "Pretendard Variable", Pretendard, -apple-system,
+        BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", sans-serif;
+      background: #FFFFFF;
+    }
+    #slide-container {
+      position: relative;
+      width: 1920px;
+      height: 1080px;
+      overflow: hidden;
+    }
+  </style>
+</head>
+<body>
+  <div id="slide-container"></div>
+
+  <script src="timeline-controller.js"></script>
+  <script src="element-renderer.js"></script>
+  <script src="animation-system.js"></script>
+  <script src="transition-library.js"></script>
+  <script src="scene-manager.js"></script>
+  <script src="engine.js"></script>
+  <script>
+    // Initialize engine
+    const container = document.getElementById('slide-container');
+    const engine = new SlideEngine(container, { width: 1920, height: 1080, fps: 30 });
+
+    // Global access for Puppeteer
+    window.slideEngine = engine;
+    window.renderFrame = (timeMs) => engine.renderFrame(timeMs);
+
+    // Listen for postMessage from parent (React editor iframe communication)
+    window.addEventListener('message', (event) => {
+      const { type, payload } = event.data || {};
+      if (type) {
+        console.log('[SlideEngine] Received:', type,
+          type === 'LOAD_PROJECT' ? `slides: ${payload?.slides?.length}` :
+          type === 'UPDATE_SLIDES' ? `slides: ${payload?.length}` : '');
+      }
+      switch (type) {
+        case 'LOAD_PROJECT':
+          engine.loadProject(payload);
+          console.log('[SlideEngine] After loadProject, container children:', container.children.length, 'innerHTML length:', container.innerHTML.length);
+          break;
+        case 'UPDATE_SLIDES':
+          engine.updateSlides(payload);
+          console.log('[SlideEngine] After updateSlides, container children:', container.children.length);
+          break;
+        case 'SEEK':
+          engine.seek(payload.timeMs);
+          break;
+        case 'PLAY':
+          engine.play();
+          break;
+        case 'PAUSE':
+          engine.pause();
+          break;
+      }
+    });
+  </script>
+</body>
+</html>

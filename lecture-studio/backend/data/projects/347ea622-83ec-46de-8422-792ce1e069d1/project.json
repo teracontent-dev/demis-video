@@ -1,0 +1,1951 @@
+{
+  "id": "347ea622-83ec-46de-8422-792ce1e069d1",
+  "title": "새 강의",
+  "created_at": "2026-03-26T14:17:13.146382",
+  "updated_at": "2026-03-26T14:17:13.246456",
+  "settings": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 30,
+    "font_family": "Pretendard Variable",
+    "export_preset": "standard"
+  },
+  "script": {
+    "type": "doc",
+    "content": []
+  },
+  "slides": [
+    {
+      "id": "tpl-dp-1",
+      "order": 0,
+      "duration": 5000,
+      "background": {
+        "type": "solid",
+        "value": "#f5f5f0"
+      },
+      "elements": [
+        {
+          "id": "dp1-bar",
+          "type": "shape",
+          "position": {
+            "x": 140,
+            "y": 200,
+            "width": 6,
+            "height": 400
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#1a1a1a",
+            "borderRadius": "3px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideDown",
+              "duration": 600,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp1-chap",
+          "type": "text",
+          "position": {
+            "x": 190,
+            "y": 220,
+            "width": 400,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "color": "#888888",
+            "textAlign": "left"
+          },
+          "content": "Policy Report 2024",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp1-title",
+          "type": "text",
+          "position": {
+            "x": 190,
+            "y": 270,
+            "width": 1000,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "64px",
+            "fontWeight": "800",
+            "color": "#1a1a1a",
+            "textAlign": "left",
+            "lineHeight": "1.2"
+          },
+          "content": "지방 중소도시\n혁신지구 도입 전략",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 600,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp1-sub",
+          "type": "text",
+          "position": {
+            "x": 190,
+            "y": 500,
+            "width": 800,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "color": "#666666",
+            "textAlign": "left"
+          },
+          "content": "특화발전과 거점 역할 강화를 위한 정책 제안서",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp1-line",
+          "type": "shape",
+          "position": {
+            "x": 190,
+            "y": 620,
+            "width": 200,
+            "height": 1
+          },
+          "rotation": 0,
+          "opacity": 0.3,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#1a1a1a",
+            "borderRadius": "0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp1-info",
+          "type": "text",
+          "position": {
+            "x": 190,
+            "y": 640,
+            "width": 500,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "color": "#999999",
+            "textAlign": "left"
+          },
+          "content": "도시혁신연구원  ·  2024.03",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 700,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp1-deco",
+          "type": "text",
+          "position": {
+            "x": 1300,
+            "y": 250,
+            "width": 500,
+            "height": 400
+          },
+          "rotation": 0,
+          "opacity": 0.04,
+          "zIndex": 1,
+          "style": {
+            "fontSize": "400px",
+            "fontWeight": "900",
+            "color": "#1a1a1a",
+            "textAlign": "center"
+          },
+          "content": "01",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 800,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-dp-2",
+      "order": 1,
+      "duration": 7000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "dp2-chap",
+          "type": "text",
+          "position": {
+            "x": 140,
+            "y": 100,
+            "width": 300,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "17px",
+            "fontWeight": "500",
+            "color": "#aaaaaa",
+            "textAlign": "left"
+          },
+          "content": "Chapter 1",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp2-title",
+          "type": "text",
+          "position": {
+            "x": 140,
+            "y": 140,
+            "width": 900,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#1a1a1a",
+            "textAlign": "left",
+            "lineHeight": "1.3"
+          },
+          "content": "특화발전을 위한 혁신지구 도입\n필요성과 주요 기능",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp2-div",
+          "type": "shape",
+          "position": {
+            "x": 140,
+            "y": 300,
+            "width": 1640,
+            "height": 1
+          },
+          "rotation": 0,
+          "opacity": 0.15,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#1a1a1a",
+            "borderRadius": "0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp2-sec",
+          "type": "text",
+          "position": {
+            "x": 140,
+            "y": 340,
+            "width": 800,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "700",
+            "color": "#1a1a1a",
+            "textAlign": "left",
+            "lineHeight": "1.4"
+          },
+          "content": "거점 지방 중소도시 역할 강화를 위한\n선진국가들의 노력",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp2-b1",
+          "type": "text",
+          "position": {
+            "x": 160,
+            "y": 470,
+            "width": 1560,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "color": "#444444",
+            "textAlign": "left",
+            "lineHeight": "1.8"
+          },
+          "content": "•  해외의 강소도시 육성전략, 컴팩트 & 네트워크 전략 등에서\n   찾아볼 수 있는 공통점은 도시의 입지와 기능 등을 고려하여\n   지방도시 중에서도 주변 거점기능을 담당하는 도시를\n   중심으로 전략적으로 접근한다는 점임",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp2-b2",
+          "type": "text",
+          "position": {
+            "x": 160,
+            "y": 640,
+            "width": 1560,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "20px",
+            "fontWeight": "400",
+            "color": "#444444",
+            "textAlign": "left",
+            "lineHeight": "1.8"
+          },
+          "content": "•  또 하나 공통적으로 강조하고 있는 사항은 경제적인\n   거점 조성을 위해 가장 핵심적으로 다루고 있는 컨텐츠가\n   지역산업의 특화라는 점임",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp2-pg",
+          "type": "text",
+          "position": {
+            "x": 1700,
+            "y": 1000,
+            "width": 100,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#cccccc",
+            "textAlign": "right"
+          },
+          "content": "02",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "slide-left",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-dp-3",
+      "order": 2,
+      "duration": 7000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "dp3-chap",
+          "type": "text",
+          "position": {
+            "x": 140,
+            "y": 100,
+            "width": 300,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "17px",
+            "fontWeight": "500",
+            "color": "#aaaaaa",
+            "textAlign": "left"
+          },
+          "content": "Chapter 2",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-title",
+          "type": "text",
+          "position": {
+            "x": 140,
+            "y": 140,
+            "width": 900,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#1a1a1a",
+            "textAlign": "left"
+          },
+          "content": "해외 주요국 도시 전략 비교",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-div",
+          "type": "shape",
+          "position": {
+            "x": 140,
+            "y": 240,
+            "width": 1640,
+            "height": 1
+          },
+          "rotation": 0,
+          "opacity": 0.15,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#1a1a1a",
+            "borderRadius": "0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-c1",
+          "type": "shape",
+          "position": {
+            "x": 140,
+            "y": 290,
+            "width": 500,
+            "height": 540
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f8f8f5",
+            "borderRadius": "16px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-c1-flag",
+          "type": "text",
+          "position": {
+            "x": 180,
+            "y": 330,
+            "width": 60,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "40px",
+            "textAlign": "center"
+          },
+          "content": "🇩🇪",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-c1-t",
+          "type": "text",
+          "position": {
+            "x": 180,
+            "y": 400,
+            "width": 420,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "700",
+            "color": "#1a1a1a",
+            "textAlign": "left"
+          },
+          "content": "독일",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-c1-st",
+          "type": "text",
+          "position": {
+            "x": 180,
+            "y": 445,
+            "width": 420,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "600",
+            "color": "#888888",
+            "textAlign": "left"
+          },
+          "content": "Gleichwertige Lebensverhältnisse",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 420,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-c1-d",
+          "type": "text",
+          "position": {
+            "x": 180,
+            "y": 500,
+            "width": 420,
+            "height": 250
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "color": "#555555",
+            "textAlign": "left",
+            "lineHeight": "1.7"
+          },
+          "content": "•  균등한 생활여건 보장 원칙\n•  중소도시 네트워크 육성\n•  지역 산업 클러스터 집중\n•  연방-주 공동과제 체계",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-c2",
+          "type": "shape",
+          "position": {
+            "x": 700,
+            "y": 290,
+            "width": 500,
+            "height": 540
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f8f8f5",
+            "borderRadius": "16px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-c2-flag",
+          "type": "text",
+          "position": {
+            "x": 740,
+            "y": 330,
+            "width": 60,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "40px",
+            "textAlign": "center"
+          },
+          "content": "🇯🇵",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-c2-t",
+          "type": "text",
+          "position": {
+            "x": 740,
+            "y": 400,
+            "width": 420,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "700",
+            "color": "#1a1a1a",
+            "textAlign": "left"
+          },
+          "content": "일본",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-c2-st",
+          "type": "text",
+          "position": {
+            "x": 740,
+            "y": 445,
+            "width": 420,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "600",
+            "color": "#888888",
+            "textAlign": "left"
+          },
+          "content": "コンパクトシティ",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 520,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-c2-d",
+          "type": "text",
+          "position": {
+            "x": 740,
+            "y": 500,
+            "width": 420,
+            "height": 250
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "color": "#555555",
+            "textAlign": "left",
+            "lineHeight": "1.7"
+          },
+          "content": "•  컴팩트시티 + 네트워크\n•  입지적정화 계획 수립\n•  도시기능 집약화 추진\n•  지방창생 교부금 지원",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-c3",
+          "type": "shape",
+          "position": {
+            "x": 1260,
+            "y": 290,
+            "width": 500,
+            "height": 540
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f8f8f5",
+            "borderRadius": "16px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-c3-flag",
+          "type": "text",
+          "position": {
+            "x": 1300,
+            "y": 330,
+            "width": 60,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "40px",
+            "textAlign": "center"
+          },
+          "content": "🇫🇷",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-c3-t",
+          "type": "text",
+          "position": {
+            "x": 1300,
+            "y": 400,
+            "width": 420,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "28px",
+            "fontWeight": "700",
+            "color": "#1a1a1a",
+            "textAlign": "left"
+          },
+          "content": "프랑스",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-c3-st",
+          "type": "text",
+          "position": {
+            "x": 1300,
+            "y": 445,
+            "width": 420,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "600",
+            "color": "#888888",
+            "textAlign": "left"
+          },
+          "content": "Pôles de compétitivité",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 620,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-c3-d",
+          "type": "text",
+          "position": {
+            "x": 1300,
+            "y": 500,
+            "width": 420,
+            "height": 250
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "400",
+            "color": "#555555",
+            "textAlign": "left",
+            "lineHeight": "1.7"
+          },
+          "content": "•  경쟁력 거점(Pôle) 지정\n•  산학연 클러스터 중심\n•  지방분권 개혁 병행\n•  메트로폴 광역연계",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 650,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp3-pg",
+          "type": "text",
+          "position": {
+            "x": 1700,
+            "y": 1000,
+            "width": 100,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#cccccc",
+            "textAlign": "right"
+          },
+          "content": "03",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 700,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "slide-left",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-dp-4",
+      "order": 3,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#f5f5f0"
+      },
+      "elements": [
+        {
+          "id": "dp4-chap",
+          "type": "text",
+          "position": {
+            "x": 140,
+            "y": 100,
+            "width": 300,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "17px",
+            "fontWeight": "500",
+            "color": "#aaaaaa",
+            "textAlign": "left"
+          },
+          "content": "Chapter 3",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp4-title",
+          "type": "text",
+          "position": {
+            "x": 140,
+            "y": 140,
+            "width": 900,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#1a1a1a",
+            "textAlign": "left"
+          },
+          "content": "국내 중소도시 현황",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp4-div",
+          "type": "shape",
+          "position": {
+            "x": 140,
+            "y": 240,
+            "width": 1640,
+            "height": 1
+          },
+          "rotation": 0,
+          "opacity": 0.15,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#1a1a1a",
+            "borderRadius": "0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp4-n1",
+          "type": "text",
+          "position": {
+            "x": 140,
+            "y": 320,
+            "width": 480,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "88px",
+            "fontWeight": "900",
+            "color": "#1a1a1a",
+            "textAlign": "center"
+          },
+          "content": "89개",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp4-d1",
+          "type": "text",
+          "position": {
+            "x": 140,
+            "y": 450,
+            "width": 480,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "20px",
+            "fontWeight": "500",
+            "color": "#888888",
+            "textAlign": "center",
+            "lineHeight": "1.5"
+          },
+          "content": "인구감소 위기지역\n(전체 시군의 52%)",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp4-n2",
+          "type": "text",
+          "position": {
+            "x": 720,
+            "y": 320,
+            "width": 480,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "88px",
+            "fontWeight": "900",
+            "color": "#1a1a1a",
+            "textAlign": "center"
+          },
+          "content": "-23%",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp4-d2",
+          "type": "text",
+          "position": {
+            "x": 720,
+            "y": 450,
+            "width": 480,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "20px",
+            "fontWeight": "500",
+            "color": "#888888",
+            "textAlign": "center",
+            "lineHeight": "1.5"
+          },
+          "content": "10년간 지방 중소도시\n인구 감소율",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp4-n3",
+          "type": "text",
+          "position": {
+            "x": 1300,
+            "y": 320,
+            "width": 480,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "88px",
+            "fontWeight": "900",
+            "color": "#1a1a1a",
+            "textAlign": "center"
+          },
+          "content": "3.2조",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp4-d3",
+          "type": "text",
+          "position": {
+            "x": 1300,
+            "y": 450,
+            "width": 480,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "20px",
+            "fontWeight": "500",
+            "color": "#888888",
+            "textAlign": "center",
+            "lineHeight": "1.5"
+          },
+          "content": "연간 지역소멸 관련\n경제적 손실 추정",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp4-qbg",
+          "type": "shape",
+          "position": {
+            "x": 140,
+            "y": 600,
+            "width": 1640,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "16px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp4-q",
+          "type": "text",
+          "position": {
+            "x": 200,
+            "y": 640,
+            "width": 1520,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "color": "#555555",
+            "textAlign": "left",
+            "lineHeight": "1.7"
+          },
+          "content": "\"지방 중소도시의 소멸은 단순한 인구 감소가 아니라, 지역 경제·교육·의료\n인프라의 연쇄 붕괴를 의미합니다. 선제적 거점도시 전략이 시급합니다.\"",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp4-qa",
+          "type": "text",
+          "position": {
+            "x": 200,
+            "y": 770,
+            "width": 400,
+            "height": 24
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "15px",
+            "fontWeight": "600",
+            "color": "#aaaaaa",
+            "textAlign": "left"
+          },
+          "content": "— 국토연구원, 2024",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 700,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp4-pg",
+          "type": "text",
+          "position": {
+            "x": 1700,
+            "y": 1000,
+            "width": 100,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#cccccc",
+            "textAlign": "right"
+          },
+          "content": "04",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 700,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-dp-5",
+      "order": 4,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#1a1a1a"
+      },
+      "elements": [
+        {
+          "id": "dp5-chap",
+          "type": "text",
+          "position": {
+            "x": 140,
+            "y": 100,
+            "width": 300,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "17px",
+            "fontWeight": "500",
+            "color": "#666666",
+            "textAlign": "left"
+          },
+          "content": "Chapter 4",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-title",
+          "type": "text",
+          "position": {
+            "x": 140,
+            "y": 140,
+            "width": 1000,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "800",
+            "color": "#f0f0e8",
+            "textAlign": "left"
+          },
+          "content": "4대 핵심 정책 제안",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-div",
+          "type": "shape",
+          "position": {
+            "x": 140,
+            "y": 240,
+            "width": 1640,
+            "height": 1
+          },
+          "rotation": 0,
+          "opacity": 0.1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c1",
+          "type": "shape",
+          "position": {
+            "x": 140,
+            "y": 300,
+            "width": 780,
+            "height": 280
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#242424",
+            "borderRadius": "16px",
+            "borderColor": "#333333",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 250,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c1-n",
+          "type": "text",
+          "position": {
+            "x": 180,
+            "y": 330,
+            "width": 60,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "36px",
+            "fontWeight": "800",
+            "color": "#f5f5f0",
+            "textAlign": "left"
+          },
+          "content": "01",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c1-t",
+          "type": "text",
+          "position": {
+            "x": 180,
+            "y": 390,
+            "width": 700,
+            "height": 35
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#f0f0e8",
+            "textAlign": "left"
+          },
+          "content": "거점 혁신지구 지정 및 특화산업 육성",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c1-d",
+          "type": "text",
+          "position": {
+            "x": 180,
+            "y": 440,
+            "width": 700,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "color": "#888888",
+            "textAlign": "left",
+            "lineHeight": "1.6"
+          },
+          "content": "지역별 산업 특성을 분석하여 맞춤형\n혁신지구를 지정하고 집중 투자",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 430,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c2",
+          "type": "shape",
+          "position": {
+            "x": 1000,
+            "y": 300,
+            "width": 780,
+            "height": 280
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#242424",
+            "borderRadius": "16px",
+            "borderColor": "#333333",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c2-n",
+          "type": "text",
+          "position": {
+            "x": 1040,
+            "y": 330,
+            "width": 60,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "36px",
+            "fontWeight": "800",
+            "color": "#f5f5f0",
+            "textAlign": "left"
+          },
+          "content": "02",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c2-t",
+          "type": "text",
+          "position": {
+            "x": 1040,
+            "y": 390,
+            "width": 700,
+            "height": 35
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#f0f0e8",
+            "textAlign": "left"
+          },
+          "content": "광역 네트워크 연계 체계 구축",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c2-d",
+          "type": "text",
+          "position": {
+            "x": 1040,
+            "y": 440,
+            "width": 700,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "color": "#888888",
+            "textAlign": "left",
+            "lineHeight": "1.6"
+          },
+          "content": "인접 중소도시 간 기능 분담 및\n교통·디지털 인프라 공동 구축",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 530,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c3",
+          "type": "shape",
+          "position": {
+            "x": 140,
+            "y": 640,
+            "width": 780,
+            "height": 280
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#242424",
+            "borderRadius": "16px",
+            "borderColor": "#333333",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c3-n",
+          "type": "text",
+          "position": {
+            "x": 180,
+            "y": 670,
+            "width": 60,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "36px",
+            "fontWeight": "800",
+            "color": "#f5f5f0",
+            "textAlign": "left"
+          },
+          "content": "03",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c3-t",
+          "type": "text",
+          "position": {
+            "x": 180,
+            "y": 730,
+            "width": 700,
+            "height": 35
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#f0f0e8",
+            "textAlign": "left"
+          },
+          "content": "정주여건 개선 패키지 도입",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c3-d",
+          "type": "text",
+          "position": {
+            "x": 180,
+            "y": 780,
+            "width": 700,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "color": "#888888",
+            "textAlign": "left",
+            "lineHeight": "1.6"
+          },
+          "content": "의료·교육·문화 복합시설 확충으로\n청년 유입 기반 조성",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 630,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c4",
+          "type": "shape",
+          "position": {
+            "x": 1000,
+            "y": 640,
+            "width": 780,
+            "height": 280
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#242424",
+            "borderRadius": "16px",
+            "borderColor": "#333333",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c4-n",
+          "type": "text",
+          "position": {
+            "x": 1040,
+            "y": 670,
+            "width": 60,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "36px",
+            "fontWeight": "800",
+            "color": "#f5f5f0",
+            "textAlign": "left"
+          },
+          "content": "04",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 650,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c4-t",
+          "type": "text",
+          "position": {
+            "x": 1040,
+            "y": 730,
+            "width": 700,
+            "height": 35
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#f0f0e8",
+            "textAlign": "left"
+          },
+          "content": "성과 기반 재정 지원 체계",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 700,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-c4-d",
+          "type": "text",
+          "position": {
+            "x": 1040,
+            "y": 780,
+            "width": 700,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "17px",
+            "fontWeight": "400",
+            "color": "#888888",
+            "textAlign": "left",
+            "lineHeight": "1.6"
+          },
+          "content": "KPI 달성도에 따른 차등 지원으로\n자율성과 책임성 동시 확보",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 730,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "dp5-pg",
+          "type": "text",
+          "position": {
+            "x": 1700,
+            "y": 1000,
+            "width": 100,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#444444",
+            "textAlign": "right"
+          },
+          "content": "05",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 800,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    }
+  ],
+  "timeline": {
+    "total_duration": 0,
+    "audio_tracks": [],
+    "subtitle_track": []
+  },
+  "narration": null,
+  "chat_history": []
+}

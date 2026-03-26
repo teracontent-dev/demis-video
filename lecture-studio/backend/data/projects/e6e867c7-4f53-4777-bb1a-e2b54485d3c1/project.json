@@ -1,0 +1,26 @@
+{
+  "id": "e6e867c7-4f53-4777-bb1a-e2b54485d3c1",
+  "title": "새 프로젝트",
+  "created_at": "2026-03-25T19:28:57.708052",
+  "updated_at": "2026-03-25T19:28:57.708056",
+  "settings": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 30,
+    "font_family": "Pretendard Variable",
+    "export_preset": "standard"
+  },
+  "script": {
+    "type": "doc",
+    "content": []
+  },
+  "slides": [],
+  "timeline": {
+    "total_duration": 0,
+    "audio_tracks": [],
+    "subtitle_track": []
+  },
+  "chat_history": []
+}

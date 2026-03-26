@@ -1,0 +1,4278 @@
+{
+  "id": "0638aeba-0ddb-41e2-8be8-61e6031c7369",
+  "title": "새 프로젝트",
+  "created_at": "2026-03-25T19:33:59.229178",
+  "updated_at": "2026-03-26T12:38:59.573606",
+  "settings": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 30,
+    "font_family": "Pretendard Variable",
+    "export_preset": "standard"
+  },
+  "script": {
+    "type": "doc",
+    "content": [
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "text": "\n\n"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "[인트로 및 학습 목표 안내]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "(화면: Slide 1~2)"
+          },
+          {
+            "type": "text",
+            "text": "\n여러분, 안녕하세요. TOPIK II 읽기 4차시 수업을 시작하겠습니다. \n오늘의 학습 목표는 크게 두 가지입니다. 첫째, 글을 쓴 필자의 태도에 대한 다양한 어휘를 이해하는 것입니다. 둘째, 읽기 유형 10번인 '필자의 태도 고르기' 문제의 유형을 살펴보고 푸는 방법을 익히는 것입니다. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "[읽기 유형 10의 문제 파악]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "(화면: Slide 3)"
+          },
+          {
+            "type": "text",
+            "text": "\n먼저 읽기 유형 10번이 어떤 문제인지 파악해 보겠습니다. 이 유형은 논설문을 읽고 필자의 태도를 찾아내는 문제입니다. 난이도는 6급 수준이며, 하나의 지문을 읽고 두 개의 문제를 푸는 묶음형 문제로 출제됩니다. \n문제를 푸는 핵심은 '필자가 글을 쓴 목적'을 파악하는 것입니다. 목적을 알면 태도도 자연스럽게 알 수 있습니다. 예를 들어 사회의 문제점을 알리기 위해 쓴 글이라면, 정답은 '지적하고 있다' 또는 '비판하고 있다'가 될 것입니다. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "[필자의 태도 관련 어휘 학습]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "(화면: Slide 4)"
+          },
+          {
+            "type": "text",
+            "text": "\n선택지에 자주 등장하는 필자의 태도 관련 어휘들을 살펴보겠습니다. 이 단어들의 뜻을 정확히 알아야 정답을 찾을 수 있습니다. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "가정하다:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 만약 자신이 그 입장이라면 어떻게 될지 생각해보는 태도입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "감탄하다:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 놀랍거나 훌륭한 사실을 보고 감동하는 태도입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "강조하다 / 주장하다:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 자신의 의견이나 꼭 해야 할 일을 힘주어 반복적으로 말하는 태도입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "경계하다 / 염려하다 / 우려하다:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 앞으로 안 좋은 일이 생길 것을 걱정하고 조심하는 태도입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "공감하다 / 수긍하다 / 인정하다:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 상대방의 의견에 동의하고 같은 마음을 가지는 태도입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "비판하다 / 지적하다:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 무언가 잘못되었다고 꼬집어 말하는 태도입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "설득하다:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 자신의 주장을 통해 상대방의 생각을 변화시키고 이해시키는 태도입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "옹호하다:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 대립하는 의견 중 특정 입장이 옳다고 편들어 주는 태도입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "요구하다:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 국가나 기관에 어떤 제도를 만들어 달라고 요청하는 태도입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "회의적이다:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 어떤 해결책이나 상황에 대해 긍정적으로 생각하지 않고 의심하는 태도입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "[지문 관련 주요 어휘 및 표현]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "(화면: Slide 6~7)"
+          },
+          {
+            "type": "text",
+            "text": "\n이어서 지문과 문제에 등장하는 주요 어휘와 문법 표현을 정리해 보겠습니다. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "빈곤하다:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 가난하여 생활하기 어렵다는 뜻입니다. 명사형인 '빈곤'으로도 자주 쓰입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "~에도 불구하고:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 앞말의 상황과는 다르게 반대되는 결과가 이어질 때 사용합니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "여력:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 어떤 일을 하고 난 뒤 남은 힘이나 능력을 뜻합니다. 예를 들어 \"움직일 여력이 없다\"라고 표현할 수 있습니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "과다하다:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 지나치게 많다는 뜻입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "기인하다:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 어떤 사건이나 현상의 원인이 된다는 뜻입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "~고 말다:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 지갑을 잃어버리고 말았다 처럼, 안타깝게도 원치 않는 결과가 끝내 일어났음을 나타내는 표현입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "bold"
+                      }
+                    ],
+                    "text": "시행하다:"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 법이나 제도를 대중에게 알리고 실제로 실행한다는 뜻입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "[문제 풀이 및 단계별 전략]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "(화면: Slide 8~9)"
+          },
+          {
+            "type": "text",
+            "text": "\n이제 배운 내용을 바탕으로 실제 문제를 풀어보겠습니다. 근로 빈곤층에 관한 지문입니다. 단계별로 접근해 볼까요? "
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "1단계, 글을 쓴 목적 파악하기입니다."
+          },
+          {
+            "type": "text",
+            "text": " 지문 후반부를 보면 \"국가가 나서서 제도적 장치를 마련해 주어야만 한다\"라는 문장이 있습니다.  이처럼 '~어야 한다'라는 표현이 들어간 곳에 글의 핵심 목적이 나타납니다. 즉, 필자는 개인의 빈곤을 국가가 나서서 해결해 주어야 한다고 강하게 '주장'하고 있습니다. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "2단계, 선택지 확인하기입니다."
+          },
+          {
+            "type": "text",
+            "text": " "
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "bulletList",
+        "content": [
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "1번: '최저생계비를 주는 고용주를 비판하고 있다'. 이 글의 비판 대상은 고용주가 아니라 사회 구조적 문제이므로 오답입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "2번: '개인의 빈곤을 국가가 지원해야 한다고 강조하고 있다'. 1단계에서 파악한 필자의 목적과 정확히 일치합니다. 정답은 2번입니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          },
+          {
+            "type": "listItem",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "type": "text",
+                    "text": "3번과 4번: 근로 빈곤층이 곧 사라질 것을 '긍정적으로 예상'한다거나 최저생계비가 떨어질 것을 '우려'한다는 내용은 본문에 언급되지 않았습니다. "
+                  }
+                ]
+              },
+              {
+                "type": "paragraph"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "horizontalRule"
+      },
+      {
+        "type": "heading",
+        "attrs": {
+          "level": 3
+        },
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "[정리 및 다음 차시 안내]"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "marks": [
+              {
+                "type": "bold"
+              }
+            ],
+            "text": "(화면: Slide 10~12)"
+          },
+          {
+            "type": "text",
+            "text": "\n오늘 4차시 수업에서는 읽기 유형 10번, 필자의 태도를 파악하는 문제에 대해 학습했습니다. 필자의 태도 관련 어휘를 익히고, 글의 목적을 파악해 정답을 찾는 전략을 확인했습니다. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "오늘 배운 유형을 복습하시고, 모르는 단어와 표현은 꼭 사전을 찾아 공책에 정리해 두시기 바랍니다. 다음 5차시에는 53번 표와 그래프 분석하기, 54번 주제에 대해 글쓰기, 그리고 원고지 사용법에 대해 학습하겠습니다. "
+          }
+        ]
+      },
+      {
+        "type": "paragraph"
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "오늘 수업은 여기서 마치겠습니다. 감사합니다"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "\n\n"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": [
+          {
+            "type": "text",
+            "text": "\n\n"
+          }
+        ]
+      }
+    ]
+  },
+  "slides": [
+    {
+      "id": "tpl-lp-1",
+      "order": 0,
+      "duration": 5000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "lp1-accent",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 8,
+            "height": 1080
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 1,
+          "style": {
+            "backgroundColor": "#2563eb",
+            "borderRadius": "0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideRight",
+              "duration": 600,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp1-tag",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 340,
+            "width": 300,
+            "height": 32
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "15px",
+            "fontWeight": "600",
+            "color": "#2563eb",
+            "textAlign": "left",
+            "letterSpacing": "3px"
+          },
+          "content": "PRODUCT LAUNCH 2024",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp1-title",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 380,
+            "width": 900,
+            "height": 140
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "68px",
+            "fontWeight": "800",
+            "color": "#0f172a",
+            "textAlign": "left",
+            "lineHeight": "1.1"
+          },
+          "content": "더 나은 경험을\n디자인하다",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 600,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp1-sub",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 550,
+            "width": 700,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "color": "#64748b",
+            "textAlign": "left"
+          },
+          "content": "사용자 중심의 혁신적 솔루션으로 비즈니스를 성장시키세요.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp1-circle",
+          "type": "shape",
+          "position": {
+            "x": 1300,
+            "y": 200,
+            "width": 500,
+            "height": 500
+          },
+          "rotation": 0,
+          "opacity": 0.06,
+          "zIndex": 1,
+          "style": {
+            "backgroundColor": "#2563eb",
+            "borderRadius": "50%"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 800,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp1-circle2",
+          "type": "shape",
+          "position": {
+            "x": 1450,
+            "y": 350,
+            "width": 300,
+            "height": 300
+          },
+          "rotation": 0,
+          "opacity": 0.1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#2563eb",
+            "borderRadius": "50%"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 800,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp1-date",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 900,
+            "width": 300,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#94a3b8",
+            "textAlign": "left"
+          },
+          "content": "2024.03 — Confidential",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": "타이틀 슬라이드"
+    },
+    {
+      "id": "tpl-lp-2",
+      "order": 1,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#f8fafc"
+      },
+      "elements": [
+        {
+          "id": "lp2-tag",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 80,
+            "width": 200,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#ef4444",
+            "textAlign": "left",
+            "letterSpacing": "2px"
+          },
+          "content": "PROBLEM",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-title",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 115,
+            "width": 800,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "700",
+            "color": "#0f172a",
+            "textAlign": "left"
+          },
+          "content": "기존 방식의 한계",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c1",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 240,
+            "width": 520,
+            "height": 160
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "16px",
+            "borderColor": "#e2e8f0",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c1-num",
+          "type": "text",
+          "position": {
+            "x": 150,
+            "y": 260,
+            "width": 50,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "32px",
+            "fontWeight": "800",
+            "color": "#ef4444",
+            "textAlign": "left"
+          },
+          "content": "01",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c1-t",
+          "type": "text",
+          "position": {
+            "x": 220,
+            "y": 265,
+            "width": 380,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "20px",
+            "fontWeight": "600",
+            "color": "#0f172a",
+            "textAlign": "left"
+          },
+          "content": "복잡한 워크플로우",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c1-d",
+          "type": "text",
+          "position": {
+            "x": 220,
+            "y": 305,
+            "width": 380,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "color": "#64748b",
+            "textAlign": "left"
+          },
+          "content": "평균 12단계의 프로세스를 거쳐야 하나의 작업이 완료됩니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c2",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 430,
+            "width": 520,
+            "height": 160
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "16px",
+            "borderColor": "#e2e8f0",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c2-num",
+          "type": "text",
+          "position": {
+            "x": 150,
+            "y": 450,
+            "width": 50,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "32px",
+            "fontWeight": "800",
+            "color": "#ef4444",
+            "textAlign": "left"
+          },
+          "content": "02",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c2-t",
+          "type": "text",
+          "position": {
+            "x": 220,
+            "y": 455,
+            "width": 380,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "20px",
+            "fontWeight": "600",
+            "color": "#0f172a",
+            "textAlign": "left"
+          },
+          "content": "데이터 사일로",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c2-d",
+          "type": "text",
+          "position": {
+            "x": 220,
+            "y": 495,
+            "width": 380,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "color": "#64748b",
+            "textAlign": "left"
+          },
+          "content": "팀 간 정보가 공유되지 않아 의사결정이 지연됩니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-stat",
+          "type": "text",
+          "position": {
+            "x": 900,
+            "y": 280,
+            "width": 800,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "160px",
+            "fontWeight": "900",
+            "color": "#0f172a",
+            "textAlign": "center"
+          },
+          "content": "73%",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-stat-d",
+          "type": "text",
+          "position": {
+            "x": 950,
+            "y": 490,
+            "width": 700,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "center"
+          },
+          "content": "의 기업이 비효율적 프로세스로 인한\n생산성 저하를 경험하고 있습니다",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "slide-left",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-lp-3",
+      "order": 2,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "lp3-tag",
+          "type": "text",
+          "position": {
+            "x": 660,
+            "y": 80,
+            "width": 600,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#2563eb",
+            "textAlign": "center",
+            "letterSpacing": "2px"
+          },
+          "content": "SOLUTION",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-title",
+          "type": "text",
+          "position": {
+            "x": 310,
+            "y": 115,
+            "width": 1300,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "700",
+            "color": "#0f172a",
+            "textAlign": "center"
+          },
+          "content": "핵심 기능 3가지",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c1",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 250,
+            "width": 520,
+            "height": 440
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f0f7ff",
+            "borderRadius": "20px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c1-icon",
+          "type": "shape",
+          "position": {
+            "x": 180,
+            "y": 300,
+            "width": 64,
+            "height": 64
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#2563eb",
+            "borderRadius": "16px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c1-t",
+          "type": "text",
+          "position": {
+            "x": 180,
+            "y": 390,
+            "width": 400,
+            "height": 35
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#0f172a",
+            "textAlign": "left"
+          },
+          "content": "자동화 엔진",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c1-d",
+          "type": "text",
+          "position": {
+            "x": 180,
+            "y": 440,
+            "width": 400,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "color": "#64748b",
+            "textAlign": "left",
+            "lineHeight": "1.6"
+          },
+          "content": "반복 작업을 자동화하고\n12단계 → 3단계로\n프로세스를 단순화합니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c2",
+          "type": "shape",
+          "position": {
+            "x": 700,
+            "y": 250,
+            "width": 520,
+            "height": 440
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#fef3f2",
+            "borderRadius": "20px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c2-icon",
+          "type": "shape",
+          "position": {
+            "x": 760,
+            "y": 300,
+            "width": 64,
+            "height": 64
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#ef4444",
+            "borderRadius": "16px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c2-t",
+          "type": "text",
+          "position": {
+            "x": 760,
+            "y": 390,
+            "width": 400,
+            "height": 35
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#0f172a",
+            "textAlign": "left"
+          },
+          "content": "실시간 협업",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c2-d",
+          "type": "text",
+          "position": {
+            "x": 760,
+            "y": 440,
+            "width": 400,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "color": "#64748b",
+            "textAlign": "left",
+            "lineHeight": "1.6"
+          },
+          "content": "모든 팀원이 하나의\n워크스페이스에서 실시간으로\n함께 작업합니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c3",
+          "type": "shape",
+          "position": {
+            "x": 1280,
+            "y": 250,
+            "width": 520,
+            "height": 440
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f0fdf4",
+            "borderRadius": "20px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c3-icon",
+          "type": "shape",
+          "position": {
+            "x": 1340,
+            "y": 300,
+            "width": 64,
+            "height": 64
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#16a34a",
+            "borderRadius": "16px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c3-t",
+          "type": "text",
+          "position": {
+            "x": 1340,
+            "y": 390,
+            "width": 400,
+            "height": 35
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#0f172a",
+            "textAlign": "left"
+          },
+          "content": "AI 인사이트",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c3-d",
+          "type": "text",
+          "position": {
+            "x": 1340,
+            "y": 440,
+            "width": 400,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "color": "#64748b",
+            "textAlign": "left",
+            "lineHeight": "1.6"
+          },
+          "content": "데이터를 자동 분석하여\n핵심 인사이트와 액션\n아이템을 제안합니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "slide-left",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-lp-4",
+      "order": 3,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "lp4-tag",
+          "type": "text",
+          "position": {
+            "x": 660,
+            "y": 80,
+            "width": 600,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#2563eb",
+            "textAlign": "center",
+            "letterSpacing": "2px"
+          },
+          "content": "RESULTS",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-title",
+          "type": "text",
+          "position": {
+            "x": 310,
+            "y": 115,
+            "width": 1300,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "700",
+            "color": "#0f172a",
+            "textAlign": "center"
+          },
+          "content": "도입 후 변화",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-line",
+          "type": "shape",
+          "position": {
+            "x": 760,
+            "y": 200,
+            "width": 400,
+            "height": 2
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#e2e8f0",
+            "borderRadius": "1px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 150,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-n1",
+          "type": "text",
+          "position": {
+            "x": 100,
+            "y": 300,
+            "width": 400,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "96px",
+            "fontWeight": "900",
+            "color": "#2563eb",
+            "textAlign": "center"
+          },
+          "content": "3x",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 500,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-d1",
+          "type": "text",
+          "position": {
+            "x": 100,
+            "y": 430,
+            "width": 400,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "center"
+          },
+          "content": "업무 처리 속도 향상",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-n2",
+          "type": "text",
+          "position": {
+            "x": 560,
+            "y": 300,
+            "width": 400,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "96px",
+            "fontWeight": "900",
+            "color": "#ef4444",
+            "textAlign": "center"
+          },
+          "content": "-67%",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 500,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-d2",
+          "type": "text",
+          "position": {
+            "x": 560,
+            "y": 430,
+            "width": 400,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "center"
+          },
+          "content": "운영 비용 절감",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-n3",
+          "type": "text",
+          "position": {
+            "x": 1020,
+            "y": 300,
+            "width": 400,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "96px",
+            "fontWeight": "900",
+            "color": "#16a34a",
+            "textAlign": "center"
+          },
+          "content": "98%",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 500,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-d3",
+          "type": "text",
+          "position": {
+            "x": 1020,
+            "y": 430,
+            "width": 400,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "center"
+          },
+          "content": "고객 만족도",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-b1",
+          "type": "shape",
+          "position": {
+            "x": 200,
+            "y": 700,
+            "width": 160,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#dbeafe",
+            "borderRadius": "8px 8px 0 0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-b2",
+          "type": "shape",
+          "position": {
+            "x": 420,
+            "y": 640,
+            "width": 160,
+            "height": 140
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#93c5fd",
+            "borderRadius": "8px 8px 0 0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-b3",
+          "type": "shape",
+          "position": {
+            "x": 640,
+            "y": 560,
+            "width": 160,
+            "height": 220
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#60a5fa",
+            "borderRadius": "8px 8px 0 0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-b4",
+          "type": "shape",
+          "position": {
+            "x": 860,
+            "y": 500,
+            "width": 160,
+            "height": 280
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#2563eb",
+            "borderRadius": "8px 8px 0 0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 650,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-lp-5",
+      "order": 4,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#f8fafc"
+      },
+      "elements": [
+        {
+          "id": "lp5-tag",
+          "type": "text",
+          "position": {
+            "x": 660,
+            "y": 80,
+            "width": 600,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#2563eb",
+            "textAlign": "center",
+            "letterSpacing": "2px"
+          },
+          "content": "TESTIMONIAL",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp5-quote-mark",
+          "type": "text",
+          "position": {
+            "x": 300,
+            "y": 180,
+            "width": 150,
+            "height": 150
+          },
+          "rotation": 0,
+          "opacity": 0.08,
+          "zIndex": 1,
+          "style": {
+            "fontSize": "200px",
+            "fontWeight": "900",
+            "color": "#2563eb",
+            "textAlign": "center"
+          },
+          "content": "\"",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp5-quote",
+          "type": "text",
+          "position": {
+            "x": 310,
+            "y": 300,
+            "width": 1300,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "36px",
+            "fontWeight": "400",
+            "color": "#0f172a",
+            "textAlign": "center",
+            "lineHeight": "1.6"
+          },
+          "content": "도입 후 팀의 생산성이 눈에 띄게 향상되었습니다.\n무엇보다 팀원들이 반복 작업에서 벗어나\n창의적인 업무에 집중할 수 있게 된 점이 가장 큰 변화입니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp5-line",
+          "type": "shape",
+          "position": {
+            "x": 880,
+            "y": 500,
+            "width": 160,
+            "height": 3
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#2563eb",
+            "borderRadius": "2px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp5-author",
+          "type": "text",
+          "position": {
+            "x": 310,
+            "y": 540,
+            "width": 1300,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "600",
+            "color": "#0f172a",
+            "textAlign": "center"
+          },
+          "content": "김지현 — CTO, 넥스트테크",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp5-role",
+          "type": "text",
+          "position": {
+            "x": 310,
+            "y": 575,
+            "width": 1300,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "color": "#94a3b8",
+            "textAlign": "center"
+          },
+          "content": "Series B · 직원 120명 · SaaS",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 650,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 600,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-lp-6",
+      "order": 5,
+      "duration": 5000,
+      "background": {
+        "type": "solid",
+        "value": "#2563eb"
+      },
+      "elements": [
+        {
+          "id": "lp6-title",
+          "type": "text",
+          "position": {
+            "x": 260,
+            "y": 320,
+            "width": 1400,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "64px",
+            "fontWeight": "800",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "지금 시작하세요",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 600,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp6-sub",
+          "type": "text",
+          "position": {
+            "x": 460,
+            "y": 440,
+            "width": 1000,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "14일 무료 체험 · 신용카드 불필요 · 5분 만에 설정 완료",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp6-btn",
+          "type": "shape",
+          "position": {
+            "x": 760,
+            "y": 540,
+            "width": 400,
+            "height": 64
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "32px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp6-btn-text",
+          "type": "text",
+          "position": {
+            "x": 760,
+            "y": 550,
+            "width": 400,
+            "height": 44
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "20px",
+            "fontWeight": "700",
+            "color": "#2563eb",
+            "textAlign": "center"
+          },
+          "content": "무료 체험 시작하기 →",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp6-contact",
+          "type": "text",
+          "position": {
+            "x": 660,
+            "y": 680,
+            "width": 600,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.6,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "hello@product.com · product.com",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp6-deco1",
+          "type": "shape",
+          "position": {
+            "x": -100,
+            "y": -100,
+            "width": 400,
+            "height": 400
+          },
+          "rotation": 0,
+          "opacity": 0.1,
+          "zIndex": 1,
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "50%"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 800,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp6-deco2",
+          "type": "shape",
+          "position": {
+            "x": 1600,
+            "y": 700,
+            "width": 500,
+            "height": 500
+          },
+          "rotation": 0,
+          "opacity": 0.08,
+          "zIndex": 1,
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "50%"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 800,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "scale",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    }
+  ],
+  "timeline": {
+    "total_duration": 382516,
+    "audio_tracks": [
+      {
+        "id": "5d0d03b2-172d-4ed9-a2ca-92eafccc70c7",
+        "type": "tts",
+        "src": "/static/media/tts/0638aeba-0ddb-41e2-8be8-61e6031c7369/narration_full.mp3",
+        "start_time": 0,
+        "duration": 382516,
+        "volume": 1
+      }
+    ],
+    "subtitle_track": [
+      {
+        "id": "88ef445c-6476-48b5-8af6-a698b48d045f",
+        "start_time": 0,
+        "end_time": 1360,
+        "text": "네, 여러분 안녕하세요.",
+        "slide_index": 0
+      },
+      {
+        "id": "d3dbfdb5-e44b-4e5c-922a-65215a373b1b",
+        "start_time": 1360,
+        "end_time": 3678,
+        "text": "사차시 수업 시작하겠습니다.",
+        "slide_index": 0
+      },
+      {
+        "id": "70736662-4058-4a7b-a839-e6bc3049ecc1",
+        "start_time": 3678,
+        "end_time": 7116,
+        "text": "오늘은 필자의 태도에 대한 다양한 어휘를 배워볼 건데요,",
+        "slide_index": 1
+      },
+      {
+        "id": "c97bc59f-f04f-4ccb-ac27-699480fde929",
+        "start_time": 7116,
+        "end_time": 11874,
+        "text": "읽기 유형 십번, 필자의 태도 고르기 유형을 함께 살펴보겠습니다.",
+        "slide_index": 1
+      },
+      {
+        "id": "19aa2391-2a1a-489e-aa79-d3652cc06e03",
+        "start_time": 11874,
+        "end_time": 15227,
+        "text": "먼저 유형을 확인하고 관련 어휘를 학습한 다음에,",
+        "slide_index": 1
+      },
+      {
+        "id": "e43364b2-a1aa-46c3-9e01-6fc50187d4ec",
+        "start_time": 15227,
+        "end_time": 18260,
+        "text": "실제 문제를 같이 풀어보는 순서로 진행할게요.",
+        "slide_index": 1
+      },
+      {
+        "id": "d4b516ab-3231-4b87-8cef-05e3160bacaf",
+        "start_time": 18260,
+        "end_time": 21933,
+        "text": "자, 읽기 유형 십은 어떤 문제인지 한번 살펴볼까요.",
+        "slide_index": 2
+      },
+      {
+        "id": "e5500fa1-a265-4024-869a-3f427145844c",
+        "start_time": 21933,
+        "end_time": 27847,
+        "text": "이건 논설문, 그러니까 주장하는 글을 읽고 필자의 태도를 찾아내는 문제입니다.",
+        "slide_index": 2
+      },
+      {
+        "id": "c56ace86-a042-4b5b-a4b2-de449db3ded4",
+        "start_time": 27847,
+        "end_time": 33280,
+        "text": "육급 수준이고요, 유형 사 다시 이 글과 일치하는 내용 고르기와 함께",
+        "slide_index": 2
+      },
+      {
+        "id": "c2808f81-5750-4408-ae39-ce57b43a3022",
+        "start_time": 33280,
+        "end_time": 34638,
+        "text": "묶음형으로 출제됩니다.",
+        "slide_index": 2
+      },
+      {
+        "id": "2cba4657-7809-43e1-a371-64274184b364",
+        "start_time": 34638,
+        "end_time": 38557,
+        "text": "그러니까 하나의 지문을 읽고 두 문제를 풀게 되는 거죠.",
+        "slide_index": 2
+      },
+      {
+        "id": "ff3badd9-a4fe-42ea-94a7-f9f95ff50c6c",
+        "start_time": 38557,
+        "end_time": 39677,
+        "text": "핵심은 이겁니다.",
+        "slide_index": 2
+      },
+      {
+        "id": "e2b3c432-97cb-4821-be3d-e2b7bf685b9e",
+        "start_time": 39677,
+        "end_time": 44315,
+        "text": "필자가 글을 쓴 목적을 파악하면 태도도 자연스럽게 알 수 있어요.",
+        "slide_index": 2
+      },
+      {
+        "id": "d00822b6-dcf9-4bdf-a680-61ce4d69b9d0",
+        "start_time": 44315,
+        "end_time": 45435,
+        "text": "예를 들어볼게요.",
+        "slide_index": 2
+      },
+      {
+        "id": "2f48f6b2-b572-4e4e-9f43-10d307c118c1",
+        "start_time": 45435,
+        "end_time": 49434,
+        "text": "환경오염의 문제점을 알리기 위해서 쓴 글이 있다고 합시다.",
+        "slide_index": 2
+      },
+      {
+        "id": "01f0acfb-416d-4763-a346-1cf0e15d26b4",
+        "start_time": 49434,
+        "end_time": 54228,
+        "text": "환경오염이 심각해지는데 사람들이 캠페인이나 실천을 하지 않고 있다,",
+        "slide_index": 2
+      },
+      {
+        "id": "5125fd85-0291-4dbc-8b26-c57ff0cb9fca",
+        "start_time": 54228,
+        "end_time": 57186,
+        "text": "이런 내용이면 필자의 태도는 지적하고 있다,",
+        "slide_index": 2
+      },
+      {
+        "id": "c4cbc2d6-daa4-4b78-8dc4-21367efb69df",
+        "start_time": 57186,
+        "end_time": 59264,
+        "text": "또는 비판하고 있다가 되겠죠.",
+        "slide_index": 2
+      },
+      {
+        "id": "c5943f57-34cf-4c6a-8b88-4c124f78c8c3",
+        "start_time": 59264,
+        "end_time": 62382,
+        "text": "그런데 이 유형에서 가장 중요한 건 뭐냐면,",
+        "slide_index": 3
+      },
+      {
+        "id": "98afbb6d-6200-43a1-976d-e5eefc1c1305",
+        "start_time": 62382,
+        "end_time": 67736,
+        "text": "선택지에 나오는 태도 관련 어휘들을 여러분이 알고 있어야 된다는 겁니다.",
+        "slide_index": 3
+      },
+      {
+        "id": "73161c86-ad47-4f95-89ea-c7e4f371edf6",
+        "start_time": 67736,
+        "end_time": 70692,
+        "text": "지문을 열심히 읽어서 내용은 이해했는데,",
+        "slide_index": 3
+      },
+      {
+        "id": "632df923-449e-4256-bc4c-0f4010fd08ed",
+        "start_time": 70692,
+        "end_time": 74449,
+        "text": "선택지에 나온 단어를 모르면 답을 찾을 수가 없잖아요.",
+        "slide_index": 3
+      },
+      {
+        "id": "efb03e8d-5bf0-4735-9d17-18c81fe74c6e",
+        "start_time": 74449,
+        "end_time": 80763,
+        "text": "그래서 지금부터 기출문제에 자주 나왔던 태도 어휘들을 하나씩 살펴보겠습니다.",
+        "slide_index": 3
+      },
+      {
+        "id": "3b625433-8dff-4b34-84c0-cd794ff631b4",
+        "start_time": 80763,
+        "end_time": 81803,
+        "text": "먼저 가정하다.",
+        "slide_index": 3
+      },
+      {
+        "id": "bea9b231-03f5-4988-ba74-150d2db164bb",
+        "start_time": 81803,
+        "end_time": 85160,
+        "text": "이건 실제가 아닌 상황을 떠올려 보는 거예요.",
+        "slide_index": 3
+      },
+      {
+        "id": "ea54c2c3-377b-4515-b494-b0154059e6cd",
+        "start_time": 85160,
+        "end_time": 88115,
+        "text": "나는 남자인데, 만약 내가 여자라면?",
+        "slide_index": 3
+      },
+      {
+        "id": "b907501b-26f7-4b98-8898-ccc31bd5e5fa",
+        "start_time": 88115,
+        "end_time": 89554,
+        "text": "내가 새가 된다면?",
+        "slide_index": 3
+      },
+      {
+        "id": "f4765fd6-61b1-4337-ac7c-c7939b744feb",
+        "start_time": 89554,
+        "end_time": 93227,
+        "text": "이렇게 현실이 아닌 상황을 설정하는 게 가정하다입니다.",
+        "slide_index": 3
+      },
+      {
+        "id": "3d762eac-c5bd-4741-8410-0eab01afcb54",
+        "start_time": 93227,
+        "end_time": 95226,
+        "text": "다음은 감탄하다.",
+        "slide_index": 3
+      },
+      {
+        "id": "4206e060-d560-4f78-b819-531be82edcea",
+        "start_time": 95226,
+        "end_time": 99022,
+        "text": "어떤 좋은 일을 경험하고 깜짝 놀라는 걸 말하죠.",
+        "slide_index": 3
+      },
+      {
+        "id": "970301e5-c512-4571-8949-3ed190e370c3",
+        "start_time": 99022,
+        "end_time": 104339,
+        "text": "강조하다는 어떤 주장을 할 때 이것을 꼭 해야 됩니다라고 반복해서,",
+        "slide_index": 3
+      },
+      {
+        "id": "172d9ab0-902e-4bd8-82a9-0b9501d12a73",
+        "start_time": 104339,
+        "end_time": 107816,
+        "text": "다른 예를 들어가면서 계속 이야기하는 걸 말해요.",
+        "slide_index": 3
+      },
+      {
+        "id": "9be51d37-eab9-47e2-946c-32925a67763e",
+        "start_time": 107816,
+        "end_time": 107816,
+        "text": "경계하다는 위험을 알리는 거예요.",
+        "slide_index": 3
+      },
+      {
+        "id": "6daf46bd-d9b2-4f62-a058-a032024ed1a4",
+        "start_time": 107816,
+        "end_time": 107816,
+        "text": "이렇게 계속 가면 안 좋은 일이 많이 생길 겁니다,",
+        "slide_index": 3
+      },
+      {
+        "id": "b3c1be91-643f-418a-8aad-f2e28f811701",
+        "start_time": 107816,
+        "end_time": 107816,
+        "text": "그러니까 지금부터라도 실천합시다.",
+        "slide_index": 3
+      },
+      {
+        "id": "5b6004af-9693-4036-9ae9-6b84a59e74c9",
+        "start_time": 107816,
+        "end_time": 108256,
+        "text": "이런 태도가 경계하다죠.",
+        "slide_index": 3
+      },
+      {
+        "id": "7351ab60-d392-465c-b860-ce6018cb3cd4",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "공감하다는 쉽죠.",
+        "slide_index": 3
+      },
+      {
+        "id": "12bd217d-9464-46eb-8677-d9d0310b5c9f",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "나도 당신과 똑같은 생각입니다.",
+        "slide_index": 3
+      },
+      {
+        "id": "a2d41aac-9c95-4a75-b90d-1ed8176a3aa4",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "함께 느낀다는 뜻이에요.",
+        "slide_index": 3
+      },
+      {
+        "id": "234772b0-48d7-4e96-a4e8-d45c1d7a2f42",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "기대하다는 앞으로 나아질 거라는 마음,",
+        "slide_index": 3
+      },
+      {
+        "id": "9ab5bbea-0564-4590-8d44-4fa5e0ec10d9",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "그게 기대하다입니다.",
+        "slide_index": 3
+      },
+      {
+        "id": "78fa2627-72a3-4351-b290-3202091010a1",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "동정하다는 누군가를 불쌍하게 생각하는 거죠.",
+        "slide_index": 3
+      },
+      {
+        "id": "915698ff-2c2e-42dc-af54-f4a2576f387d",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "비판하다는 간단해요.",
+        "slide_index": 3
+      },
+      {
+        "id": "a8874e66-3218-49da-b967-db5366d4a9f6",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "그렇게 하면 안 됩니다라고 말하는 거죠.",
+        "slide_index": 3
+      },
+      {
+        "id": "e6b83b32-5c37-409d-844f-8c4ca7f52b5c",
+        "start_time": 108256,
+        "end_time": 110536,
+        "text": "설득하다는 의견이 다른 사람에게 대화를 통해서 내 의견을 이해시키는 거예요.",
+        "slide_index": 3
+      },
+      {
+        "id": "b19c03c0-11ec-48de-a03f-1e9df3060d7e",
+        "start_time": 110536,
+        "end_time": 111054,
+        "text": "수긍하다는 이제 이해가 된다, 나도 그렇게 생각한다.",
+        "slide_index": 3
+      },
+      {
+        "id": "e0290714-0410-4bd2-9c43-4d6a64cde6b6",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "역설하다는 주장하다와 같은 뜻으로 보시면 되고요.",
+        "slide_index": 3
+      },
+      {
+        "id": "9e4acb96-2179-4305-9d82-d3d9daf09e75",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "염려하다와 우려하다는 둘 다 걱정하다라는 뜻입니다.",
+        "slide_index": 3
+      },
+      {
+        "id": "27188ae3-d2a8-461a-8979-b45c125a9ffa",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "옹호하다는 나는 이쪽이 맞다고 생각한다,",
+        "slide_index": 3
+      },
+      {
+        "id": "ad466c1d-6bba-4b80-baa8-a7cbbdc3efc2",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "이 주장의 편이다.",
+        "slide_index": 3
+      },
+      {
+        "id": "f0bf1f1a-995b-499e-8a43-d68c9e0e841a",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "요구하다는 정부나 공공기관에 이걸 해 주세요라고 요청하는 거죠.",
+        "slide_index": 3
+      },
+      {
+        "id": "11036ba5-8d08-44ae-a047-87b1510e8e5d",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "주장하다와 강조하다의 차이도 알아둡시다.",
+        "slide_index": 3
+      },
+      {
+        "id": "9e95b92e-d373-44d7-9dbf-5d22b807ab2c",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "반복적으로 나온다면 강조하다.",
+        "slide_index": 3
+      },
+      {
+        "id": "dbfdece7-9892-467f-8a51-596f2f300ac7",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "단순하게 한 번 이야기한 거라면 주장하다.",
+        "slide_index": 3
+      },
+      {
+        "id": "70b10431-aa0b-4c3a-873f-169b9e10557b",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "제안하다는 해결책을 내놓는 거예요.",
+        "slide_index": 3
+      },
+      {
+        "id": "7e5b856a-5cb2-4b7f-a273-afb637d699f5",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "제기하다는 문제로 인식하지 못하고 있는 것을 문제로 끌어올리는 거예요.",
+        "slide_index": 3
+      },
+      {
+        "id": "507e72bc-d1f6-4b6f-9ac7-f7efa9d1ac33",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "지적하다는 그것은 잘못됐어요라고 콕 집어서 말하는 거고요.",
+        "slide_index": 3
+      },
+      {
+        "id": "d1447270-895c-40d0-ba27-aba70b7aa083",
+        "start_time": 111054,
+        "end_time": 115854,
+        "text": "평가하다는 좋다, 안 좋다 이렇게 판단을 내리는 겁니다.",
+        "slide_index": 3
+      },
+      {
+        "id": "761eeea2-cd22-45ba-b5c0-8ebc02690b3e",
+        "start_time": 115854,
+        "end_time": 150713,
+        "text": "마지막으로 회의적이다.",
+        "slide_index": 3
+      },
+      {
+        "id": "23eaeb8c-b186-49c4-b468-08f1c463b8f2",
+        "start_time": 150713,
+        "end_time": 191709,
+        "text": "약간 부정적인 입장을 취하는 게 회의적이다예요.",
+        "slide_index": 3
+      },
+      {
+        "id": "8f4d63b3-3fa4-4602-9ba5-ec26bdd796e4",
+        "start_time": 191709,
+        "end_time": 195064,
+        "text": "자, 그러면 이제 실제 문제를 통해서 확인해 봅시다.",
+        "slide_index": 4
+      },
+      {
+        "id": "6e3c9b49-4ab7-4436-89e0-82d7a118cffb",
+        "start_time": 195064,
+        "end_time": 200580,
+        "text": "먼저 선택지를 빠르게 보고, 어휘를 학습한 다음에 지문을 천천히 공부해",
+        "slide_index": 4
+      },
+      {
+        "id": "c3e62cd6-935a-4a46-9368-db65a2e12b29",
+        "start_time": 200580,
+        "end_time": 201380,
+        "text": "보겠습니다.",
+        "slide_index": 4
+      },
+      {
+        "id": "d7d23e94-07ec-4d4b-a15a-e1c0ae2dd500",
+        "start_time": 201380,
+        "end_time": 205135,
+        "text": "선택지 뒷부분만 먼저 보면, 비판하고 있다,",
+        "slide_index": 4
+      },
+      {
+        "id": "63968df5-5966-4bf7-8cf3-d0971136271f",
+        "start_time": 205135,
+        "end_time": 208892,
+        "text": "강조하고 있다, 예상하고 있다, 우려하고 있다.",
+        "slide_index": 4
+      },
+      {
+        "id": "692a6c31-d995-49ba-82b2-c157e4103559",
+        "start_time": 208892,
+        "end_time": 214325,
+        "text": "여기 나온 단어들의 뜻을 정확히 알고 차이를 구분할 수 있어야 답을 빠르게",
+        "slide_index": 4
+      },
+      {
+        "id": "10de44b0-ecf3-4d91-a2ef-5768a49922e9",
+        "start_time": 214325,
+        "end_time": 215365,
+        "text": "찾을 수 있습니다.",
+        "slide_index": 4
+      },
+      {
+        "id": "4cb8fea3-a07b-4076-ad09-2053604321fb",
+        "start_time": 215365,
+        "end_time": 219045,
+        "text": "빈곤은 명사로도 쓰고 빈곤하다로도 씁니다.",
+        "slide_index": 5
+      },
+      {
+        "id": "f437741f-0f19-42f7-b4b9-6597c59284fb",
+        "start_time": 219045,
+        "end_time": 221165,
+        "text": "가난하다라는 뜻이에요.",
+        "slide_index": 5
+      },
+      {
+        "id": "d76258fd-2328-4748-8efc-96175f687238",
+        "start_time": 221165,
+        "end_time": 226138,
+        "text": "에도 불구하고는 앞의 내용에서 기대할 수 있는 것과 다르거나 반대되는",
+        "slide_index": 5
+      },
+      {
+        "id": "b44af501-818c-49a1-8b4d-c3789172ed50",
+        "start_time": 226138,
+        "end_time": 228882,
+        "text": "사실이 뒤에 올 때 쓰는 표현이에요.",
+        "slide_index": 5
+      },
+      {
+        "id": "7d620f28-73eb-4e2e-97b5-236203de017f",
+        "start_time": 228882,
+        "end_time": 233433,
+        "text": "여력은 어떤 일을 하고 난 뒤에도 또 다른 일을 할 수 있을 만큼 남아",
+        "slide_index": 5
+      },
+      {
+        "id": "341d55b5-2526-4c4a-b0ef-8b4fc679a7d2",
+        "start_time": 233433,
+        "end_time": 235553,
+        "text": "있는 힘이나 능력을 말해요.",
+        "slide_index": 5
+      },
+      {
+        "id": "2286c5d0-678c-403f-84cd-32662ba4d477",
+        "start_time": 235553,
+        "end_time": 239429,
+        "text": "과다는 너무 많다, 지나치게 많다는 뜻이에요.",
+        "slide_index": 5
+      },
+      {
+        "id": "26cd2418-fcfd-40a8-b21c-b30774953638",
+        "start_time": 239429,
+        "end_time": 244464,
+        "text": "기인하다는 어떤 사건이나 현상의 원인을 가리킬 때 쓰는 말입니다.",
+        "slide_index": 5
+      },
+      {
+        "id": "a879f5b7-791b-4771-97f2-ffb9472d3c69",
+        "start_time": 244464,
+        "end_time": 249258,
+        "text": "고 말다는 안타깝게도 끝내 그 일이 일어났음을 나타내는 표현이에요.",
+        "slide_index": 5
+      },
+      {
+        "id": "466b262d-c163-438b-99c2-2530f12bbcd4",
+        "start_time": 249258,
+        "end_time": 254696,
+        "text": "시행하다는 법률이나 명령을 대중에게 알린 뒤 실제로 효력이 나타나게 하는",
+        "slide_index": 5
+      },
+      {
+        "id": "e7b277d9-3a59-4727-a387-826501d999d7",
+        "start_time": 254696,
+        "end_time": 255495,
+        "text": "걸 말합니다.",
+        "slide_index": 5
+      },
+      {
+        "id": "6541dfb0-9db8-4ac9-a57a-bf225577e5b1",
+        "start_time": 255495,
+        "end_time": 258615,
+        "text": "자, 배운 어휘를 간단하게 확인해 볼까요.",
+        "slide_index": 6
+      },
+      {
+        "id": "76c21739-0dfa-477d-a9f6-b7e5421f085f",
+        "start_time": 258615,
+        "end_time": 262695,
+        "text": "민준은 지갑을 들고 다니다가 결국 잃어버리고 말았다.",
+        "slide_index": 6
+      },
+      {
+        "id": "a500936f-245a-4b1f-b238-a4ade3091df9",
+        "start_time": 262695,
+        "end_time": 266452,
+        "text": "국회는 다음 달부터 새로운 법안을 시행하기로 결정했다.",
+        "slide_index": 6
+      },
+      {
+        "id": "63247344-5f08-4695-bc5e-0031d25b73dc",
+        "start_time": 266452,
+        "end_time": 271037,
+        "text": "추운 날씨에도 불구하고 공원에는 나들이 나온 가족들로 붐볐다.",
+        "slide_index": 6
+      },
+      {
+        "id": "87d96243-57bc-4f7e-b544-c9dfeceda050",
+        "start_time": 271037,
+        "end_time": 274763,
+        "text": "오늘 하루 아무것도 안 먹었더니 움직일 여력이 없다.",
+        "slide_index": 6
+      },
+      {
+        "id": "36897d2d-1451-4c43-922a-97b036ca93c6",
+        "start_time": 274763,
+        "end_time": 278401,
+        "text": "빈곤해서 난방을 못 하고 추위에 떠는 노인들이 많대요.",
+        "slide_index": 6
+      },
+      {
+        "id": "bf388289-a4aa-4520-8807-174377687f40",
+        "start_time": 278401,
+        "end_time": 282841,
+        "text": "그 교통사고는 운전자의 음주 운전에 기인한 것으로 결론이 났다.",
+        "slide_index": 6
+      },
+      {
+        "id": "326016fc-ba06-478f-a579-969d5fa961af",
+        "start_time": 282841,
+        "end_time": 285720,
+        "text": "과다한 시험 스트레스로 잠을 못 잘 지경이었다.",
+        "slide_index": 6
+      },
+      {
+        "id": "61cf78e2-8a79-4d9e-ae82-95f27690b2ed",
+        "start_time": 285720,
+        "end_time": 291638,
+        "text": "그러면 읽기 유형 십 문제를 풀 때 단계별로 어떻게 접근하는지 보겠습니다.",
+        "slide_index": 7
+      },
+      {
+        "id": "edebf18b-5d79-4b03-8763-518d3fb4da9e",
+        "start_time": 291638,
+        "end_time": 294678,
+        "text": "일 단계는 글을 쓴 목적을 파악하는 건데요,",
+        "slide_index": 7
+      },
+      {
+        "id": "04f8e872-db01-48f8-8937-ccf424ce91f3",
+        "start_time": 294678,
+        "end_time": 299310,
+        "text": "어야 하다 같은 표현이 나오면 주장하는 글이라는 걸 알 수 있죠.",
+        "slide_index": 7
+      },
+      {
+        "id": "bf9868e7-a07d-489c-a74c-079ac743e8af",
+        "start_time": 299310,
+        "end_time": 304866,
+        "text": "이 지문에서 필자는 개인의 빈곤을 국가가 해결해 주어야 한다고 주장하고",
+        "slide_index": 7
+      },
+      {
+        "id": "e2ba89e6-3ded-4c70-b059-d4a2885d07ce",
+        "start_time": 304866,
+        "end_time": 305599,
+        "text": "있어요.",
+        "slide_index": 7
+      },
+      {
+        "id": "c21b0309-2b26-4c5b-8a55-3f7b1b7e5283",
+        "start_time": 305599,
+        "end_time": 310019,
+        "text": "선택지를 살펴보면, 비판 대상이 누구인가가 중요합니다.",
+        "slide_index": 7
+      },
+      {
+        "id": "515a9836-ddd8-4b1c-8843-6d5cc207c81e",
+        "start_time": 310019,
+        "end_time": 315774,
+        "text": "최저생계비에 대해서는 직접적으로 언급하지 않았기 때문에 사번도 답이 아닙니다.",
+        "slide_index": 7
+      },
+      {
+        "id": "ffe856b4-b8ad-4b7b-893b-8dd2dc9a6160",
+        "start_time": 315774,
+        "end_time": 317132,
+        "text": "지문 해설입니다.",
+        "slide_index": 8
+      },
+      {
+        "id": "86666b88-25d5-438f-9ab7-fbfd541dc22d",
+        "start_time": 317132,
+        "end_time": 321887,
+        "text": "근로 빈곤층이란 일을 하는데도 가난한 계층의 사람들을 말합니다.",
+        "slide_index": 8
+      },
+      {
+        "id": "59ff254e-2854-4082-a3c9-6a5a3faa3aa7",
+        "start_time": 321887,
+        "end_time": 327602,
+        "text": "이 사람들은 취업을 해서 일을 하고 있음에도 불구하고 저축할 여력이 없습니다.",
+        "slide_index": 8
+      },
+      {
+        "id": "f4a959b9-5090-46aa-9fd1-81d55114771c",
+        "start_time": 327602,
+        "end_time": 331678,
+        "text": "과거에는 빈곤을 개인의 잘못에 기인하는 문제라고 여겼어요.",
+        "slide_index": 8
+      },
+      {
+        "id": "3ac4d240-293d-4a33-9eb4-d126f2380ba8",
+        "start_time": 331678,
+        "end_time": 337515,
+        "text": "하지만 오늘날의 빈곤은 개인의 범위를 넘어서서 발생하는 요인으로 확대되었습니다.",
+        "slide_index": 8
+      },
+      {
+        "id": "13ecc064-b4be-4035-a5e3-87c2b516890e",
+        "start_time": 337515,
+        "end_time": 342833,
+        "text": "그래서 필자는 국가가 나서서 제도적 장치를 만들어 줘야 한다고 말하고",
+        "slide_index": 8
+      },
+      {
+        "id": "68099037-1328-495f-82d1-f9ccd62e0bbb",
+        "start_time": 342833,
+        "end_time": 343433,
+        "text": "있어요.",
+        "slide_index": 8
+      },
+      {
+        "id": "b60fb19a-fd8b-48d7-96fd-c76cbc90dcfe",
+        "start_time": 343433,
+        "end_time": 345991,
+        "text": "답을 찾아보면 이번이 됩니다.",
+        "slide_index": 8
+      },
+      {
+        "id": "6c950bef-eb1b-44fc-b1af-0aae1fb6d6bf",
+        "start_time": 345991,
+        "end_time": 350788,
+        "text": "오늘 사차시에서는 읽기 유형 십, 필자의 태도에 관한 어휘를 고르는 유형을",
+        "slide_index": 9
+      },
+      {
+        "id": "d8fc4319-764e-4bb8-919c-943d8f78470f",
+        "start_time": 350788,
+        "end_time": 354463,
+        "text": "학습했고, 관련 어휘도 자세하게 공부했습니다.",
+        "slide_index": 9
+      },
+      {
+        "id": "20188d15-a5cc-42d4-91fc-ba382609652c",
+        "start_time": 354463,
+        "end_time": 357421,
+        "text": "그리고 단계별로 문제 푸는 연습도 해 봤고요.",
+        "slide_index": 9
+      },
+      {
+        "id": "177c9a9a-1949-4295-befb-a4e8d36a7528",
+        "start_time": 357421,
+        "end_time": 360057,
+        "text": "과제는 오늘 배운 유형을 복습하는 거예요.",
+        "slide_index": 10
+      },
+      {
+        "id": "30970288-44de-4dbd-a5a5-b5ec862539d4",
+        "start_time": 360057,
+        "end_time": 365413,
+        "text": "모르는 단어와 표현은 사전을 찾아서 공책에 한번 정리해 보시면 좋겠습니다.",
+        "slide_index": 10
+      },
+      {
+        "id": "c81bce64-1033-4d3d-aa97-6ec8948a23a7",
+        "start_time": 365413,
+        "end_time": 368452,
+        "text": "다음 차시부터는 쓰기 특강으로 넘어갑니다.",
+        "slide_index": 10
+      },
+      {
+        "id": "7a48bf17-17b6-4a08-8ab1-4797fe4223ab",
+        "start_time": 368452,
+        "end_time": 372286,
+        "text": "오십삼번 유형에서는 표 또는 그래프를 분석하고,",
+        "slide_index": 10
+      },
+      {
+        "id": "874febbb-5465-4a8c-8581-dfef52cdb539",
+        "start_time": 372286,
+        "end_time": 375963,
+        "text": "오십사번 유형에서는 주제에 대한 글쓰기를 배웁니다.",
+        "slide_index": 10
+      },
+      {
+        "id": "7037a644-c149-4c5c-898b-354806033efb",
+        "start_time": 375963,
+        "end_time": 378921,
+        "text": "그리고 원고지 사용법도 함께 배울 거예요.",
+        "slide_index": 10
+      },
+      {
+        "id": "6e3685e0-ae2b-4460-9705-f0bd4e877586",
+        "start_time": 378921,
+        "end_time": 381720,
+        "text": "여러분 그동안 고생 많이 하셨습니다.",
+        "slide_index": 11
+      },
+      {
+        "id": "f6b3b86b-2791-40a9-8acc-fab4168fd2e7",
+        "start_time": 381720,
+        "end_time": 382516,
+        "text": "감사합니다.",
+        "slide_index": 11
+      }
+    ]
+  },
+  "chat_history": [],
+  "narration": {
+    "voice_id": "BB1SDpm98Oo457i5kVdG",
+    "model_id": "eleven_v3",
+    "segments": [
+      {
+        "slide_index": 0,
+        "text": "네, 여러분 안녕하세요. 사차시 수업 시작하겠습니다.",
+        "start_time": 0,
+        "end_time": 3678,
+        "audio_file": "/static/media/tts/0638aeba-0ddb-41e2-8be8-61e6031c7369/slide_00.mp3"
+      },
+      {
+        "slide_index": 1,
+        "text": "오늘은 필자의 태도에 대한 다양한 어휘를 배워볼 건데요, 읽기 유형 십번, 필자의 태도 고르기 유형을 함께 살펴보겠습니다. 먼저 유형을 확인하고 관련 어휘를 학습한 다음에, 실제 문제를 같이 풀어보는 순서로 진행할게요.",
+        "start_time": 3678,
+        "end_time": 18260,
+        "audio_file": "/static/media/tts/0638aeba-0ddb-41e2-8be8-61e6031c7369/slide_01.mp3"
+      },
+      {
+        "slide_index": 2,
+        "text": "자, 읽기 유형 십은 어떤 문제인지 한번 살펴볼까요. 이건 논설문, 그러니까 주장하는 글을 읽고 필자의 태도를 찾아내는 문제입니다. 육급 수준이고요, 유형 사 다시 이 글과 일치하는 내용 고르기와 함께 묶음형으로 출제됩니다. 그러니까 하나의 지문을 읽고 두 문제를 풀게 되는 거죠. 핵심은 이겁니다. 필자가 글을 쓴 목적을 파악하면 태도도 자연스럽게 알 수 있어요. 예를 들어볼게요. 환경오염의 문제점을 알리기 위해서 쓴 글이 있다고 합시다. 환경오염이 심각해지는데 사람들이 캠페인이나 실천을 하지 않고 있다, 이런 내용이면 필자의 태도는 지적하고 있다, 또는 비판하고 있다가 되겠죠.",
+        "start_time": 18260,
+        "end_time": 59264,
+        "audio_file": "/static/media/tts/0638aeba-0ddb-41e2-8be8-61e6031c7369/slide_02.mp3"
+      },
+      {
+        "slide_index": 3,
+        "text": "그런데 이 유형에서 가장 중요한 건 뭐냐면, 선택지에 나오는 태도 관련 어휘들을 여러분이 알고 있어야 된다는 겁니다. 지문을 열심히 읽어서 내용은 이해했는데, 선택지에 나온 단어를 모르면 답을 찾을 수가 없잖아요. 그래서 지금부터 기출문제에 자주 나왔던 태도 어휘들을 하나씩 살펴보겠습니다.\n먼저 가정하다. 이건 실제가 아닌 상황을 떠올려 보는 거예요. 나는 남자인데, 만약 내가 여자라면? 내가 새가 된다면? 이렇게 현실이 아닌 상황을 설정하는 게 가정하다입니다.\n다음은 감탄하다. 어떤 좋은 일을 경험하고 깜짝 놀라는 걸 말하죠.\n강조하다는 어떤 주장을 할 때 이것을 꼭 해야 됩니다라고 반복해서, 다른 예를 들어가면서 계속 이야기하는 걸 말해요.\n경계하다는 위험을 알리는 거예요. 이렇게 계속 가면 안 좋은 일이 많이 생길 겁니다, 그러니까 지금부터라도 실천합시다. 이런 태도가 경계하다죠.\n공감하다는 쉽죠. 나도 당신과 똑같은 생각입니다. 함께 느낀다는 뜻이에요.\n기대하다는 앞으로 나아질 거라는 마음, 그게 기대하다입니다.\n동정하다는 누군가를 불쌍하게 생각하는 거죠.\n비판하다는 간단해요. 그렇게 하면 안 됩니다라고 말하는 거죠.\n설득하다는 의견이 다른 사람에게 대화를 통해서 내 의견을 이해시키는 거예요.\n수긍하다는 이제 이해가 된다, 나도 그렇게 생각한다.\n역설하다는 주장하다와 같은 뜻으로 보시면 되고요.\n염려하다와 우려하다는 둘 다 걱정하다라는 뜻입니다.\n옹호하다는 나는 이쪽이 맞다고 생각한다, 이 주장의 편이다.\n요구하다는 정부나 공공기관에 이걸 해 주세요라고 요청하는 거죠.\n주장하다와 강조하다의 차이도 알아둡시다. 반복적으로 나온다면 강조하다. 단순하게 한 번 이야기한 거라면 주장하다.\n제안하다는 해결책을 내놓는 거예요.\n제기하다는 문제로 인식하지 못하고 있는 것을 문제로 끌어올리는 거예요.\n지적하다는 그것은 잘못됐어요라고 콕 집어서 말하는 거고요.\n평가하다는 좋다, 안 좋다 이렇게 판단을 내리는 겁니다.\n마지막으로 회의적이다. 약간 부정적인 입장을 취하는 게 회의적이다예요.",
+        "start_time": 59264,
+        "end_time": 191709,
+        "audio_file": "/static/media/tts/0638aeba-0ddb-41e2-8be8-61e6031c7369/slide_03.mp3"
+      },
+      {
+        "slide_index": 4,
+        "text": "자, 그러면 이제 실제 문제를 통해서 확인해 봅시다. 먼저 선택지를 빠르게 보고, 어휘를 학습한 다음에 지문을 천천히 공부해 보겠습니다. 선택지 뒷부분만 먼저 보면, 비판하고 있다, 강조하고 있다, 예상하고 있다, 우려하고 있다. 여기 나온 단어들의 뜻을 정확히 알고 차이를 구분할 수 있어야 답을 빠르게 찾을 수 있습니다.",
+        "start_time": 191709,
+        "end_time": 215365,
+        "audio_file": "/static/media/tts/0638aeba-0ddb-41e2-8be8-61e6031c7369/slide_04.mp3"
+      },
+      {
+        "slide_index": 5,
+        "text": "빈곤은 명사로도 쓰고 빈곤하다로도 씁니다. 가난하다라는 뜻이에요.\n에도 불구하고는 앞의 내용에서 기대할 수 있는 것과 다르거나 반대되는 사실이 뒤에 올 때 쓰는 표현이에요.\n여력은 어떤 일을 하고 난 뒤에도 또 다른 일을 할 수 있을 만큼 남아 있는 힘이나 능력을 말해요.\n과다는 너무 많다, 지나치게 많다는 뜻이에요.\n기인하다는 어떤 사건이나 현상의 원인을 가리킬 때 쓰는 말입니다.\n고 말다는 안타깝게도 끝내 그 일이 일어났음을 나타내는 표현이에요.\n시행하다는 법률이나 명령을 대중에게 알린 뒤 실제로 효력이 나타나게 하는 걸 말합니다.",
+        "start_time": 215365,
+        "end_time": 255495,
+        "audio_file": "/static/media/tts/0638aeba-0ddb-41e2-8be8-61e6031c7369/slide_05.mp3"
+      },
+      {
+        "slide_index": 6,
+        "text": "자, 배운 어휘를 간단하게 확인해 볼까요.\n민준은 지갑을 들고 다니다가 결국 잃어버리고 말았다.\n국회는 다음 달부터 새로운 법안을 시행하기로 결정했다.\n추운 날씨에도 불구하고 공원에는 나들이 나온 가족들로 붐볐다.\n오늘 하루 아무것도 안 먹었더니 움직일 여력이 없다.\n빈곤해서 난방을 못 하고 추위에 떠는 노인들이 많대요.\n그 교통사고는 운전자의 음주 운전에 기인한 것으로 결론이 났다.\n과다한 시험 스트레스로 잠을 못 잘 지경이었다.",
+        "start_time": 255495,
+        "end_time": 285720,
+        "audio_file": "/static/media/tts/0638aeba-0ddb-41e2-8be8-61e6031c7369/slide_06.mp3"
+      },
+      {
+        "slide_index": 7,
+        "text": "그러면 읽기 유형 십 문제를 풀 때 단계별로 어떻게 접근하는지 보겠습니다. 일 단계는 글을 쓴 목적을 파악하는 건데요, 어야 하다 같은 표현이 나오면 주장하는 글이라는 걸 알 수 있죠. 이 지문에서 필자는 개인의 빈곤을 국가가 해결해 주어야 한다고 주장하고 있어요.\n선택지를 살펴보면, 비판 대상이 누구인가가 중요합니다. 최저생계비에 대해서는 직접적으로 언급하지 않았기 때문에 사번도 답이 아닙니다.",
+        "start_time": 285720,
+        "end_time": 315774,
+        "audio_file": "/static/media/tts/0638aeba-0ddb-41e2-8be8-61e6031c7369/slide_07.mp3"
+      },
+      {
+        "slide_index": 8,
+        "text": "지문 해설입니다. 근로 빈곤층이란 일을 하는데도 가난한 계층의 사람들을 말합니다.\n이 사람들은 취업을 해서 일을 하고 있음에도 불구하고 저축할 여력이 없습니다.\n과거에는 빈곤을 개인의 잘못에 기인하는 문제라고 여겼어요. 하지만 오늘날의 빈곤은 개인의 범위를 넘어서서 발생하는 요인으로 확대되었습니다.\n그래서 필자는 국가가 나서서 제도적 장치를 만들어 줘야 한다고 말하고 있어요. 답을 찾아보면 이번이 됩니다.",
+        "start_time": 315774,
+        "end_time": 345991,
+        "audio_file": "/static/media/tts/0638aeba-0ddb-41e2-8be8-61e6031c7369/slide_08.mp3"
+      },
+      {
+        "slide_index": 9,
+        "text": "오늘 사차시에서는 읽기 유형 십, 필자의 태도에 관한 어휘를 고르는 유형을 학습했고, 관련 어휘도 자세하게 공부했습니다. 그리고 단계별로 문제 푸는 연습도 해 봤고요.",
+        "start_time": 345991,
+        "end_time": 357421,
+        "audio_file": "/static/media/tts/0638aeba-0ddb-41e2-8be8-61e6031c7369/slide_09.mp3"
+      },
+      {
+        "slide_index": 10,
+        "text": "과제는 오늘 배운 유형을 복습하는 거예요. 모르는 단어와 표현은 사전을 찾아서 공책에 한번 정리해 보시면 좋겠습니다. 다음 차시부터는 쓰기 특강으로 넘어갑니다. 오십삼번 유형에서는 표 또는 그래프를 분석하고, 오십사번 유형에서는 주제에 대한 글쓰기를 배웁니다. 그리고 원고지 사용법도 함께 배울 거예요.",
+        "start_time": 357421,
+        "end_time": 378921,
+        "audio_file": "/static/media/tts/0638aeba-0ddb-41e2-8be8-61e6031c7369/slide_10.mp3"
+      },
+      {
+        "slide_index": 11,
+        "text": "여러분 그동안 고생 많이 하셨습니다. 감사합니다.",
+        "start_time": 378921,
+        "end_time": 382516,
+        "audio_file": "/static/media/tts/0638aeba-0ddb-41e2-8be8-61e6031c7369/slide_11.mp3"
+      }
+    ],
+    "audio_url": "/static/media/tts/0638aeba-0ddb-41e2-8be8-61e6031c7369/narration_full.mp3",
+    "subtitles": [
+      {
+        "id": "88ef445c-6476-48b5-8af6-a698b48d045f",
+        "start_time": 0,
+        "end_time": 1360,
+        "text": "네, 여러분 안녕하세요.",
+        "slide_index": 0
+      },
+      {
+        "id": "d3dbfdb5-e44b-4e5c-922a-65215a373b1b",
+        "start_time": 1360,
+        "end_time": 3678,
+        "text": "사차시 수업 시작하겠습니다.",
+        "slide_index": 0
+      },
+      {
+        "id": "70736662-4058-4a7b-a839-e6bc3049ecc1",
+        "start_time": 3678,
+        "end_time": 7116,
+        "text": "오늘은 필자의 태도에 대한 다양한 어휘를 배워볼 건데요,",
+        "slide_index": 1
+      },
+      {
+        "id": "c97bc59f-f04f-4ccb-ac27-699480fde929",
+        "start_time": 7116,
+        "end_time": 11874,
+        "text": "읽기 유형 십번, 필자의 태도 고르기 유형을 함께 살펴보겠습니다.",
+        "slide_index": 1
+      },
+      {
+        "id": "19aa2391-2a1a-489e-aa79-d3652cc06e03",
+        "start_time": 11874,
+        "end_time": 15227,
+        "text": "먼저 유형을 확인하고 관련 어휘를 학습한 다음에,",
+        "slide_index": 1
+      },
+      {
+        "id": "e43364b2-a1aa-46c3-9e01-6fc50187d4ec",
+        "start_time": 15227,
+        "end_time": 18260,
+        "text": "실제 문제를 같이 풀어보는 순서로 진행할게요.",
+        "slide_index": 1
+      },
+      {
+        "id": "d4b516ab-3231-4b87-8cef-05e3160bacaf",
+        "start_time": 18260,
+        "end_time": 21933,
+        "text": "자, 읽기 유형 십은 어떤 문제인지 한번 살펴볼까요.",
+        "slide_index": 2
+      },
+      {
+        "id": "e5500fa1-a265-4024-869a-3f427145844c",
+        "start_time": 21933,
+        "end_time": 27847,
+        "text": "이건 논설문, 그러니까 주장하는 글을 읽고 필자의 태도를 찾아내는 문제입니다.",
+        "slide_index": 2
+      },
+      {
+        "id": "c56ace86-a042-4b5b-a4b2-de449db3ded4",
+        "start_time": 27847,
+        "end_time": 33280,
+        "text": "육급 수준이고요, 유형 사 다시 이 글과 일치하는 내용 고르기와 함께",
+        "slide_index": 2
+      },
+      {
+        "id": "c2808f81-5750-4408-ae39-ce57b43a3022",
+        "start_time": 33280,
+        "end_time": 34638,
+        "text": "묶음형으로 출제됩니다.",
+        "slide_index": 2
+      },
+      {
+        "id": "2cba4657-7809-43e1-a371-64274184b364",
+        "start_time": 34638,
+        "end_time": 38557,
+        "text": "그러니까 하나의 지문을 읽고 두 문제를 풀게 되는 거죠.",
+        "slide_index": 2
+      },
+      {
+        "id": "ff3badd9-a4fe-42ea-94a7-f9f95ff50c6c",
+        "start_time": 38557,
+        "end_time": 39677,
+        "text": "핵심은 이겁니다.",
+        "slide_index": 2
+      },
+      {
+        "id": "e2b3c432-97cb-4821-be3d-e2b7bf685b9e",
+        "start_time": 39677,
+        "end_time": 44315,
+        "text": "필자가 글을 쓴 목적을 파악하면 태도도 자연스럽게 알 수 있어요.",
+        "slide_index": 2
+      },
+      {
+        "id": "d00822b6-dcf9-4bdf-a680-61ce4d69b9d0",
+        "start_time": 44315,
+        "end_time": 45435,
+        "text": "예를 들어볼게요.",
+        "slide_index": 2
+      },
+      {
+        "id": "2f48f6b2-b572-4e4e-9f43-10d307c118c1",
+        "start_time": 45435,
+        "end_time": 49434,
+        "text": "환경오염의 문제점을 알리기 위해서 쓴 글이 있다고 합시다.",
+        "slide_index": 2
+      },
+      {
+        "id": "01f0acfb-416d-4763-a346-1cf0e15d26b4",
+        "start_time": 49434,
+        "end_time": 54228,
+        "text": "환경오염이 심각해지는데 사람들이 캠페인이나 실천을 하지 않고 있다,",
+        "slide_index": 2
+      },
+      {
+        "id": "5125fd85-0291-4dbc-8b26-c57ff0cb9fca",
+        "start_time": 54228,
+        "end_time": 57186,
+        "text": "이런 내용이면 필자의 태도는 지적하고 있다,",
+        "slide_index": 2
+      },
+      {
+        "id": "c4cbc2d6-daa4-4b78-8dc4-21367efb69df",
+        "start_time": 57186,
+        "end_time": 59264,
+        "text": "또는 비판하고 있다가 되겠죠.",
+        "slide_index": 2
+      },
+      {
+        "id": "c5943f57-34cf-4c6a-8b88-4c124f78c8c3",
+        "start_time": 59264,
+        "end_time": 62382,
+        "text": "그런데 이 유형에서 가장 중요한 건 뭐냐면,",
+        "slide_index": 3
+      },
+      {
+        "id": "98afbb6d-6200-43a1-976d-e5eefc1c1305",
+        "start_time": 62382,
+        "end_time": 67736,
+        "text": "선택지에 나오는 태도 관련 어휘들을 여러분이 알고 있어야 된다는 겁니다.",
+        "slide_index": 3
+      },
+      {
+        "id": "73161c86-ad47-4f95-89ea-c7e4f371edf6",
+        "start_time": 67736,
+        "end_time": 70692,
+        "text": "지문을 열심히 읽어서 내용은 이해했는데,",
+        "slide_index": 3
+      },
+      {
+        "id": "632df923-449e-4256-bc4c-0f4010fd08ed",
+        "start_time": 70692,
+        "end_time": 74449,
+        "text": "선택지에 나온 단어를 모르면 답을 찾을 수가 없잖아요.",
+        "slide_index": 3
+      },
+      {
+        "id": "efb03e8d-5bf0-4735-9d17-18c81fe74c6e",
+        "start_time": 74449,
+        "end_time": 80763,
+        "text": "그래서 지금부터 기출문제에 자주 나왔던 태도 어휘들을 하나씩 살펴보겠습니다.",
+        "slide_index": 3
+      },
+      {
+        "id": "3b625433-8dff-4b34-84c0-cd794ff631b4",
+        "start_time": 80763,
+        "end_time": 81803,
+        "text": "먼저 가정하다.",
+        "slide_index": 3
+      },
+      {
+        "id": "bea9b231-03f5-4988-ba74-150d2db164bb",
+        "start_time": 81803,
+        "end_time": 85160,
+        "text": "이건 실제가 아닌 상황을 떠올려 보는 거예요.",
+        "slide_index": 3
+      },
+      {
+        "id": "ea54c2c3-377b-4515-b494-b0154059e6cd",
+        "start_time": 85160,
+        "end_time": 88115,
+        "text": "나는 남자인데, 만약 내가 여자라면?",
+        "slide_index": 3
+      },
+      {
+        "id": "b907501b-26f7-4b98-8898-ccc31bd5e5fa",
+        "start_time": 88115,
+        "end_time": 89554,
+        "text": "내가 새가 된다면?",
+        "slide_index": 3
+      },
+      {
+        "id": "f4765fd6-61b1-4337-ac7c-c7939b744feb",
+        "start_time": 89554,
+        "end_time": 93227,
+        "text": "이렇게 현실이 아닌 상황을 설정하는 게 가정하다입니다.",
+        "slide_index": 3
+      },
+      {
+        "id": "3d762eac-c5bd-4741-8410-0eab01afcb54",
+        "start_time": 93227,
+        "end_time": 95226,
+        "text": "다음은 감탄하다.",
+        "slide_index": 3
+      },
+      {
+        "id": "4206e060-d560-4f78-b819-531be82edcea",
+        "start_time": 95226,
+        "end_time": 99022,
+        "text": "어떤 좋은 일을 경험하고 깜짝 놀라는 걸 말하죠.",
+        "slide_index": 3
+      },
+      {
+        "id": "970301e5-c512-4571-8949-3ed190e370c3",
+        "start_time": 99022,
+        "end_time": 104339,
+        "text": "강조하다는 어떤 주장을 할 때 이것을 꼭 해야 됩니다라고 반복해서,",
+        "slide_index": 3
+      },
+      {
+        "id": "172d9ab0-902e-4bd8-82a9-0b9501d12a73",
+        "start_time": 104339,
+        "end_time": 107816,
+        "text": "다른 예를 들어가면서 계속 이야기하는 걸 말해요.",
+        "slide_index": 3
+      },
+      {
+        "id": "9be51d37-eab9-47e2-946c-32925a67763e",
+        "start_time": 107816,
+        "end_time": 107816,
+        "text": "경계하다는 위험을 알리는 거예요.",
+        "slide_index": 3
+      },
+      {
+        "id": "6daf46bd-d9b2-4f62-a058-a032024ed1a4",
+        "start_time": 107816,
+        "end_time": 107816,
+        "text": "이렇게 계속 가면 안 좋은 일이 많이 생길 겁니다,",
+        "slide_index": 3
+      },
+      {
+        "id": "b3c1be91-643f-418a-8aad-f2e28f811701",
+        "start_time": 107816,
+        "end_time": 107816,
+        "text": "그러니까 지금부터라도 실천합시다.",
+        "slide_index": 3
+      },
+      {
+        "id": "5b6004af-9693-4036-9ae9-6b84a59e74c9",
+        "start_time": 107816,
+        "end_time": 108256,
+        "text": "이런 태도가 경계하다죠.",
+        "slide_index": 3
+      },
+      {
+        "id": "7351ab60-d392-465c-b860-ce6018cb3cd4",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "공감하다는 쉽죠.",
+        "slide_index": 3
+      },
+      {
+        "id": "12bd217d-9464-46eb-8677-d9d0310b5c9f",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "나도 당신과 똑같은 생각입니다.",
+        "slide_index": 3
+      },
+      {
+        "id": "a2d41aac-9c95-4a75-b90d-1ed8176a3aa4",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "함께 느낀다는 뜻이에요.",
+        "slide_index": 3
+      },
+      {
+        "id": "234772b0-48d7-4e96-a4e8-d45c1d7a2f42",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "기대하다는 앞으로 나아질 거라는 마음,",
+        "slide_index": 3
+      },
+      {
+        "id": "9ab5bbea-0564-4590-8d44-4fa5e0ec10d9",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "그게 기대하다입니다.",
+        "slide_index": 3
+      },
+      {
+        "id": "78fa2627-72a3-4351-b290-3202091010a1",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "동정하다는 누군가를 불쌍하게 생각하는 거죠.",
+        "slide_index": 3
+      },
+      {
+        "id": "915698ff-2c2e-42dc-af54-f4a2576f387d",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "비판하다는 간단해요.",
+        "slide_index": 3
+      },
+      {
+        "id": "a8874e66-3218-49da-b967-db5366d4a9f6",
+        "start_time": 108256,
+        "end_time": 108256,
+        "text": "그렇게 하면 안 됩니다라고 말하는 거죠.",
+        "slide_index": 3
+      },
+      {
+        "id": "e6b83b32-5c37-409d-844f-8c4ca7f52b5c",
+        "start_time": 108256,
+        "end_time": 110536,
+        "text": "설득하다는 의견이 다른 사람에게 대화를 통해서 내 의견을 이해시키는 거예요.",
+        "slide_index": 3
+      },
+      {
+        "id": "b19c03c0-11ec-48de-a03f-1e9df3060d7e",
+        "start_time": 110536,
+        "end_time": 111054,
+        "text": "수긍하다는 이제 이해가 된다, 나도 그렇게 생각한다.",
+        "slide_index": 3
+      },
+      {
+        "id": "e0290714-0410-4bd2-9c43-4d6a64cde6b6",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "역설하다는 주장하다와 같은 뜻으로 보시면 되고요.",
+        "slide_index": 3
+      },
+      {
+        "id": "9e4acb96-2179-4305-9d82-d3d9daf09e75",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "염려하다와 우려하다는 둘 다 걱정하다라는 뜻입니다.",
+        "slide_index": 3
+      },
+      {
+        "id": "27188ae3-d2a8-461a-8979-b45c125a9ffa",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "옹호하다는 나는 이쪽이 맞다고 생각한다,",
+        "slide_index": 3
+      },
+      {
+        "id": "ad466c1d-6bba-4b80-baa8-a7cbbdc3efc2",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "이 주장의 편이다.",
+        "slide_index": 3
+      },
+      {
+        "id": "f0bf1f1a-995b-499e-8a43-d68c9e0e841a",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "요구하다는 정부나 공공기관에 이걸 해 주세요라고 요청하는 거죠.",
+        "slide_index": 3
+      },
+      {
+        "id": "11036ba5-8d08-44ae-a047-87b1510e8e5d",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "주장하다와 강조하다의 차이도 알아둡시다.",
+        "slide_index": 3
+      },
+      {
+        "id": "9e95b92e-d373-44d7-9dbf-5d22b807ab2c",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "반복적으로 나온다면 강조하다.",
+        "slide_index": 3
+      },
+      {
+        "id": "dbfdece7-9892-467f-8a51-596f2f300ac7",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "단순하게 한 번 이야기한 거라면 주장하다.",
+        "slide_index": 3
+      },
+      {
+        "id": "70b10431-aa0b-4c3a-873f-169b9e10557b",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "제안하다는 해결책을 내놓는 거예요.",
+        "slide_index": 3
+      },
+      {
+        "id": "7e5b856a-5cb2-4b7f-a273-afb637d699f5",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "제기하다는 문제로 인식하지 못하고 있는 것을 문제로 끌어올리는 거예요.",
+        "slide_index": 3
+      },
+      {
+        "id": "507e72bc-d1f6-4b6f-9ac7-f7efa9d1ac33",
+        "start_time": 111054,
+        "end_time": 111054,
+        "text": "지적하다는 그것은 잘못됐어요라고 콕 집어서 말하는 거고요.",
+        "slide_index": 3
+      },
+      {
+        "id": "d1447270-895c-40d0-ba27-aba70b7aa083",
+        "start_time": 111054,
+        "end_time": 115854,
+        "text": "평가하다는 좋다, 안 좋다 이렇게 판단을 내리는 겁니다.",
+        "slide_index": 3
+      },
+      {
+        "id": "761eeea2-cd22-45ba-b5c0-8ebc02690b3e",
+        "start_time": 115854,
+        "end_time": 150713,
+        "text": "마지막으로 회의적이다.",
+        "slide_index": 3
+      },
+      {
+        "id": "23eaeb8c-b186-49c4-b468-08f1c463b8f2",
+        "start_time": 150713,
+        "end_time": 191709,
+        "text": "약간 부정적인 입장을 취하는 게 회의적이다예요.",
+        "slide_index": 3
+      },
+      {
+        "id": "8f4d63b3-3fa4-4602-9ba5-ec26bdd796e4",
+        "start_time": 191709,
+        "end_time": 195064,
+        "text": "자, 그러면 이제 실제 문제를 통해서 확인해 봅시다.",
+        "slide_index": 4
+      },
+      {
+        "id": "6e3c9b49-4ab7-4436-89e0-82d7a118cffb",
+        "start_time": 195064,
+        "end_time": 200580,
+        "text": "먼저 선택지를 빠르게 보고, 어휘를 학습한 다음에 지문을 천천히 공부해",
+        "slide_index": 4
+      },
+      {
+        "id": "c3e62cd6-935a-4a46-9368-db65a2e12b29",
+        "start_time": 200580,
+        "end_time": 201380,
+        "text": "보겠습니다.",
+        "slide_index": 4
+      },
+      {
+        "id": "d7d23e94-07ec-4d4b-a15a-e1c0ae2dd500",
+        "start_time": 201380,
+        "end_time": 205135,
+        "text": "선택지 뒷부분만 먼저 보면, 비판하고 있다,",
+        "slide_index": 4
+      },
+      {
+        "id": "63968df5-5966-4bf7-8cf3-d0971136271f",
+        "start_time": 205135,
+        "end_time": 208892,
+        "text": "강조하고 있다, 예상하고 있다, 우려하고 있다.",
+        "slide_index": 4
+      },
+      {
+        "id": "692a6c31-d995-49ba-82b2-c157e4103559",
+        "start_time": 208892,
+        "end_time": 214325,
+        "text": "여기 나온 단어들의 뜻을 정확히 알고 차이를 구분할 수 있어야 답을 빠르게",
+        "slide_index": 4
+      },
+      {
+        "id": "10de44b0-ecf3-4d91-a2ef-5768a49922e9",
+        "start_time": 214325,
+        "end_time": 215365,
+        "text": "찾을 수 있습니다.",
+        "slide_index": 4
+      },
+      {
+        "id": "4cb8fea3-a07b-4076-ad09-2053604321fb",
+        "start_time": 215365,
+        "end_time": 219045,
+        "text": "빈곤은 명사로도 쓰고 빈곤하다로도 씁니다.",
+        "slide_index": 5
+      },
+      {
+        "id": "f437741f-0f19-42f7-b4b9-6597c59284fb",
+        "start_time": 219045,
+        "end_time": 221165,
+        "text": "가난하다라는 뜻이에요.",
+        "slide_index": 5
+      },
+      {
+        "id": "d76258fd-2328-4748-8efc-96175f687238",
+        "start_time": 221165,
+        "end_time": 226138,
+        "text": "에도 불구하고는 앞의 내용에서 기대할 수 있는 것과 다르거나 반대되는",
+        "slide_index": 5
+      },
+      {
+        "id": "b44af501-818c-49a1-8b4d-c3789172ed50",
+        "start_time": 226138,
+        "end_time": 228882,
+        "text": "사실이 뒤에 올 때 쓰는 표현이에요.",
+        "slide_index": 5
+      },
+      {
+        "id": "7d620f28-73eb-4e2e-97b5-236203de017f",
+        "start_time": 228882,
+        "end_time": 233433,
+        "text": "여력은 어떤 일을 하고 난 뒤에도 또 다른 일을 할 수 있을 만큼 남아",
+        "slide_index": 5
+      },
+      {
+        "id": "341d55b5-2526-4c4a-b0ef-8b4fc679a7d2",
+        "start_time": 233433,
+        "end_time": 235553,
+        "text": "있는 힘이나 능력을 말해요.",
+        "slide_index": 5
+      },
+      {
+        "id": "2286c5d0-678c-403f-84cd-32662ba4d477",
+        "start_time": 235553,
+        "end_time": 239429,
+        "text": "과다는 너무 많다, 지나치게 많다는 뜻이에요.",
+        "slide_index": 5
+      },
+      {
+        "id": "26cd2418-fcfd-40a8-b21c-b30774953638",
+        "start_time": 239429,
+        "end_time": 244464,
+        "text": "기인하다는 어떤 사건이나 현상의 원인을 가리킬 때 쓰는 말입니다.",
+        "slide_index": 5
+      },
+      {
+        "id": "a879f5b7-791b-4771-97f2-ffb9472d3c69",
+        "start_time": 244464,
+        "end_time": 249258,
+        "text": "고 말다는 안타깝게도 끝내 그 일이 일어났음을 나타내는 표현이에요.",
+        "slide_index": 5
+      },
+      {
+        "id": "466b262d-c163-438b-99c2-2530f12bbcd4",
+        "start_time": 249258,
+        "end_time": 254696,
+        "text": "시행하다는 법률이나 명령을 대중에게 알린 뒤 실제로 효력이 나타나게 하는",
+        "slide_index": 5
+      },
+      {
+        "id": "e7b277d9-3a59-4727-a387-826501d999d7",
+        "start_time": 254696,
+        "end_time": 255495,
+        "text": "걸 말합니다.",
+        "slide_index": 5
+      },
+      {
+        "id": "6541dfb0-9db8-4ac9-a57a-bf225577e5b1",
+        "start_time": 255495,
+        "end_time": 258615,
+        "text": "자, 배운 어휘를 간단하게 확인해 볼까요.",
+        "slide_index": 6
+      },
+      {
+        "id": "76c21739-0dfa-477d-a9f6-b7e5421f085f",
+        "start_time": 258615,
+        "end_time": 262695,
+        "text": "민준은 지갑을 들고 다니다가 결국 잃어버리고 말았다.",
+        "slide_index": 6
+      },
+      {
+        "id": "a500936f-245a-4b1f-b238-a4ade3091df9",
+        "start_time": 262695,
+        "end_time": 266452,
+        "text": "국회는 다음 달부터 새로운 법안을 시행하기로 결정했다.",
+        "slide_index": 6
+      },
+      {
+        "id": "63247344-5f08-4695-bc5e-0031d25b73dc",
+        "start_time": 266452,
+        "end_time": 271037,
+        "text": "추운 날씨에도 불구하고 공원에는 나들이 나온 가족들로 붐볐다.",
+        "slide_index": 6
+      },
+      {
+        "id": "87d96243-57bc-4f7e-b544-c9dfeceda050",
+        "start_time": 271037,
+        "end_time": 274763,
+        "text": "오늘 하루 아무것도 안 먹었더니 움직일 여력이 없다.",
+        "slide_index": 6
+      },
+      {
+        "id": "36897d2d-1451-4c43-922a-97b036ca93c6",
+        "start_time": 274763,
+        "end_time": 278401,
+        "text": "빈곤해서 난방을 못 하고 추위에 떠는 노인들이 많대요.",
+        "slide_index": 6
+      },
+      {
+        "id": "bf388289-a4aa-4520-8807-174377687f40",
+        "start_time": 278401,
+        "end_time": 282841,
+        "text": "그 교통사고는 운전자의 음주 운전에 기인한 것으로 결론이 났다.",
+        "slide_index": 6
+      },
+      {
+        "id": "326016fc-ba06-478f-a579-969d5fa961af",
+        "start_time": 282841,
+        "end_time": 285720,
+        "text": "과다한 시험 스트레스로 잠을 못 잘 지경이었다.",
+        "slide_index": 6
+      },
+      {
+        "id": "61cf78e2-8a79-4d9e-ae82-95f27690b2ed",
+        "start_time": 285720,
+        "end_time": 291638,
+        "text": "그러면 읽기 유형 십 문제를 풀 때 단계별로 어떻게 접근하는지 보겠습니다.",
+        "slide_index": 7
+      },
+      {
+        "id": "edebf18b-5d79-4b03-8763-518d3fb4da9e",
+        "start_time": 291638,
+        "end_time": 294678,
+        "text": "일 단계는 글을 쓴 목적을 파악하는 건데요,",
+        "slide_index": 7
+      },
+      {
+        "id": "04f8e872-db01-48f8-8937-ccf424ce91f3",
+        "start_time": 294678,
+        "end_time": 299310,
+        "text": "어야 하다 같은 표현이 나오면 주장하는 글이라는 걸 알 수 있죠.",
+        "slide_index": 7
+      },
+      {
+        "id": "bf9868e7-a07d-489c-a74c-079ac743e8af",
+        "start_time": 299310,
+        "end_time": 304866,
+        "text": "이 지문에서 필자는 개인의 빈곤을 국가가 해결해 주어야 한다고 주장하고",
+        "slide_index": 7
+      },
+      {
+        "id": "e2ba89e6-3ded-4c70-b059-d4a2885d07ce",
+        "start_time": 304866,
+        "end_time": 305599,
+        "text": "있어요.",
+        "slide_index": 7
+      },
+      {
+        "id": "c21b0309-2b26-4c5b-8a55-3f7b1b7e5283",
+        "start_time": 305599,
+        "end_time": 310019,
+        "text": "선택지를 살펴보면, 비판 대상이 누구인가가 중요합니다.",
+        "slide_index": 7
+      },
+      {
+        "id": "515a9836-ddd8-4b1c-8843-6d5cc207c81e",
+        "start_time": 310019,
+        "end_time": 315774,
+        "text": "최저생계비에 대해서는 직접적으로 언급하지 않았기 때문에 사번도 답이 아닙니다.",
+        "slide_index": 7
+      },
+      {
+        "id": "ffe856b4-b8ad-4b7b-893b-8dd2dc9a6160",
+        "start_time": 315774,
+        "end_time": 317132,
+        "text": "지문 해설입니다.",
+        "slide_index": 8
+      },
+      {
+        "id": "86666b88-25d5-438f-9ab7-fbfd541dc22d",
+        "start_time": 317132,
+        "end_time": 321887,
+        "text": "근로 빈곤층이란 일을 하는데도 가난한 계층의 사람들을 말합니다.",
+        "slide_index": 8
+      },
+      {
+        "id": "59ff254e-2854-4082-a3c9-6a5a3faa3aa7",
+        "start_time": 321887,
+        "end_time": 327602,
+        "text": "이 사람들은 취업을 해서 일을 하고 있음에도 불구하고 저축할 여력이 없습니다.",
+        "slide_index": 8
+      },
+      {
+        "id": "f4a959b9-5090-46aa-9fd1-81d55114771c",
+        "start_time": 327602,
+        "end_time": 331678,
+        "text": "과거에는 빈곤을 개인의 잘못에 기인하는 문제라고 여겼어요.",
+        "slide_index": 8
+      },
+      {
+        "id": "3ac4d240-293d-4a33-9eb4-d126f2380ba8",
+        "start_time": 331678,
+        "end_time": 337515,
+        "text": "하지만 오늘날의 빈곤은 개인의 범위를 넘어서서 발생하는 요인으로 확대되었습니다.",
+        "slide_index": 8
+      },
+      {
+        "id": "13ecc064-b4be-4035-a5e3-87c2b516890e",
+        "start_time": 337515,
+        "end_time": 342833,
+        "text": "그래서 필자는 국가가 나서서 제도적 장치를 만들어 줘야 한다고 말하고",
+        "slide_index": 8
+      },
+      {
+        "id": "68099037-1328-495f-82d1-f9ccd62e0bbb",
+        "start_time": 342833,
+        "end_time": 343433,
+        "text": "있어요.",
+        "slide_index": 8
+      },
+      {
+        "id": "b60fb19a-fd8b-48d7-96fd-c76cbc90dcfe",
+        "start_time": 343433,
+        "end_time": 345991,
+        "text": "답을 찾아보면 이번이 됩니다.",
+        "slide_index": 8
+      },
+      {
+        "id": "6c950bef-eb1b-44fc-b1af-0aae1fb6d6bf",
+        "start_time": 345991,
+        "end_time": 350788,
+        "text": "오늘 사차시에서는 읽기 유형 십, 필자의 태도에 관한 어휘를 고르는 유형을",
+        "slide_index": 9
+      },
+      {
+        "id": "d8fc4319-764e-4bb8-919c-943d8f78470f",
+        "start_time": 350788,
+        "end_time": 354463,
+        "text": "학습했고, 관련 어휘도 자세하게 공부했습니다.",
+        "slide_index": 9
+      },
+      {
+        "id": "20188d15-a5cc-42d4-91fc-ba382609652c",
+        "start_time": 354463,
+        "end_time": 357421,
+        "text": "그리고 단계별로 문제 푸는 연습도 해 봤고요.",
+        "slide_index": 9
+      },
+      {
+        "id": "177c9a9a-1949-4295-befb-a4e8d36a7528",
+        "start_time": 357421,
+        "end_time": 360057,
+        "text": "과제는 오늘 배운 유형을 복습하는 거예요.",
+        "slide_index": 10
+      },
+      {
+        "id": "30970288-44de-4dbd-a5a5-b5ec862539d4",
+        "start_time": 360057,
+        "end_time": 365413,
+        "text": "모르는 단어와 표현은 사전을 찾아서 공책에 한번 정리해 보시면 좋겠습니다.",
+        "slide_index": 10
+      },
+      {
+        "id": "c81bce64-1033-4d3d-aa97-6ec8948a23a7",
+        "start_time": 365413,
+        "end_time": 368452,
+        "text": "다음 차시부터는 쓰기 특강으로 넘어갑니다.",
+        "slide_index": 10
+      },
+      {
+        "id": "7a48bf17-17b6-4a08-8ab1-4797fe4223ab",
+        "start_time": 368452,
+        "end_time": 372286,
+        "text": "오십삼번 유형에서는 표 또는 그래프를 분석하고,",
+        "slide_index": 10
+      },
+      {
+        "id": "874febbb-5465-4a8c-8581-dfef52cdb539",
+        "start_time": 372286,
+        "end_time": 375963,
+        "text": "오십사번 유형에서는 주제에 대한 글쓰기를 배웁니다.",
+        "slide_index": 10
+      },
+      {
+        "id": "7037a644-c149-4c5c-898b-354806033efb",
+        "start_time": 375963,
+        "end_time": 378921,
+        "text": "그리고 원고지 사용법도 함께 배울 거예요.",
+        "slide_index": 10
+      },
+      {
+        "id": "6e3685e0-ae2b-4460-9705-f0bd4e877586",
+        "start_time": 378921,
+        "end_time": 381720,
+        "text": "여러분 그동안 고생 많이 하셨습니다.",
+        "slide_index": 11
+      },
+      {
+        "id": "f6b3b86b-2791-40a9-8acc-fab4168fd2e7",
+        "start_time": 381720,
+        "end_time": 382516,
+        "text": "감사합니다.",
+        "slide_index": 11
+      }
+    ],
+    "generated_at": "2026-03-25T22:40:32.866041"
+  }
+}

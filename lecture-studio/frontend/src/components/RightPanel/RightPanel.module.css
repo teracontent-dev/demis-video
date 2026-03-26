@@ -1,0 +1,87 @@
+.panel {
+  grid-row: 2;
+  grid-column: 3;
+  display: flex;
+  flex-direction: column;
+  border-left: 1px solid var(--border-default);
+  background: var(--bg-primary);
+  overflow: hidden;
+}
+
+.collapsed {
+  grid-row: 2;
+  grid-column: 3;
+  width: 0;
+  position: relative;
+}
+
+.tabBar {
+  display: flex;
+  align-items: center;
+  height: 40px;
+  border-bottom: 1px solid var(--border-default);
+  padding: 0 var(--space-4);
+  gap: var(--space-4);
+}
+
+.tab {
+  height: 32px;
+  padding: 0 var(--space-12);
+  border: none;
+  border-radius: var(--radius-xs);
+  background: transparent;
+  font-size: var(--typo-t7-size);
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: background var(--duration-fast) var(--ease-out-expo),
+    color var(--duration-fast) var(--ease-out-expo);
+}
+
+.tab:hover {
+  background: var(--bg-tertiary);
+}
+
+.tabActive {
+  color: var(--accent-primary);
+  font-weight: 600;
+}
+
+.toggleBtn {
+  margin-left: auto;
+  width: 28px;
+  height: 28px;
+  border: none;
+  border-radius: var(--radius-xs);
+  background: transparent;
+  cursor: pointer;
+  font-size: 12px;
+  color: var(--text-tertiary);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.toggleBtn:hover {
+  background: var(--bg-tertiary);
+}
+
+.content {
+  flex: 1;
+  overflow: hidden;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.contentPadded {
+  flex: 1;
+  padding: var(--space-16);
+  overflow-y: auto;
+}
+
+.placeholder {
+  font-size: var(--typo-t6-size);
+  color: var(--text-tertiary);
+  text-align: center;
+  margin-top: var(--space-48);
+}

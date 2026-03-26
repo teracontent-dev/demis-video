@@ -1,0 +1,1756 @@
+{
+  "id": "7d483adc-e38d-4793-896c-c09214ff480c",
+  "title": "새 강의",
+  "created_at": "2026-03-26T14:17:13.148661",
+  "updated_at": "2026-03-26T14:17:13.293101",
+  "settings": {
+    "resolution": [
+      1920,
+      1080
+    ],
+    "fps": 30,
+    "font_family": "Pretendard Variable",
+    "export_preset": "standard"
+  },
+  "script": {
+    "type": "doc",
+    "content": []
+  },
+  "slides": [
+    {
+      "id": "tpl-lp-1",
+      "order": 0,
+      "duration": 5000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "lp1-accent",
+          "type": "shape",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "width": 8,
+            "height": 1080
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 1,
+          "style": {
+            "backgroundColor": "#2563eb",
+            "borderRadius": "0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideRight",
+              "duration": 600,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp1-tag",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 340,
+            "width": 300,
+            "height": 32
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "15px",
+            "fontWeight": "600",
+            "color": "#2563eb",
+            "textAlign": "left",
+            "letterSpacing": "3px"
+          },
+          "content": "PRODUCT LAUNCH 2024",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp1-title",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 380,
+            "width": 900,
+            "height": 140
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "68px",
+            "fontWeight": "800",
+            "color": "#0f172a",
+            "textAlign": "left",
+            "lineHeight": "1.1"
+          },
+          "content": "더 나은 경험을\n디자인하다",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 600,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp1-sub",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 550,
+            "width": 700,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "22px",
+            "fontWeight": "400",
+            "color": "#64748b",
+            "textAlign": "left"
+          },
+          "content": "사용자 중심의 혁신적 솔루션으로 비즈니스를 성장시키세요.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp1-circle",
+          "type": "shape",
+          "position": {
+            "x": 1300,
+            "y": 200,
+            "width": 500,
+            "height": 500
+          },
+          "rotation": 0,
+          "opacity": 0.06,
+          "zIndex": 1,
+          "style": {
+            "backgroundColor": "#2563eb",
+            "borderRadius": "50%"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 800,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp1-circle2",
+          "type": "shape",
+          "position": {
+            "x": 1450,
+            "y": 350,
+            "width": 300,
+            "height": 300
+          },
+          "rotation": 0,
+          "opacity": 0.1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#2563eb",
+            "borderRadius": "50%"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 800,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp1-date",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 900,
+            "width": 300,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "500",
+            "color": "#94a3b8",
+            "textAlign": "left"
+          },
+          "content": "2024.03 — Confidential",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": "타이틀 슬라이드"
+    },
+    {
+      "id": "tpl-lp-2",
+      "order": 1,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#f8fafc"
+      },
+      "elements": [
+        {
+          "id": "lp2-tag",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 80,
+            "width": 200,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#ef4444",
+            "textAlign": "left",
+            "letterSpacing": "2px"
+          },
+          "content": "PROBLEM",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-title",
+          "type": "text",
+          "position": {
+            "x": 120,
+            "y": 115,
+            "width": 800,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "700",
+            "color": "#0f172a",
+            "textAlign": "left"
+          },
+          "content": "기존 방식의 한계",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c1",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 240,
+            "width": 520,
+            "height": 160
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "16px",
+            "borderColor": "#e2e8f0",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c1-num",
+          "type": "text",
+          "position": {
+            "x": 150,
+            "y": 260,
+            "width": 50,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "32px",
+            "fontWeight": "800",
+            "color": "#ef4444",
+            "textAlign": "left"
+          },
+          "content": "01",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c1-t",
+          "type": "text",
+          "position": {
+            "x": 220,
+            "y": 265,
+            "width": 380,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "20px",
+            "fontWeight": "600",
+            "color": "#0f172a",
+            "textAlign": "left"
+          },
+          "content": "복잡한 워크플로우",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c1-d",
+          "type": "text",
+          "position": {
+            "x": 220,
+            "y": 305,
+            "width": 380,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "color": "#64748b",
+            "textAlign": "left"
+          },
+          "content": "평균 12단계의 프로세스를 거쳐야 하나의 작업이 완료됩니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c2",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 430,
+            "width": 520,
+            "height": 160
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "16px",
+            "borderColor": "#e2e8f0",
+            "borderWidth": 1
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c2-num",
+          "type": "text",
+          "position": {
+            "x": 150,
+            "y": 450,
+            "width": 50,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "32px",
+            "fontWeight": "800",
+            "color": "#ef4444",
+            "textAlign": "left"
+          },
+          "content": "02",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c2-t",
+          "type": "text",
+          "position": {
+            "x": 220,
+            "y": 455,
+            "width": 380,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "20px",
+            "fontWeight": "600",
+            "color": "#0f172a",
+            "textAlign": "left"
+          },
+          "content": "데이터 사일로",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-c2-d",
+          "type": "text",
+          "position": {
+            "x": 220,
+            "y": 495,
+            "width": 380,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "color": "#64748b",
+            "textAlign": "left"
+          },
+          "content": "팀 간 정보가 공유되지 않아 의사결정이 지연됩니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-stat",
+          "type": "text",
+          "position": {
+            "x": 900,
+            "y": 280,
+            "width": 800,
+            "height": 200
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "160px",
+            "fontWeight": "900",
+            "color": "#0f172a",
+            "textAlign": "center"
+          },
+          "content": "73%",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp2-stat-d",
+          "type": "text",
+          "position": {
+            "x": 950,
+            "y": 490,
+            "width": 700,
+            "height": 40
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "center"
+          },
+          "content": "의 기업이 비효율적 프로세스로 인한\n생산성 저하를 경험하고 있습니다",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "slide-left",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-lp-3",
+      "order": 2,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "lp3-tag",
+          "type": "text",
+          "position": {
+            "x": 660,
+            "y": 80,
+            "width": 600,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#2563eb",
+            "textAlign": "center",
+            "letterSpacing": "2px"
+          },
+          "content": "SOLUTION",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-title",
+          "type": "text",
+          "position": {
+            "x": 310,
+            "y": 115,
+            "width": 1300,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "700",
+            "color": "#0f172a",
+            "textAlign": "center"
+          },
+          "content": "핵심 기능 3가지",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c1",
+          "type": "shape",
+          "position": {
+            "x": 120,
+            "y": 250,
+            "width": 520,
+            "height": 440
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f0f7ff",
+            "borderRadius": "20px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c1-icon",
+          "type": "shape",
+          "position": {
+            "x": 180,
+            "y": 300,
+            "width": 64,
+            "height": 64
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#2563eb",
+            "borderRadius": "16px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 300,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c1-t",
+          "type": "text",
+          "position": {
+            "x": 180,
+            "y": 390,
+            "width": 400,
+            "height": 35
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#0f172a",
+            "textAlign": "left"
+          },
+          "content": "자동화 엔진",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c1-d",
+          "type": "text",
+          "position": {
+            "x": 180,
+            "y": 440,
+            "width": 400,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "color": "#64748b",
+            "textAlign": "left",
+            "lineHeight": "1.6"
+          },
+          "content": "반복 작업을 자동화하고\n12단계 → 3단계로\n프로세스를 단순화합니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c2",
+          "type": "shape",
+          "position": {
+            "x": 700,
+            "y": 250,
+            "width": 520,
+            "height": 440
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#fef3f2",
+            "borderRadius": "20px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c2-icon",
+          "type": "shape",
+          "position": {
+            "x": 760,
+            "y": 300,
+            "width": 64,
+            "height": 64
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#ef4444",
+            "borderRadius": "16px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 300,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c2-t",
+          "type": "text",
+          "position": {
+            "x": 760,
+            "y": 390,
+            "width": 400,
+            "height": 35
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#0f172a",
+            "textAlign": "left"
+          },
+          "content": "실시간 협업",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c2-d",
+          "type": "text",
+          "position": {
+            "x": 760,
+            "y": 440,
+            "width": 400,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "color": "#64748b",
+            "textAlign": "left",
+            "lineHeight": "1.6"
+          },
+          "content": "모든 팀원이 하나의\n워크스페이스에서 실시간으로\n함께 작업합니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c3",
+          "type": "shape",
+          "position": {
+            "x": 1280,
+            "y": 250,
+            "width": 520,
+            "height": 440
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 2,
+          "style": {
+            "backgroundColor": "#f0fdf4",
+            "borderRadius": "20px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c3-icon",
+          "type": "shape",
+          "position": {
+            "x": 1340,
+            "y": 300,
+            "width": 64,
+            "height": 64
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#16a34a",
+            "borderRadius": "16px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c3-t",
+          "type": "text",
+          "position": {
+            "x": 1340,
+            "y": 390,
+            "width": 400,
+            "height": 35
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "700",
+            "color": "#0f172a",
+            "textAlign": "left"
+          },
+          "content": "AI 인사이트",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp3-c3-d",
+          "type": "text",
+          "position": {
+            "x": 1340,
+            "y": 440,
+            "width": 400,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "color": "#64748b",
+            "textAlign": "left",
+            "lineHeight": "1.6"
+          },
+          "content": "데이터를 자동 분석하여\n핵심 인사이트와 액션\n아이템을 제안합니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "slide-left",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-lp-4",
+      "order": 3,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#ffffff"
+      },
+      "elements": [
+        {
+          "id": "lp4-tag",
+          "type": "text",
+          "position": {
+            "x": 660,
+            "y": 80,
+            "width": 600,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#2563eb",
+            "textAlign": "center",
+            "letterSpacing": "2px"
+          },
+          "content": "RESULTS",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-title",
+          "type": "text",
+          "position": {
+            "x": 310,
+            "y": 115,
+            "width": 1300,
+            "height": 60
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "44px",
+            "fontWeight": "700",
+            "color": "#0f172a",
+            "textAlign": "center"
+          },
+          "content": "도입 후 변화",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-line",
+          "type": "shape",
+          "position": {
+            "x": 760,
+            "y": 200,
+            "width": 400,
+            "height": 2
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#e2e8f0",
+            "borderRadius": "1px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 150,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-n1",
+          "type": "text",
+          "position": {
+            "x": 100,
+            "y": 300,
+            "width": 400,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "96px",
+            "fontWeight": "900",
+            "color": "#2563eb",
+            "textAlign": "center"
+          },
+          "content": "3x",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 500,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-d1",
+          "type": "text",
+          "position": {
+            "x": 100,
+            "y": 430,
+            "width": 400,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "center"
+          },
+          "content": "업무 처리 속도 향상",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 350,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-n2",
+          "type": "text",
+          "position": {
+            "x": 560,
+            "y": 300,
+            "width": 400,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "96px",
+            "fontWeight": "900",
+            "color": "#ef4444",
+            "textAlign": "center"
+          },
+          "content": "-67%",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 500,
+              "delay": 300,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-d2",
+          "type": "text",
+          "position": {
+            "x": 560,
+            "y": 430,
+            "width": 400,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "center"
+          },
+          "content": "운영 비용 절감",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 450,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-n3",
+          "type": "text",
+          "position": {
+            "x": 1020,
+            "y": 300,
+            "width": 400,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "96px",
+            "fontWeight": "900",
+            "color": "#16a34a",
+            "textAlign": "center"
+          },
+          "content": "98%",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 500,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-d3",
+          "type": "text",
+          "position": {
+            "x": 1020,
+            "y": 430,
+            "width": 400,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "500",
+            "color": "#64748b",
+            "textAlign": "center"
+          },
+          "content": "고객 만족도",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-b1",
+          "type": "shape",
+          "position": {
+            "x": 200,
+            "y": 700,
+            "width": 160,
+            "height": 80
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#dbeafe",
+            "borderRadius": "8px 8px 0 0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-b2",
+          "type": "shape",
+          "position": {
+            "x": 420,
+            "y": 640,
+            "width": 160,
+            "height": 140
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#93c5fd",
+            "borderRadius": "8px 8px 0 0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 550,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-b3",
+          "type": "shape",
+          "position": {
+            "x": 640,
+            "y": 560,
+            "width": 160,
+            "height": 220
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#60a5fa",
+            "borderRadius": "8px 8px 0 0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp4-b4",
+          "type": "shape",
+          "position": {
+            "x": 860,
+            "y": 500,
+            "width": 160,
+            "height": 280
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 3,
+          "style": {
+            "backgroundColor": "#2563eb",
+            "borderRadius": "8px 8px 0 0"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 400,
+              "delay": 650,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-lp-5",
+      "order": 4,
+      "duration": 6000,
+      "background": {
+        "type": "solid",
+        "value": "#f8fafc"
+      },
+      "elements": [
+        {
+          "id": "lp5-tag",
+          "type": "text",
+          "position": {
+            "x": 660,
+            "y": 80,
+            "width": 600,
+            "height": 28
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "14px",
+            "fontWeight": "600",
+            "color": "#2563eb",
+            "textAlign": "center",
+            "letterSpacing": "2px"
+          },
+          "content": "TESTIMONIAL",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp5-quote-mark",
+          "type": "text",
+          "position": {
+            "x": 300,
+            "y": 180,
+            "width": 150,
+            "height": 150
+          },
+          "rotation": 0,
+          "opacity": 0.08,
+          "zIndex": 1,
+          "style": {
+            "fontSize": "200px",
+            "fontWeight": "900",
+            "color": "#2563eb",
+            "textAlign": "center"
+          },
+          "content": "\"",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp5-quote",
+          "type": "text",
+          "position": {
+            "x": 310,
+            "y": 300,
+            "width": 1300,
+            "height": 120
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "36px",
+            "fontWeight": "400",
+            "color": "#0f172a",
+            "textAlign": "center",
+            "lineHeight": "1.6"
+          },
+          "content": "도입 후 팀의 생산성이 눈에 띄게 향상되었습니다.\n무엇보다 팀원들이 반복 작업에서 벗어나\n창의적인 업무에 집중할 수 있게 된 점이 가장 큰 변화입니다.",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 600,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp5-line",
+          "type": "shape",
+          "position": {
+            "x": 880,
+            "y": 500,
+            "width": 160,
+            "height": 3
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#2563eb",
+            "borderRadius": "2px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp5-author",
+          "type": "text",
+          "position": {
+            "x": 310,
+            "y": 540,
+            "width": 1300,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "18px",
+            "fontWeight": "600",
+            "color": "#0f172a",
+            "textAlign": "center"
+          },
+          "content": "김지현 — CTO, 넥스트테크",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp5-role",
+          "type": "text",
+          "position": {
+            "x": 310,
+            "y": 575,
+            "width": 1300,
+            "height": 25
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "15px",
+            "fontWeight": "400",
+            "color": "#94a3b8",
+            "textAlign": "center"
+          },
+          "content": "Series B · 직원 120명 · SaaS",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 650,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "duration": 600,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    },
+    {
+      "id": "tpl-lp-6",
+      "order": 5,
+      "duration": 5000,
+      "background": {
+        "type": "solid",
+        "value": "#2563eb"
+      },
+      "elements": [
+        {
+          "id": "lp6-title",
+          "type": "text",
+          "position": {
+            "x": 260,
+            "y": 320,
+            "width": 1400,
+            "height": 100
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "64px",
+            "fontWeight": "800",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "지금 시작하세요",
+          "animation": {
+            "enter": {
+              "type": "slideUp",
+              "duration": 600,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp6-sub",
+          "type": "text",
+          "position": {
+            "x": 460,
+            "y": 440,
+            "width": 1000,
+            "height": 50
+          },
+          "rotation": 0,
+          "opacity": 0.8,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "24px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "14일 무료 체험 · 신용카드 불필요 · 5분 만에 설정 완료",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 500,
+              "delay": 200,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp6-btn",
+          "type": "shape",
+          "position": {
+            "x": 760,
+            "y": 540,
+            "width": 400,
+            "height": 64
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 5,
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "32px"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 400,
+              "delay": 400,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp6-btn-text",
+          "type": "text",
+          "position": {
+            "x": 760,
+            "y": 550,
+            "width": 400,
+            "height": 44
+          },
+          "rotation": 0,
+          "opacity": 1,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "20px",
+            "fontWeight": "700",
+            "color": "#2563eb",
+            "textAlign": "center"
+          },
+          "content": "무료 체험 시작하기 →",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 300,
+              "delay": 500,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp6-contact",
+          "type": "text",
+          "position": {
+            "x": 660,
+            "y": 680,
+            "width": 600,
+            "height": 30
+          },
+          "rotation": 0,
+          "opacity": 0.6,
+          "zIndex": 10,
+          "style": {
+            "fontSize": "16px",
+            "fontWeight": "400",
+            "color": "#ffffff",
+            "textAlign": "center"
+          },
+          "content": "hello@product.com · product.com",
+          "animation": {
+            "enter": {
+              "type": "fadeIn",
+              "duration": 400,
+              "delay": 600,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp6-deco1",
+          "type": "shape",
+          "position": {
+            "x": -100,
+            "y": -100,
+            "width": 400,
+            "height": 400
+          },
+          "rotation": 0,
+          "opacity": 0.1,
+          "zIndex": 1,
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "50%"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 800,
+              "delay": 0,
+              "easing": "ease-out"
+            }
+          }
+        },
+        {
+          "id": "lp6-deco2",
+          "type": "shape",
+          "position": {
+            "x": 1600,
+            "y": 700,
+            "width": 500,
+            "height": 500
+          },
+          "rotation": 0,
+          "opacity": 0.08,
+          "zIndex": 1,
+          "style": {
+            "backgroundColor": "#ffffff",
+            "borderRadius": "50%"
+          },
+          "content": "",
+          "animation": {
+            "enter": {
+              "type": "scaleIn",
+              "duration": 800,
+              "delay": 100,
+              "easing": "ease-out"
+            }
+          }
+        }
+      ],
+      "transition": {
+        "type": "scale",
+        "duration": 500,
+        "easing": "ease-out"
+      },
+      "notes": ""
+    }
+  ],
+  "timeline": {
+    "total_duration": 0,
+    "audio_tracks": [],
+    "subtitle_track": []
+  },
+  "narration": null,
+  "chat_history": []
+}
